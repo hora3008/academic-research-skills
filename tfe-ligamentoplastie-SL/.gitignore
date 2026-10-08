@@ -2,3 +2,9 @@
 material_passport.yaml
 material_passport_run_ledger.yaml
 .material_passport_run_ledger.yaml.lock
+# Search exports and screening work files carry publishers' abstracts: kept local, not redistributed
+etape1_recherche/phase2/exports/*.nbib
+etape1_recherche/phase2/exports/*.csv
+etape1_recherche/phase2/tri/sr_work/records.json
+etape1_recherche/phase2/tri/sr_work/raw_records.json
+etape1_recherche/phase2/tri/sr_work/batches/

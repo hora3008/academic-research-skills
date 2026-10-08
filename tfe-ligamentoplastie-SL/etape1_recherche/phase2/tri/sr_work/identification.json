@@ -1,0 +1,46 @@
+{
+ "tool": "sr-screener 1.0.0",
+ "files": [
+  {
+   "file": "europepmc_2026-10-08.csv",
+   "format": "csv",
+   "records": 466,
+   "databases": {
+    "Europe PMC": 466
+   }
+  },
+  {
+   "file": "pedro_2026-10-08.csv",
+   "format": "csv",
+   "records": 4,
+   "databases": {
+    "PEDro": 4
+   }
+  },
+  {
+   "file": "pubmed_2026-10-08.nbib",
+   "format": "medline",
+   "records": 531,
+   "databases": {
+    "PubMed/MEDLINE": 531
+   }
+  }
+ ],
+ "by_database": {
+  "Europe PMC": 466,
+  "PEDro": 4,
+  "PubMed/MEDLINE": 531
+ },
+ "raw_total": 1001,
+ "unique_total": 562,
+ "duplicates_removed": 439,
+ "no_abstract": 7,
+ "overlap": {
+  "Europe PMC + PubMed/MEDLINE": 439,
+  "Europe PMC": 27,
+  "PEDro": 4,
+  "PubMed/MEDLINE": 92
+ },
+ "batches": 13,
+ "max_record_lines": 44
+}

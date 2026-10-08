@@ -1,7 +1,7 @@
-# Protocole de revue systématique (PRISMA-P 2015) · version 1.0 (brouillon)
+# Protocole de revue systématique (PRISMA-P 2015) · version 1.0
 
 > Produit par `deep-research`, mode `systematic-review`, phase 1 (`research_question_agent` et `research_architect_agent`), à partir du modèle `deep-research/templates/prisma_protocol_template.md`.
-> Statut : **brouillon à confirmer par l'auteur.** Les points marqués ⟨choix⟩ attendent ta décision. Une fois confirmé, ce protocole est **figé** : toute modification ultérieure est consignée dans le tableau des amendements.
+> Statut : **confirmé par l'auteur (Maes) le 2026-10-08.** Le protocole est figé : toute modification ultérieure est consignée dans le tableau des amendements. Les points que l'auteur n'a pas modifiés (exceptions antérieures à 2020, vérification des extractions, références méthodologiques) sont appliqués tels que proposés.
 > Ce document remplace le *Methodology Blueprint* (fichier 02 précédent), conservé pour l'historique.
 
 ---
@@ -13,14 +13,14 @@
 **Protocoles de rééducation après reconstruction chirurgicale du ligament scapho-lunaire chez l'adulte : protocole de revue systématique**
 *(EN : Postoperative rehabilitation after surgical scapholunate ligament reconstruction in adults: a systematic review protocol)*
 
-Enregistrement : ⟨choix⟩ (a) OSF Registries avant le début de la recherche ; (b) pas d'enregistrement, déclaré comme limite.
+Enregistrement : **OSF Registries, au nom de Maes** (démarche faite par l'auteur ; numéro d'enregistrement et date à reporter ici). La recherche documentaire a commencé le 2026-10-08. L'enregistrement intervient avant le tri et l'extraction des données ; l'écart entre ces dates sera rapporté.
 
 ### Auteurs et contributions
 
 | # | Rôle | Contribution |
 |---|---|---|
-| 1 | Auteur principal et garant ⟨nom à compléter⟩ | Choix du protocole, validation du tri, vérification des extractions, interprétation, rédaction finale |
-| 2 | Second relecteur humain ⟨choix⟩ : camarade (optionnel) | Tri indépendant d'un échantillon aléatoire (voir *Sélection*) |
+| 1 | Auteur principal et garant : **Maes** | Choix du protocole, validation du tri, vérification des extractions, interprétation, rédaction finale |
+| 2 | Second relecteur humain : **aucun** (décision de l'auteur, déclarée comme limite) | — |
 | — | Assistance IA (non-auteur) : Claude (Anthropic) via la bibliothèque *academic-research-skills* | Exécution des recherches, tri par deux relecteurs IA en aveugle et un arbitre IA, pré-extraction avec localisateurs, pré-évaluation du risque de biais, aide à la rédaction. Chaque usage est déclaré (PRISMA-trAIce, contrôlé aux étapes 2.5 et 4.5 du pipeline). |
 
 ### Amendements
@@ -74,7 +74,7 @@ Chez l'adulte opéré d'une reconstruction ou réparation du ligament scapho-lun
 | Critère | Inclusion | Exclusion |
 |---|---|---|
 | **Type d'étude** | Essais randomisés ou quasi randomisés ; études comparatives non randomisées ; cohortes prospectives ou rétrospectives ; séries de cas d'au moins 5 patients | Cas cliniques (< 5 patients), notes techniques sans résultats de patients, études cadavériques, biomécaniques ou d'imagerie seule, revues, éditoriaux, protocoles sans résultats |
-| **Date de publication** | 2020-01-01 → date de la recherche (**2020 inclus**, UC-001) | Avant 2020. ⟨choix⟩ proposition : **pas d'exception pour les études incluses**, pour garder un critère fixe et reproductible ; l'exception UC-002 s'applique seulement aux chapitres de contexte |
+| **Date de publication** | 2020-01-01 → date de la recherche (**2020 inclus**, UC-001) | Avant 2020. **Pas d'exception pour les études incluses**, pour garder un critère fixe et reproductible ; l'exception UC-002 s'applique seulement aux chapitres de contexte |
 | **Langue** | Anglais, français, néerlandais, allemand, espagnol | Autres langues (nombre d'exclusions rapporté) |
 | **Statut de publication** | Articles publiés avec relecture par les pairs, en texte intégral | Résumés de congrès seuls, prépublications |
 | **Contexte** | Tout pays, tout milieu de soins | — |
@@ -112,7 +112,7 @@ Une étude qui ne décrit pas son protocole post-opératoire est exclue (motif �
 | PEDro | ✅ accessible | Essais et revues en kinésithérapie |
 | ClinicalTrials.gov | ✅ accessible | Essais non publiés, contrôle des résultats sélectifs |
 | TRIP Database + sites des sociétés savantes (FESSH, ASSH, ASHT, SFCM/GEMMSOR), HAS, KCE | ✅ (TRIP) | Recommandations officielles (objectif secondaire 3) |
-| Embase, Scopus, Web of Science, CINAHL, Cochrane CENTRAL | ⟨choix⟩ seulement via l'accès de ton école ; tu me fournis les exports (RIS/CSV) | Couverture complémentaire. *Cochrane est bloqué depuis cette session.* |
+| Embase, Scopus, Web of Science, CINAHL, Cochrane CENTRAL | ❌ **pas d'accès** (déclaré par l'auteur) | Non interrogées : limite déclarée, compensée par Europe PMC, PEDro et la recherche par citations |
 | Listes de références des études incluses, et articles qui les citent | ✅ (Crossref, OpenAlex, Semantic Scholar) | Recherche par citations, en amont et en aval |
 
 ### Stratégie de recherche (PubMed, brouillon)
@@ -137,18 +137,18 @@ Taille estimée (test du 2026-10-08) : environ 160 à 310 notices PubMed avant t
 ### Gestion des notices et sélection
 
 1. **Gestion :** exports RIS ou .nbib de chaque base ; fusion et dédoublonnage avec les scripts de `sr-screener` ; journal de tri exportable (Excel ou CSV).
-2. **Tri titre et résumé, puis texte intégral** ⟨choix⟩. Option proposée :
+2. **Tri titre et résumé, puis texte intégral**, avec `sr-screener` (choix de l'auteur) :
    - deux relecteurs IA en aveugle (`sr-screener` : relecteur A « expert du contenu », relecteur B « méthodologiste ») et un arbitre IA en cas de désaccord ;
    - contrôle qualité automatique : nouvelle vérification des exclusions communes et des cas limites, accord kappa et PABAK ;
    - **toi, tu valides toutes les inclusions et un échantillon aléatoire des exclusions.**
-   - La bibliothèque le rappelle : les relecteurs IA assistent, ils ne remplacent pas un second relecteur humain. Si un camarade accepte, il trie indépendamment un échantillon aléatoire de 20 % (accord rapporté par un kappa).
-3. **Pilote :** 50 notices triées avant le tri complet, pour calibrer les critères. Tu valides le rapport de calibration.
+   - La bibliothèque le rappelle : les relecteurs IA assistent, ils ne remplacent pas un second relecteur humain. Il n'y a pas de second relecteur humain : c'est une limite déclarée.
+3. **Pilote :** avant le tri complet, l'auteur classe lui-même un échantillon de notices (règle de `sr-screener` : les décisions IA sont comparées à ses étiquettes), et le tri complet ne démarre que si l'IA n'a exclu aucune notice que l'auteur retient.
 4. **Documentation :** motif d'exclusion codé et ordonné pour chaque texte intégral exclu ; diagramme de flux PRISMA 2020.
 
 ### Extraction des données
 
 - Formulaire standardisé (voir *Données extraites*), testé sur 3 études.
-- Pré-extraction par l'IA avec **localisateur** (page, tableau ou section) pour chaque donnée. ⟨choix⟩ proposition : **tu vérifies 100 % des données des études comparatives et 20 % des séries de cas**, tirées au hasard. Si le taux d'erreur dépasse 5 %, toutes les séries sont vérifiées.
+- Pré-extraction par l'IA avec **localisateur** (page, tableau ou section) pour chaque donnée. **L'auteur vérifie 100 % des données des études comparatives et 20 % des séries de cas**, tirées au hasard. Si le taux d'erreur dépasse 5 %, toutes les séries sont vérifiées.
 - Donnée manquante ou ambiguë : notée « non rapporté ». Contacter les auteurs n'est pas prévu, ce qui est déclaré comme limite.
 
 ### Données extraites
@@ -194,7 +194,7 @@ GRADE pour chaque résultat comparatif (p. ex. mobilisation précoce vs tardive 
 
 ### Respect des contraintes de l'auteur
 
-UC-001 (2020 inclus) · UC-002 (exceptions antérieures à 2020 : contexte uniquement, voir ⟨choix⟩) · UC-003 (pas de preuves transposées : population limitée aux patients opérés) · UC-004 (Vancouver) · UC-005 (aucun cas individuel) · UC-006 (pas de limite de longueur) · UC-007 (recommandations actuelles : objectif secondaire 3).
+UC-001 (2020 inclus ; vise les articles « sur le sujet » : les références méthodologiques en sont exclues) · UC-002 (exceptions antérieures à 2020 : contexte uniquement) · UC-003 (pas de preuves transposées : population limitée aux patients opérés) · UC-004 (Vancouver) · UC-005 (aucun cas individuel) · UC-006 (pas de limite de longueur) · UC-007 (recommandations actuelles : objectif secondaire 3) · UC-008 (public large, prise en charge kiné : langage accessible).
 
 ---
 
@@ -203,7 +203,7 @@ UC-001 (2020 inclus) · UC-002 (exceptions antérieures à 2020 : contexte uniqu
 | Item PRISMA-P | Section |
 |---|---|
 | 1 Identification | Titre |
-| 2 Enregistrement | Titre (⟨choix⟩) |
+| 2 Enregistrement | Titre (OSF, au nom de Maes) |
 | 3a-b Auteurs, contributions | Auteurs et contributions |
 | 4 Amendements | Amendements |
 | 5a-c Financement | Financement |
