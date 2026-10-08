@@ -1,0 +1,4 @@
+# Pipeline state with the author's own words: kept local, never published
+material_passport.yaml
+material_passport_run_ledger.yaml
+.material_passport_run_ledger.yaml.lock
