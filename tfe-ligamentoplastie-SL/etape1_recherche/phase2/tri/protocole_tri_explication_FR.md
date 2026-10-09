@@ -1,4 +1,4 @@
-# Protocole de tri : explication en français (à valider par Maes)
+# Protocole de tri : explication en français (version 1.0, confirmée par Maes le 2026-10-09)
 
 > Le fichier `screening_protocol.md` (en anglais) est **le texte exact que recevront les relecteurs IA**. Il ne sera jamais paraphrasé dans les consignes. Ce document-ci en donne le sens en français, avec des exemples et les questions ouvertes. **Aucune notice n'est triée avant ta confirmation** (règle de fer de `sr-screener`).
 
@@ -10,7 +10,7 @@
 **Il n'est pas nécessaire que la rééducation soit citée dans le résumé** : la plupart des études chirurgicales décrivent leur protocole post-opératoire seulement dans le texte complet. C'est au second tri (texte intégral) qu'on vérifiera que le protocole est décrit.
 
 **Techniques qui comptent :** réparation directe ou par ancres, ligamentoplasties avec greffe (Brunelli, 3LT, SLAM, SLIC…), capsulodèses (Blatt, Berger, Viegas, Mathoulin…), *internal brace*, combinaisons, avec ou sans broches.
-**Ne comptent pas :** débridement arthroscopique seul, rétraction thermique seule, dénervation, chirurgies de sauvetage (résection de la première rangée, arthrodèses), imagerie ou diagnostic seuls.
+**Ne comptent pas :** débridement arthroscopique seul, rétraction thermique seule, stabilisation sans geste ligamentaire (RASL, vis ou broches seules), dénervation, chirurgies de sauvetage (résection de la première rangée, arthrodèses), imagerie ou diagnostic seuls.
 
 **Motifs d'exclusion, dans l'ordre où ils sont vérifiés :**
 

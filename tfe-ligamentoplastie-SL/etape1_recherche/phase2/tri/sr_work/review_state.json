@@ -1,0 +1,14 @@
+{
+ "ta": {
+  "review_id": "8253d42e-c0b3-4621-a447-6e71351bb63d",
+  "dataset": "c0f644bfdbf08fed95c50367ea4e05dd78d951c37c101c20f3f51a574e43836e",
+  "stage": "ta",
+  "protocol_hash": "98fffe891c3b6b23dd8d89ba0ffd8efcd1d2852cdaf1a7655d25ce13b1987bc2",
+  "config_hash": "00492d1f79298307963e5d25417836809261cbce799900ca9c21fb6bb3d3af02",
+  "content_id": "d4cf0a91fc96d1caf6f982a1816eb5a0f4cdd092b0e5751bbb787a44db16262e",
+  "config_scope": "stage-v1",
+  "revision": 1,
+  "protocol_path": "/home/user/academic-research-skills/tfe-ligamentoplastie-SL/etape1_recherche/phase2/tri/screening_protocol.md",
+  "context_id": "9ceb43696d9762792339015aa0f2620fbed786f7a167338359ec703d479c08f8"
+ }
+}

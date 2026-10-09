@@ -10,8 +10,9 @@ Langue de sortie : français (termes techniques conservés en anglais quand c'es
            Phase 1 cadrage ........ [FAIT] forme choisie : REVUE SYSTÉMATIQUE
            Protocole PRISMA-P ..... [FAIT] v1.0 confirmé (Maes) ; enregistrement OSF à faire par l'auteur
            Phase 2 recherche ...... [EN COURS] recherches faites : 1 001 notices → 562 uniques
-                                    protocole de tri sr-screener : EN ATTENTE de ta confirmation
-                                    puis pilote → tri → textes intégraux → extraction → risque de biais
+                                    protocole de tri sr-screener : [FAIT] v1.0 confirmé (Maes)
+                                    pilote (182 notices) : IA en cours ; TES ÉTIQUETTES ATTENDUES
+                                    puis tri complet → textes intégraux → extraction → risque de biais
            Phase 3 synthèse ....... [ ] synthèse narrative (SWiM) + GRADE + avocat du diable (point de contrôle 2)
            Bilan fin d'étape 1 .... [ ]
 Étape 2  WRITE ............ [ ]
