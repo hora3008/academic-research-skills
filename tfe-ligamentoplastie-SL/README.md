@@ -38,6 +38,9 @@ Langue de sortie : français (termes techniques conservés en anglais quand c'es
 | `etape1_recherche/phase2/00_journal_phase2.md` | **Journal de la recherche systématique** (bases, équations, nombres PRISMA) |
 | `etape1_recherche/phase2/tri/` | Protocole de tri `sr-screener` (anglais) + explication en français + configuration |
 | `etape1_recherche/phase2/recommandations/` | Recherche de recommandations officielles et registres d'essais |
+| `etape1_recherche/contexte/bibliographie_contexte.md` | **Bibliographie commentée** des chapitres pathologie et chirurgie (44 sources, Vancouver, niveau de preuve) |
+| `etape1_recherche/phase2/extraction/` | Grille d'extraction (tableur), grilles RoB 2 / ROBINS-I / JBI, test sur Kemler 2023 |
+| `etape1_recherche/phase2/tri/ft_protocol_BROUILLON.md` | Brouillon du protocole de tri sur texte intégral (à confirmer plus tard) |
 | `etape1_recherche/04_cartographie_preliminaire.md` | Recherche exploratoire PubMed : sources clés par sous-question |
 | `etape1_recherche/journal_recherches/` | Résultats bruts des recherches (reproductibilité pour le jury) |
 | `material_passport.yaml` *(local, non publié)* | Passeport du matériel : traçabilité et contraintes confirmées |
