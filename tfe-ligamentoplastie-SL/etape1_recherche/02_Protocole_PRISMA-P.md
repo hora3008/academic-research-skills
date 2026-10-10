@@ -28,6 +28,9 @@ Enregistrement : **OSF Registries, au nom de Maes** (démarche faite par l'auteu
 | Date | Section | Modification | Justification |
 |---|---|---|---|
 | 2026-10-08 | — | Version initiale | — |
+| 2026-10-10 | Gestion des notices et sélection (pilote) | Pilote **sans étiquettes humaines** : les décisions IA ne sont pas comparées à un classement de l'auteur (dérogation `--pilot-override` de `sr-screener`, raison enregistrée dans `pilot_override.json`) | Décision de l'auteur : travail d'entraînement et d'information personnelle, sans jury |
+| 2026-10-10 | Gestion des notices et sélection (validation) | **Aucune vérification humaine** des décisions de tri (inclusions et exclusions) : le tri repose uniquement sur deux relecteurs IA en aveugle, un arbitre IA et le contrôle qualité IA de `sr-screener` | Décision de l'auteur ; déclaré comme limite majeure dans les Méthodes et la Discussion |
+| 2026-10-10 | Extraction des données | La vérification par l'auteur (100 % comparatives, 20 % séries) est remplacée par une **seconde extraction IA indépendante** sur les données clés, les divergences étant tranchées par relecture du texte source | Cohérent avec la décision de l'auteur de ne pas vérifier lui-même ; l'auteur peut revenir sur ce point |
 
 ### Financement
 
@@ -140,7 +143,7 @@ Taille estimée (test du 2026-10-08) : environ 160 à 310 notices PubMed avant t
 2. **Tri titre et résumé, puis texte intégral**, avec `sr-screener` (choix de l'auteur) :
    - deux relecteurs IA en aveugle (`sr-screener` : relecteur A « expert du contenu », relecteur B « méthodologiste ») et un arbitre IA en cas de désaccord ;
    - contrôle qualité automatique : nouvelle vérification des exclusions communes et des cas limites, accord kappa et PABAK ;
-   - **toi, tu valides toutes les inclusions et un échantillon aléatoire des exclusions.**
+   - ~~l'auteur valide toutes les inclusions et un échantillon des exclusions~~ : **supprimé par amendement du 2026-10-10** (aucune vérification humaine, voir Amendements).
    - La bibliothèque le rappelle : les relecteurs IA assistent, ils ne remplacent pas un second relecteur humain. Il n'y a pas de second relecteur humain : c'est une limite déclarée.
 3. **Pilote :** avant le tri complet, l'auteur classe lui-même un échantillon de notices (règle de `sr-screener` : les décisions IA sont comparées à ses étiquettes), et le tri complet ne démarre que si l'IA n'a exclu aucune notice que l'auteur retient.
 4. **Documentation :** motif d'exclusion codé et ordonné pour chaque texte intégral exclu ; diagramme de flux PRISMA 2020.
