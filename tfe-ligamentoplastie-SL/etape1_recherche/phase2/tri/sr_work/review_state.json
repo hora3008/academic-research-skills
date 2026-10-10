@@ -10,5 +10,18 @@
   "revision": 1,
   "protocol_path": "/home/user/academic-research-skills/tfe-ligamentoplastie-SL/etape1_recherche/phase2/tri/screening_protocol.md",
   "context_id": "9ceb43696d9762792339015aa0f2620fbed786f7a167338359ec703d479c08f8"
+ },
+ "ft": {
+  "review_id": "8253d42e-c0b3-4621-a447-6e71351bb63d",
+  "dataset": "c0f644bfdbf08fed95c50367ea4e05dd78d951c37c101c20f3f51a574e43836e",
+  "stage": "ft",
+  "protocol_hash": "cf55a99e38091570265845aacc925fe415e6e463426d19f9b4a9ac916e47a976",
+  "config_hash": "be5fa095124732b69122d32afa93850a80b5b4cc63104f25b621f6d3c64a139c",
+  "input_hash": "71475d124b79175d52b93f1aea6b3080026e4a6240cebe0afd5c157323f1fda1",
+  "content_id": "833e530d85d380a77547b15779d494a188c90b1c3318e7783bf7bc2bf6653bdc",
+  "config_scope": "stage-v1",
+  "revision": 1,
+  "protocol_path": "/home/user/academic-research-skills/tfe-ligamentoplastie-SL/etape1_recherche/phase2/tri/ft_protocol.md",
+  "context_id": "1eb381806b861cd29e8a8d9ae1705bf1fec4fa2c9b12dc339f8dd595ccbcc7e7"
  }
 }

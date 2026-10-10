@@ -1,11 +1,31 @@
 {
   "review_title": "Postoperative rehabilitation after scapholunate ligament reconstruction (SR, Maes)",
   "exclusion_codes": [
-    {"code": "E1", "short": "publication type", "label": "Publication type (review of any kind, editorial, letter, comment, reply, erratum, conference abstract, protocol, trial registration, book chapter, surgical technique note without patient outcomes, case report of 1-4 patients, survey of clinicians)"},
-    {"code": "E2", "short": "not clinical", "label": "Not a clinical patient study (cadaver, biomechanical, animal, in vitro, computational or finite-element, imaging of healthy wrists)"},
-    {"code": "E3", "short": "population", "label": "Population: not scapholunate ligament injury or instability in adults (other carpal or wrist conditions, salvage-stage SLAC, perilunate dislocation, scaphoid fracture or nonunion, children only)"},
-    {"code": "E4", "short": "intervention", "label": "Intervention: scapholunate injury not treated by surgical repair or reconstruction (conservative care only, diagnosis or imaging only, debridement or thermal shrinkage alone, salvage procedures)"},
-    {"code": "E9", "short": "other", "label": "Other (explained)"}
+    {
+      "code": "E1",
+      "short": "publication type",
+      "label": "Publication type (review of any kind, editorial, letter, comment, reply, erratum, conference abstract, protocol, trial registration, book chapter, surgical technique note without patient outcomes, case report of 1-4 patients, survey of clinicians)"
+    },
+    {
+      "code": "E2",
+      "short": "not clinical",
+      "label": "Not a clinical patient study (cadaver, biomechanical, animal, in vitro, computational or finite-element, imaging of healthy wrists)"
+    },
+    {
+      "code": "E3",
+      "short": "population",
+      "label": "Population: not scapholunate ligament injury or instability in adults (other carpal or wrist conditions, salvage-stage SLAC, perilunate dislocation, scaphoid fracture or nonunion, children only)"
+    },
+    {
+      "code": "E4",
+      "short": "intervention",
+      "label": "Intervention: scapholunate injury not treated by surgical repair or reconstruction (conservative care only, diagnosis or imaging only, debridement or thermal shrinkage alone, salvage procedures)"
+    },
+    {
+      "code": "E9",
+      "short": "other",
+      "label": "Other (explained)"
+    }
   ],
   "core_criteria": [
     "scapholunate ligament injury or instability",
@@ -18,20 +38,66 @@
   "conflict_policy": "adjudicate",
   "qc": {
     "near_miss": {
-      "scapholunate": ["scapho-?lunate", "\\bSLIL\\b", "\\bSL ligament", "\\bSL instabilit", "carpal instabilit", "wrist instabilit"],
-      "surgery": ["reconstruct", "ligamentoplast", "tenodes", "capsulodes", "repair", "internal ?brace", "augment", "brunelli", "\\b3LT\\b", "\\bSLAM\\b", "\\bSLICL?\\b", "stabili[sz]"]
+      "scapholunate": [
+        "scapho-?lunate",
+        "\\bSLIL\\b",
+        "\\bSL ligament",
+        "\\bSL instabilit",
+        "carpal instabilit",
+        "wrist instabilit"
+      ],
+      "surgery": [
+        "reconstruct",
+        "ligamentoplast",
+        "tenodes",
+        "capsulodes",
+        "repair",
+        "internal ?brace",
+        "augment",
+        "brunelli",
+        "\\b3LT\\b",
+        "\\bSLAM\\b",
+        "\\bSLICL?\\b",
+        "stabili[sz]"
+      ]
     },
     "random_exclusion_sample": 100,
     "random_seed": 2026,
     "policy": "advance"
   },
   "seeds": [
-    {"label": "Bakker 2022, J Hand Surg Am (early vs late active motion after 3LT)", "doi": "10.1016/j.jhsa.2022.07.002", "pmid": "36055872"},
-    {"label": "Kemler 2023, J Wrist Surg (SL reconstruction without immobilization)", "doi": "10.1055/s-0042-1749164", "pmid": "36644724"},
-    {"label": "Ying 2024, Altern Ther Health Med (palmaris longus graft + early accelerated rehabilitation)", "doi": "", "pmid": "38330555"}
+    {
+      "label": "Bakker 2022, J Hand Surg Am (early vs late active motion after 3LT)",
+      "doi": "10.1016/j.jhsa.2022.07.002",
+      "pmid": "36055872"
+    },
+    {
+      "label": "Kemler 2023, J Wrist Surg (SL reconstruction without immobilization)",
+      "doi": "10.1055/s-0042-1749164",
+      "pmid": "36644724"
+    },
+    {
+      "label": "Ying 2024, Altern Ther Health Med (palmaris longus graft + early accelerated rehabilitation)",
+      "doi": "",
+      "pmid": "38330555"
+    }
   ],
-  "languages_allowed": ["English", "French", "Dutch", "German", "Spanish"],
-  "models": {"A": "sonnet", "B": "sonnet", "ADJ": "sonnet", "QC": "sonnet", "FTA": "sonnet", "FTB": "sonnet", "FTADJ": "sonnet"},
+  "languages_allowed": [
+    "English",
+    "French",
+    "Dutch",
+    "German",
+    "Spanish"
+  ],
+  "models": {
+    "A": "sonnet",
+    "B": "sonnet",
+    "ADJ": "sonnet",
+    "QC": "sonnet",
+    "FTA": "sonnet",
+    "FTB": "sonnet",
+    "FTADJ": "sonnet"
+  },
   "model_labels": {
     "A": "Claude Sonnet (Claude Code alias 'sonnet'; exact model ID to be read from the run journal)",
     "B": "Claude Sonnet (Claude Code alias 'sonnet'; exact model ID to be read from the run journal)",
@@ -42,6 +108,59 @@
     "FTADJ": "Claude Sonnet (Claude Code alias 'sonnet'; exact model ID to be read from the run journal)"
   },
   "agent_type": "",
-  "batching": {"max_records": 50, "max_chars": 90000, "wrap": 150},
-  "dedup": {"doi_title_guard": true}
+  "batching": {
+    "max_records": 50,
+    "max_chars": 90000,
+    "wrap": 150
+  },
+  "dedup": {
+    "doi_title_guard": true
+  },
+  "ft_exclusion_codes": [
+    {
+      "code": "E1",
+      "short": "publication type",
+      "label": "Publication type (review, editorial, letter, comment, erratum, conference abstract, protocol, trial registration, book chapter, technique note without patient outcomes, case report of 1-4 patients, survey of clinicians)"
+    },
+    {
+      "code": "E2",
+      "short": "not clinical",
+      "label": "Not a clinical patient study (cadaver, biomechanical, animal, computational)"
+    },
+    {
+      "code": "E3",
+      "short": "population",
+      "label": "Population: not SL injury in adults, SLAC stage II or higher, or SL repair during distal radius fracture fixation without separate SL data"
+    },
+    {
+      "code": "E4",
+      "short": "intervention",
+      "label": "Intervention: no SL ligament repair, reconstruction or capsulodesis (conservative care, debridement or thermal shrinkage alone, RASL or screw or K-wire fixation alone, salvage surgery)"
+    },
+    {
+      "code": "E5",
+      "short": "protocol not described",
+      "label": "Postoperative protocol not described to the minimum level (immobilisation type or duration, or start of motion, plus one more element)"
+    },
+    {
+      "code": "E6",
+      "short": "no patient outcome",
+      "label": "No patient outcome reported"
+    },
+    {
+      "code": "E7",
+      "short": "<5 patients / not separable",
+      "label": "Fewer than 5 patients, or adult or SL-specific data not separable"
+    },
+    {
+      "code": "E8",
+      "short": "language",
+      "label": "Full text not in English, French, Dutch, German or Spanish"
+    },
+    {
+      "code": "E9",
+      "short": "other",
+      "label": "Other (explained)"
+    }
+  ]
 }

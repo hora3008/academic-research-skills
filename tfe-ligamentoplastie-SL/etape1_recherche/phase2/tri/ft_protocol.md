@@ -1,5 +1,5 @@
 # Screening protocol: full-text stage
-DRAFT v0.1 (2026-10-09), NOT YET CONFIRMED. To be confirmed by Maes before any full-text screening. Derived from the confirmed title/abstract protocol v1.0 and the PRISMA-P protocol v1.0; no criterion is added that those documents do not state.
+Version 1.0, confirmed by Maes on 2026-10-10. Derived from the confirmed title/abstract protocol v1.0 and the PRISMA-P protocol v1.0; no criterion is added that those documents do not state.
 
 Review (intervention, PICOS): "Postoperative rehabilitation after surgical scapholunate ligament reconstruction in adults: a systematic review".
 Question: in adults who underwent surgical repair or reconstruction of the scapholunate (SL) ligament, which postoperative rehabilitation protocols have been reported since 2020 (content, timing, restrictions, progression criteria), and which functional, clinical and radiological outcomes are associated with them?
@@ -16,7 +16,7 @@ Question: in adults who underwent surgical repair or reconstruction of the scaph
 - Reduction-and-association (RASL) or scapholunate screw or K-wire fixation without a ligament repair, reconstruction or capsulodesis: exclude (E4).
 - SL repair performed during fixation of a distal radius fracture: exclude (E3), unless an SL-specific postoperative protocol AND SL-specific results are reported separately.
 - Arthroscopic debridement alone or thermal shrinkage alone: exclude (E4).
-- [proposed, to confirm] Several reports of the same patients: keep the most complete report as the main one and link the others (not counted as separate studies).
+- Several reports of the same patients: keep the most complete report as the main one and link the others (not counted as separate studies).
 
 ## Decisions
 - "include" (code INC): every criterion above is met.
