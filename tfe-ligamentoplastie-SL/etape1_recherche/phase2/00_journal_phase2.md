@@ -26,11 +26,27 @@
 
 Détail du dédoublonnage : `tri/sr_work/duplicates.csv` ; comptes : `tri/sr_work/identification.json`.
 
-## 3. Étapes suivantes (rien n'est trié pour l'instant)
+## 3. Tri sur titre et résumé (terminé le 2026-10-10)
 
-1. ⏸ **Confirmation du protocole de tri** par l'auteur (`tri/screening_protocol.md` ; explication : `tri/protocole_tri_explication_FR.md`). C'est une règle de fer de `sr-screener` : aucun tri avant cette confirmation.
-2. ⏸ **Enregistrement OSF** par l'auteur (guide : `../OSF_enregistrement_guide.md`), idéalement avant le tri.
-3. Pilote : l'auteur classe lui-même l'échantillon, puis comparaison avec les relecteurs IA.
-4. Tri complet des titres et résumés (après accord de l'auteur sur le coût), arbitrage, contrôle qualité.
-5. Récupération des textes intégraux (accès libre via Europe PMC/PMC ; les autres sont à obtenir par l'auteur).
-6. Tri sur texte intégral, extraction des données, risque de biais (RoB 2 / ROBINS-I / JBI).
+| Étape | Nombre |
+|---|---|
+| Notices triées | 562 |
+| **Exclues** | **487** : E1 type de publication 233 ; E2 pas une étude clinique 86 ; E3 population 156 ; E4 intervention 11 ; E9 autre 1 |
+| **Retenues pour le texte intégral** | **75** (55 éligibles, 20 incertaines) ; dont 5 dans une langue hors liste, à vérifier au texte intégral |
+| Accord entre les 2 relecteurs IA | 99,1 % ; kappa 0,96 ; PABAK 0,98 ; 5 désaccords arbitrés |
+| Contrôle qualité (relecture de 376 exclusions) | 1 notice réintégrée |
+| Études témoins | 3/3 retenues |
+| Vérification humaine | **Aucune** (décision de l'auteur, dérogation enregistrée dans `tri/sr_work/pilot_override.json`) |
+
+Fichiers : `tri/Screening_TA/` : nombres PRISMA (`TA_prisma_counts.md`), méthodes (`TA_methodes_selection_FR.md`), journal des décisions sans résumés (`TA_journal_decisions_sans_resumes.csv`), corpus (`TA_literature_corpus.yaml`).
+
+## 4. Textes intégraux
+
+- Récupérés automatiquement en accès libre : **16 sur 75** (14 via le texte libre d'Europe PMC, mis en PDF ; 2 via des dépôts universitaires). Chaque PDF a été contrôlé : le titre correspond à la notice.
+- Manquants : **59** (éditeurs qui bloquent le téléchargement automatique, ou articles non libres). Liste : `tri/textes_integraux_manquants.md`.
+
+## 5. Étapes suivantes
+
+1. ⏸ Confirmation par l'auteur du protocole de tri sur texte intégral (`tri/ft_protocol_BROUILLON.md`) et décision sur les textes manquants.
+2. Tri sur texte intégral (2 relecteurs IA + arbitre), nombres PRISMA finaux.
+3. Extraction des données (double extraction IA) et risque de biais (RoB 2 / ROBINS-I / JBI).

@@ -9,10 +9,7 @@ etape1_recherche/phase2/tri/sr_work/records.json
 etape1_recherche/phase2/tri/sr_work/raw_records.json
 etape1_recherche/phase2/tri/sr_work/batches/
 etape1_recherche/phase2/tri/pilote/pilote_titres_resumes.md
-# AI pilot decisions: kept unpublished until the author's independent pilot labels are recorded (blinding)
-etape1_recherche/phase2/tri/sr_work/agreement.json
-etape1_recherche/phase2/tri/sr_work/decision_audit.json
-etape1_recherche/phase2/tri/sr_work/decisions.json
-etape1_recherche/phase2/tri/sr_work/decisions_meta.json
-etape1_recherche/phase2/tri/sr_work/pending.json
-etape1_recherche/phase2/tri/sr_work/qc_*.json
+# Screening outputs that embed publishers' abstracts: kept local
+etape1_recherche/phase2/tri/Screening_TA/*.ris
+etape1_recherche/phase2/tri/Screening_TA/*.xlsx
+etape1_recherche/phase2/tri/pdfs/

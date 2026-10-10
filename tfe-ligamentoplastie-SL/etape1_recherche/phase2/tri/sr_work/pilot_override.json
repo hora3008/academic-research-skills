@@ -3,5 +3,10 @@
   "reason": "Décision de l'auteur (Maes, 2026-10-10) : pas d'étiquetage humain du pilote ni de vérification humaine des décisions de tri ; travail d'entraînement et d'information personnelle, sans jury. Tri réalisé uniquement par deux relecteurs IA en aveugle et un arbitre IA ; limite déclarée dans les Méthodes et la Discussion.",
   "problem": "full run started without a passing pilot (no human-labelled pilot: label the pilot records yourselves (pilot_labels.csv: id,d,code,why,by), then run merge_decisions.py --pilot-labels pilot_labels.csv)",
   "context_id": "9ceb43696d9762792339015aa0f2620fbed786f7a167338359ec703d479c08f8"
+ },
+ {
+  "reason": "Décision de l'auteur (Maes, 2026-10-10) : pas d'étiquetage humain du pilote ni de vérification humaine des décisions de tri ; travail d'entraînement et d'information personnelle, sans jury. Tri réalisé uniquement par deux relecteurs IA en aveugle et un arbitre IA ; limite déclarée dans les Méthodes et la Discussion.",
+  "problem": "full run started without a passing pilot (no human-labelled pilot: label the pilot records yourselves (pilot_labels.csv: id,d,code,why,by), then run merge_decisions.py --pilot-labels pilot_labels.csv)",
+  "context_id": "9ceb43696d9762792339015aa0f2620fbed786f7a167338359ec703d479c08f8"
  }
 ]
