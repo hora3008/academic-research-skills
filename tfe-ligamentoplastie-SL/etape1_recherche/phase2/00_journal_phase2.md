@@ -45,8 +45,25 @@ Fichiers : `tri/Screening_TA/` : nombres PRISMA (`TA_prisma_counts.md`), méthod
 - Récupérés automatiquement en accès libre : **16 sur 75** (14 via le texte libre d'Europe PMC, mis en PDF ; 2 via des dépôts universitaires). Chaque PDF a été contrôlé : le titre correspond à la notice.
 - Manquants : **59** (éditeurs qui bloquent le téléchargement automatique, ou articles non libres). Liste : `tri/textes_integraux_manquants.md`.
 
-## 5. Étapes suivantes
+## 5. Tri sur texte intégral (terminé le 2026-10-10)
 
-1. ⏸ Confirmation par l'auteur du protocole de tri sur texte intégral (`tri/ft_protocol_BROUILLON.md`) et décision sur les textes manquants.
-2. Tri sur texte intégral (2 relecteurs IA + arbitre), nombres PRISMA finaux.
-3. Extraction des données (double extraction IA) et risque de biais (RoB 2 / ROBINS-I / JBI).
+| Étape | Nombre |
+|---|---|
+| Textes recherchés | 75 |
+| **Non récupérés** | **59** (option (a) choisie par l'auteur : pas de recherche manuelle des PDF) |
+| Textes évalués | 16 |
+| Exclus | 7 : E1 note technique sans patients 1 ; E3 population (fractures du radius) 1 ; E4 pas de geste ligamentaire (RASL, transfert tendineux dynamique) 2 ; **E5 protocole post-opératoire insuffisamment décrit 3** |
+| En attente de classement | 1 (R00092 : âge des patients non rapporté) |
+| **Études incluses** | **8** |
+| Accord entre relecteurs IA (inclure ou non) | 87,5 % ; kappa 0,75 ; 2 désaccords arbitrés |
+| Vérification humaine | Aucune (décision de l'auteur) |
+
+Fichiers : `tri/Screening_FT/` (`FT_prisma_counts.md`, `FT_methods_selection.md`, `FT_literature_corpus.yaml`).
+
+⚠️ Deux des trois études témoins (Kemler 2023, Ying 2024) font partie des textes **non récupérés** : elles ne sont donc pas incluses. Kemler 2023 est pourtant gratuit sur PMC pour un lecteur humain.
+
+## 6. Étapes suivantes
+
+1. Extraction des données des 8 études incluses (grille de 60 colonnes, avec localisateurs) ; seconde extraction IA indépendante.
+2. Risque de biais : ROBINS-I (Bakker 2022, comparative) ; checklist JBI (séries de cas).
+3. Phase 3 : synthèse narrative (SWiM), GRADE, avocat du diable (point de contrôle 2).
