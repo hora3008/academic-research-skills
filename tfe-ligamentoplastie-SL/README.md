@@ -12,8 +12,8 @@ Langue de sortie : français (termes techniques conservés en anglais quand c'es
            Phase 2 recherche ...... [EN COURS] recherches faites : 1 001 notices → 562 uniques
                                     protocole de tri sr-screener : [FAIT] v1.0 confirmé (Maes)
                                     tri titre/résumé : [FAIT] 562 → 75 retenues (IA seule, sans vérification humaine)
-                                    textes intégraux : 16/75 récupérés ; tri sur texte intégral EN ATTENTE de ta décision
-                                    puis extraction → risque de biais
+                                    textes intégraux : 16/75 récupérés → tri : [FAIT] 8 études incluses
+                                    extraction IA n°1 + risque de biais : [FAIT, provisoire] ; 2e extraction : EN ATTENTE
            Phase 3 synthèse ....... [ ] synthèse narrative (SWiM) + GRADE + avocat du diable (point de contrôle 2)
            Bilan fin d'étape 1 .... [ ]
 Étape 2  WRITE ............ [ ]
@@ -41,7 +41,8 @@ Langue de sortie : français (termes techniques conservés en anglais quand c'es
 | `etape1_recherche/phase2/recommandations/` | Recherche de recommandations officielles et registres d'essais |
 | `etape1_recherche/contexte/bibliographie_contexte.md` | **Bibliographie commentée** des chapitres pathologie et chirurgie (44 sources, Vancouver, niveau de preuve) |
 | `etape1_recherche/phase2/extraction/` | Grille d'extraction (tableur), grilles RoB 2 / ROBINS-I / JBI, test sur Kemler 2023 |
-| `etape1_recherche/phase2/tri/ft_protocol_BROUILLON.md` | Brouillon du protocole de tri sur texte intégral (à confirmer plus tard) |
+| `etape1_recherche/phase2/tri/ft_protocol.md` | Protocole de tri sur texte intégral (v1.0 confirmé) |
+| `etape1_recherche/phase2/extraction/extraction_IA1_et_risque_biais.md` | **Données des 8 études incluses** (protocoles, résultats) et risque de biais |
 | `etape1_recherche/04_cartographie_preliminaire.md` | Recherche exploratoire PubMed : sources clés par sous-question |
 | `etape1_recherche/journal_recherches/` | Résultats bruts des recherches (reproductibilité pour le jury) |
 | `material_passport.yaml` *(local, non publié)* | Passeport du matériel : traçabilité et contraintes confirmées |
