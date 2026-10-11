@@ -128,15 +128,15 @@ S2 est une cohorte comparative, mais sa comparaison porte sur des stades d'arthr
 | Item JBI | S2 | S3 | S4 | S5 | S6 | S7 | S8 |
 |---|---|---|---|---|---|---|---|
 | 1 Critères d'inclusion clairs | O | O | O | O | ? | O | O |
-| 2 Pathologie mesurée de façon standard | ? (SLAC stadifiée seulement si suspectée) | O | O | O | O | O | ? (statique ou dynamique : contradiction) |
+| 2 Pathologie mesurée de façon standard | ? (SLAC stadifiée seulement si suspectée) | O | O | O | O | O | O (stades de Garcia-Elias) |
 | 3 Méthode d'identification valide | O | O | O | O | ? | O (arthroscopie) | O (constat opératoire) |
-| 4 Inclusion consécutive | ? | ? | **N** (sélection des patients observants et suivis) | O (« consécutive ») | ? | ? | O (tous les éligibles de la base de facturation contactés) |
+| 4 Inclusion consécutive | ? | ? | **N** (sélection des patients observants et suivis) | O (« consécutive ») | ? | ? | ? (tous les éligibles repérés par la base de facturation ; caractère consécutif non dit) |
 | 5 Inclusion complète | **N** (questionnaires complets exigés) | ? | **N** (7 sur 56) | **N** (36 sur 54) | O (8 sur 9, perte expliquée) | ? | **N** (24 sur 40 ; non-participants différents) |
 | 6 Démographie décrite | O | O | O | ? (âge : moyenne ou médiane) | ? (sexe non rapporté) | O | O |
 | 7 Données cliniques décrites | O | O | O | ? (pas de données cliniques préopératoires) | **N** (idem) | O | ? (pas de scores préopératoires) |
 | 8 Résultats et suivi décrits | ? (variations sans dispersion) | ? (complications non rapportées) | O | ? (complications non rapportées ; suivi 15 mois à ?) | O | O (tableau 2) | O |
-| 9 Centre et contexte décrits | O | ? | **N** | **N** | **N** | **N** | ? |
-| 10 Analyse statistique adaptée | O | O | O | O | ? (descriptive seulement) | O | O |
+| 9 Centre et contexte décrits | O | ? | **N** | **N** | **N** | **N** | **N** |
+| 10 Analyse statistique adaptée | O | O | O | O | ? (descriptive seulement) | O | ? (les 2 échecs sont retirés des comparaisons) |
 | **Synthèse** | Risque **modéré** | Risque **modéré** (n = 9 ; évaluation par les chirurgiens) | Risque **élevé** (sélection, n = 7, conflit d'intérêts) | Risque **modéré à élevé** (33 % perdus de vue ; examinateur indépendant) | Risque **élevé** (n = 8 ; pas de données préopératoires) | Risque **modéré** | Risque **modéré à élevé** (participation 60 % ; les 2 échecs sont exclus des comparaisons cliniques) |
 
 Les jugements ci-dessus combinent les deux extractions. Quand elles différaient, le jugement retenu est celui que justifie la source relue (section 6).
@@ -157,7 +157,7 @@ Pour chaque étude, **12 données clés** ont été comparées : type d'étude, 
 
 Aucune erreur de l'extraction n° 2 n'a été trouvée sur ces données clés. Ses manques venaient des tableaux absents des PDF, et ils ont été comblés avec le fichier XML.
 
-**S8 : choix de l'outil de risque de biais.** L'extraction n° 2 a appliqué ROBINS-I à la comparaison aigu contre subaigu (risque sérieux). Cette comparaison porte sur un facteur pronostique, et non sur un protocole de rééducation : le protocole est le même pour tous. Pour la question de cette revue, S8 est donc appréciée comme une série (JBI). Le jugement ROBINS-I « sérieux » est cité si l'on utilise la comparaison aigu contre subaigu.
+**S8 : choix de l'outil de risque de biais.** La comparaison aigu contre subaigu porte sur un facteur pronostique (le délai avant la chirurgie), et non sur un protocole de rééducation : le protocole est le même pour tous. Les deux extractions ont donc apprécié S8 comme une série (JBI). L'extraction n° 2 avait d'abord jugé cette comparaison avec ROBINS-I, avec un risque **sérieux** (aucun ajustement, 40 % des éligibles absents). Ce jugement est à citer si l'on utilise la comparaison aigu contre subaigu.
 
 ### 6.2 Désaccords et corrections (tous tranchés en relisant la source)
 
