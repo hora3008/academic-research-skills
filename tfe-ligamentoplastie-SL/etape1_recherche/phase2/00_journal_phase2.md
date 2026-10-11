@@ -62,8 +62,14 @@ Fichiers : `tri/Screening_FT/` (`FT_prisma_counts.md`, `FT_methods_selection.md`
 
 ⚠️ Deux des trois études témoins (Kemler 2023, Ying 2024) font partie des textes **non récupérés** : elles ne sont donc pas incluses. Kemler 2023 est pourtant gratuit sur PMC pour un lecteur humain.
 
-## 6. Étapes suivantes
+## 6. Extraction des données et risque de biais (terminés le 2026-10-11)
 
-1. Extraction des données des 8 études incluses (grille de 60 colonnes, avec localisateurs) ; seconde extraction IA indépendante.
-2. Risque de biais : ROBINS-I (Bakker 2022, comparative) ; checklist JBI (séries de cas).
-3. Phase 3 : synthèse narrative (SWiM), GRADE, avocat du diable (point de contrôle 2).
+- **Deux extractions IA indépendantes** des 8 études incluses : n° 1 dans la session principale, n° 2 par 8 agents séparés sans accès à la n° 1. Les désaccords ont été tranchés en relisant la source. Aucune vérification humaine.
+- **Accord sur 96 données clés :** 81 concordantes (84 %), 13 complétées (omissions de l'extraction n° 1), 2 divergentes (interprétation de la non-infériorité de Bakker 2022 ; complications de Lee 2023).
+- **Incident corrigé :** les PDF fabriqués à partir d'Europe PMC avaient perdu le contenu des tableaux. Les tableaux ont été récupérés dans le XML source. Ils ne changent aucune décision du tri sur texte intégral.
+- **Question d'éligibilité pour l'auteur :** Nienstedt 2023 (ténodèse dynamique, incluse) et R00527 (stabilisation dynamique, exclue) relèvent de la même famille de techniques.
+- Fichiers : `extraction/extraction_reconciliee_et_risque_biais.md` (version de référence) ; `extraction/grille_extraction_IA2_brute.csv` (grille de 60 colonnes de l'extraction n° 2, brute).
+
+## 7. Étape suivante
+
+Phase 3 : synthèse narrative (SWiM), GRADE, cadre par phases, avocat du diable (point de contrôle 2). Dossier `../phase3/`.

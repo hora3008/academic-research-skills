@@ -1,5 +1,7 @@
 # Extraction des données (extraction IA n° 1) et risque de biais : 8 études incluses
 
+> **Remplacé** par `extraction_reconciliee_et_risque_biais.md` (version réconciliée avec la seconde extraction IA, 2026-10-11). Ce fichier est gardé pour l'historique ; il contient des omissions et une erreur d'interprétation corrigées dans la version réconciliée.
+
 > **Statut : première extraction IA, provisoire.** Réalisée dans la session principale à partir des textes intégraux récupérés. Les PDF Europe PMC sont des rendus du texte XML, donc leurs numéros de page ne correspondent pas à la revue. Chaque donnée porte un **localisateur** (section ou page).
 > Selon l'amendement du protocole du 2026-10-10, une **seconde extraction IA indépendante** doit confirmer les données clés (en attente, voir message à l'auteur). **Aucune vérification humaine** (décision de l'auteur).
 > « NR » = non rapporté. Les conflits d'intérêts et financements seront complétés lors de la seconde extraction.
