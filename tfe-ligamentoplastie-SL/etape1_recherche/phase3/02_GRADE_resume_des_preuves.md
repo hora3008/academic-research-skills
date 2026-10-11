@@ -17,7 +17,7 @@
 | Risque de biais | ROBINS-I **modéré** (fonction, douleur, complications) : pas d'abaissement supplémentaire, ce niveau est déjà celui d'une bonne étude observationnelle. ROBINS-I **sérieux** (mobilité, force, reprise du travail) : -1 |
 | Incohérence | Non évaluable (une seule étude) ; pas d'abaissement, mais l'absence de réplication est signalée |
 | Caractère indirect | **-1 pour tous les résultats** : une seule technique (3LT sans broches) et un seul réseau de soins néerlandais. La question de la revue porte sur toutes les reconstructions SL, et les résultats ne valent qu'à 3 mois |
-| Imprécision | **-1 pour tous les résultats** : une seule étude, 108 patients au plus (45 pour la reprise du travail). Les intervalles de confiance des tailles d'effet dépassent la marge de non-infériorité de 0,35 (PRWHE : -0,19 à 0,58). Les complications sont rares (3 infections contre 0) |
+| Imprécision | **-1 pour tous les résultats** : une seule étude, 108 patients au plus (45 pour la reprise du travail). Les intervalles de confiance des tailles d'effet dépassent la marge de non-infériorité de 0,35 (PRWHE : -0,19 à 0,58). Les complications sont rares (infections : 0 avec le protocole précoce, 3 avec le tardif) |
 | Biais de publication | Non évaluable (moins de 10 études) ; pas d'abaissement |
 | Facteurs d'augmentation | Aucun (pas d'effet important, pas de gradient) |
 
