@@ -31,4 +31,6 @@ La sélection des études a été réalisée avec l'outil `sr-screener` (bibliot
   - arbitrage systématique des désaccords ;
   - relecture obligatoire d'un échantillon d'exclusions ;
   - équations de recherche et décisions archivées et reproductibles.
+- **Extraction des données par IA.** Deux extractions IA indépendantes ont été comparées, mais seulement sur 12 données clés par étude. Les détails des protocoles (limites d'amplitude, port de l'orthèse, contenu des exercices) viennent d'une extraction unique. Ils ont ensuite été recontrôlés par un vérificateur IA de fidélité aux sources, qui a trouvé et fait corriger 23 écarts dans la première version de la synthèse. Aucune donnée n'a été vérifiée par une personne.
+- **Relectures critiques par IA.** L'avocat du diable et le vérificateur de fidélité sont aussi des instances de la même famille de modèles. Leurs erreurs peuvent être corrélées avec celles des extractions ; leurs rapports ne remplacent pas une vérification humaine.
 - **Portée du document.** Ce travail est un exercice de formation et d'information. Il n'a pas été soumis à un jury ni à une revue par les pairs, et il ne doit pas être utilisé comme recommandation clinique.

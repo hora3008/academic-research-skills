@@ -14,7 +14,7 @@ flowchart TD
     S["Notices triées sur titre et résumé (n = 562)"]
     X1["Notices exclues (n = 487)<br/>E1 type de publication 233<br/>E2 pas une étude clinique 86<br/>E3 population 156<br/>E4 intervention 11<br/>E9 autre 1"]
     F["Rapports recherchés en texte intégral (n = 75)"]
-    N["Rapports non récupérés (n = 59)<br/>pas d'accès libre ou téléchargement bloqué"]
+    N["Rapports non récupérés (n = 59)<br/>téléchargement automatique impossible ;<br/>recherche manuelle non faite (choix de l'auteur) ;<br/>dont 17 gratuits sur PMC"]
     E["Rapports évalués sur texte intégral (n = 16)"]
     X2["Rapports exclus (n = 7)<br/>E1 note technique sans patients 1<br/>E3 population (fractures du radius) 1<br/>E4 pas de geste ligamentaire 2<br/>E5 protocole post-opératoire insuffisant 3"]
     U["En attente de classement (n = 1)<br/>âge des patients non rapporté"]
@@ -39,8 +39,11 @@ flowchart TD
 
 1. **Bases non interrogées** : Embase, Scopus, Web of Science, CINAHL et Cochrane CENTRAL (pas d'accès).
 2. **Textes non récupérés** : 59 sur 75 (79 %). C'est la principale limite de la revue.
-   - Seuls les textes en accès libre ont pu être lus (biais d'accès libre).
-   - Deux des trois études témoins (Kemler 2023, Ying 2024) en font partie.
+   - **Cause :** les éditeurs et PMC bloquent le téléchargement automatique (tentatives par Europe PMC, NCBI et les sites des éditeurs), et l'auteur a choisi de ne pas faire de recherche manuelle (option (a)).
+   - **17 de ces textes sont gratuits sur PMC** pour un lecteur humain.
+   - Deux des trois études témoins (Kemler 2023, Ying 2024) en font partie. Kemler 2023 est une autre étude comparative sur la mobilisation précoce.
+   - Seuls les textes récupérables automatiquement ont été lus (biais d'accès).
 3. **Sélection par IA sans vérification humaine** (voir `../phase2/declaration_tri_IA.md`).
 4. **Recoupement de populations** : S1 (Bakker 2022) et S2 (Dullemans 2024) viennent de la même base de données néerlandaise. Elles sont comptées comme deux études, mais leurs patients ne sont pas additionnés.
-5. **Registres** : les 48 enregistrements de ClinicalTrials.gov ont été examinés par un seul relecteur IA, en dehors de `sr-screener`. Sept concernent directement le sujet, dont **NCT06590701**, un essai en cours qui compare le mouvement de lancer de fléchette précoce à une mobilisation dans les plans anatomiques après reconstruction SL. Aucun n'a de résultats publiés à cette date.
+5. **Autres méthodes** : la recherche par citations (en amont et en aval) prévue au protocole **n'a pas été faite**. Le diagramme n'a donc pas de branche « autres méthodes ».
+6. **Registres** : les 48 enregistrements de ClinicalTrials.gov ont été examinés par un seul relecteur IA, en dehors de `sr-screener`. Sept concernent directement le sujet, dont **NCT06590701**, un essai en cours qui compare le mouvement de lancer de fléchette précoce à une mobilisation dans les plans anatomiques après reconstruction SL. Aucun n'a de résultats publiés à cette date.

@@ -70,6 +70,11 @@ Fichiers : `tri/Screening_FT/` (`FT_prisma_counts.md`, `FT_methods_selection.md`
 - **Question d'éligibilité pour l'auteur :** Nienstedt 2023 (ténodèse dynamique, incluse) et R00527 (stabilisation dynamique, exclue) relèvent de la même famille de techniques.
 - Fichiers : `extraction/extraction_reconciliee_et_risque_biais.md` (version de référence) ; `extraction/grille_extraction_IA2_brute.csv` (grille de 60 colonnes de l'extraction n° 2, brute).
 
-## 7. Étape suivante
+## 7. Contrôles du point de contrôle 2 (2026-10-11)
+
+- **Récupération des 17 textes gratuits sur PMC :** tentée par Europe PMC (XML et PDF), NCBI (efetch, BioC) et les sites des éditeurs. **Tous les accès sont bloqués** (hors du sous-ensemble en libre accès, protection anti-robots). Il faut un lecteur humain.
+- **Faux signalements de langue :** 18 notices d'Europe PMC ont des champs décalés (guillemets dans le résumé). Les 5 notices retenues « hors langue » sont en anglais, et les 13 notices exclues touchées ont été relues sur leur titre : aucune décision ne change.
+
+## 8. Étape suivante
 
 Phase 3 : synthèse narrative (SWiM), GRADE, cadre par phases, avocat du diable (point de contrôle 2). Dossier `../phase3/`.

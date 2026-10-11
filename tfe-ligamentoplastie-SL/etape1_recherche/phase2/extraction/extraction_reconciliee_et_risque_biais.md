@@ -114,7 +114,7 @@ Pendant la seconde extraction, un défaut a été trouvé dans les PDF fabriqué
 | D2 Sélection | Modéré | Modéré | 31 patients non appariés écartés (7 vs 24) (Fig. 2) |
 | D3 Classement des interventions | Modéré | Modéré | Protocole attribué selon la période ; intervalle de 6 mois au changement de protocole (p. 1081) |
 | D4 Écarts aux interventions | Modéré | Modéré | Observance non mesurée ; « quelques dossiers contrôlés au hasard » (p. 1081-2) |
-| D5 Données manquantes | Faible | **Sérieux** | PRWHE et EVA complets (108/108) ; mobilité 76/108, force 85/108, travail 45/108, sans raisons données (Tableau 3) |
+| D5 Données manquantes | Faible | **Sérieux** | PRWHE et EVA complets (108/108) ; mobilité 76/108, force 85/108, travail 45/108, sans raisons données (Tableau 3). Réserve (déduction, non vérifiée) : S1 compte 167 opérés en environ 5 ans, alors que S2 compte 480 3LT en 8 ans dans le même réseau ; S1 pourrait être un sous-ensemble de patients aux questionnaires complets |
 | D6 Mesure des résultats | Modéré | Modéré | Patients et évaluateurs non aveugles au protocole ; questionnaires auto-rapportés |
 | D7 Sélection du résultat rapporté | Modéré | Modéré | Marge prédéfinie, mais pas de protocole enregistré ; règle de non-infériorité inhabituelle |
 | **Global** | **Modéré** | **Sérieux** | Les deux extractions concordent |
@@ -140,6 +140,13 @@ S2 est une cohorte comparative, mais sa comparaison porte sur des stades d'arthr
 | **Synthèse** | Risque **modéré** | Risque **modéré** (n = 9 ; évaluation par les chirurgiens) | Risque **élevé** (sélection, n = 7, conflit d'intérêts) | Risque **modéré à élevé** (33 % perdus de vue ; examinateur indépendant) | Risque **élevé** (n = 8 ; pas de données préopératoires) | Risque **modéré** | Risque **modéré à élevé** (participation 60 % ; les 2 échecs sont exclus des comparaisons cliniques) |
 
 Les jugements ci-dessus combinent les deux extractions. Quand elles différaient, le jugement retenu est celui que justifie la source relue (section 6).
+
+**Règle de synthèse JBI** (la checklist ne donne pas de niveau global ; cette règle a été appliquée après coup et est déclarée comme telle) :
+- **élevé** : au moins deux « N » parmi les items 4 (inclusion consécutive), 5 (inclusion complète) et 7 (données cliniques), **ou** moins de 10 patients avec au moins un « N » ;
+- **modéré à élevé** : un « N » à l'item 5, avec plus de 30 % de patients non évalués ;
+- **modéré** : les autres cas.
+
+Application : S4 (items 4 et 5 « N », n = 7) et S6 (item 7 « N », n = 8) sont « élevés » ; S5 (item 5 « N », 33 % perdus de vue) et S8 (item 5 « N », 40 % non participants) sont « modérés à élevés » ; S2, S3 et S7 sont « modérés ». Pour S3 (n = 9), aucun item n'est « N », mais quatre sont incertains.
 
 ---
 
@@ -209,7 +216,7 @@ Aucune erreur de l'extraction n° 2 n'a été trouvée sur ces données clés. S
    - **(b) mobilisation précoce sans broches** après 3LT : 3 à 5 jours de plâtre, puis une orthèse (S1 précoce, S2).
 2. **Une seule étude compare deux protocoles (S1).** À 3 mois, aucune différence significative n'apparaît pour la fonction, la douleur, la mobilité et la force, et les complications ne sont pas plus nombreuses avec la mobilisation précoce. La non-infériorité n'est **pas démontrée de façon rigoureuse** (encadré section 4).
 3. **Les critères de progression sont toujours temporels.** Aucune étude incluse n'utilise de critère clinique pour passer d'une phase à l'autre : c'est une [Lacune].
-4. **Une perte de réduction radiologique avec le temps** est rapportée dans S4, S5 et S6. Aucune étude ne la relie au protocole de rééducation.
+4. **Une perte de correction radiologique** entre le post-opératoire et le dernier suivi est rapportée dans S4 et S5 (greffes tendineuses, instabilité chronique statique, 4 à 6 ans de suivi). Dans S6, l'espace SL reste anormal dans les formes statiques, mais sans mesure post-opératoire immédiate. La correction est maintenue dans S3 et S7. Aucune étude ne relie ces évolutions au protocole de rééducation.
 5. **La rééducation est souvent mal décrite** dans la littérature chirurgicale :
    - trois études ont été exclues pour cette raison au tri ;
    - S2 et S7 ne décrivent presque pas le contenu des séances.
