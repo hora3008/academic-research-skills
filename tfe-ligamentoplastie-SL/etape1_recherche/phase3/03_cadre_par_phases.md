@@ -2,11 +2,11 @@
 
 > ⚠️ **Ce document n'est pas une recommandation**, ni officielle ni officieuse.
 > - Il n'existe pas de *guideline* sur ce sujet dans les sources consultées (`01_synthese_SWiM.md`, section 9).
-> - Il décrit **ce que les 8 études lues ont fait**, comme le prévoit le protocole (section Synthèse). Personne n'a suivi ni testé l'ensemble présenté ici comme un parcours.
+> - Il décrit **ce que les 9 études lues ont fait**, comme le prévoit le protocole (section Synthèse). Personne n'a suivi ni testé l'ensemble présenté ici comme un parcours.
 > - Il ne remplace ni le protocole du chirurgien ni l'avis du kinésithérapeute. **Tout symptôme inquiétant se signale à l'équipe soignante.**
 >
-> Il repose sur 8 études, lues parmi 75 rapports retenus (voir la portée dans `01_synthese_SWiM.md`).
-> Statut : **version 2, révisée après le point de contrôle 2.**
+> Il repose sur 9 études, lues parmi 75 rapports retenus (voir la portée dans `01_synthese_SWiM.md`).
+> Statut : **version 2.1** : révisée après le point de contrôle 2, puis complétée par S9 (2026-10-19).
 
 ## Étiquettes
 
@@ -36,6 +36,7 @@ Les études de laboratoire (poignets de cadavre, modèles, tissus) et les avis d
 | S6 | 8 | Élevé | Dans 6 cas sur 8, 6 sem. | Plâtre prenant le pouce, poignet neutre, 6 sem. | 6 semaines (active-aidée) | NR | Sport et travail lourd après 3 mois |
 | S7 | 19 | Modéré | Oui, 12 sem. | Plâtre 8 sem. | 8 semaines (« douce »), broches encore en place | NR | NR |
 | S8 | 24 | Modéré à élevé | Oui, 6-8 sem. | Plâtre prenant le pouce jusqu'à l'ablation des broches | Après l'ablation des broches (6-8 sem.) | 10-12 semaines | Reprise progressive dès 10-12 semaines (date sans restriction NR) |
+| S9 | 20 (21 poignets) | Modéré, avec réserves | Oui, 6 sem. | Attelle prenant le pouce, 6 sem. | 6 semaines | « Force, endurance, proprioception » nommées dès 6 sem. (sans date propre) | Travail et activités normales repris en 5 mois en moyenne |
 
 *Rappel : ce tableau décrit des pratiques, pas des recommandations. S1 et S2 viennent du même réseau néerlandais.*
 
@@ -49,37 +50,37 @@ Les « étapes » ci-dessous regroupent ce que décrivent les études. Leurs nom
 
 | | Ce que décrivent les études |
 |---|---|
-| **Durée** | Avec broches : **6 à 8 semaines** de plâtre ; broches gardées 6 à 12 semaines [Pratique rapportée : S3, S5, S6, S7, S8 ; n = 9 à 36]. Sans broches : 3 à 16 jours de plâtre, puis orthèse amovible portée jour et nuit jusqu'à 5-6 semaines [Pratique rapportée : S1, n = 108 ; S2, n = 95, même réseau] |
-| **Position** | Poignet en position neutre [Pratique rapportée : S5, n = 36 ; S6, n = 8]. Pouce inclus [Pratique rapportée : S6, n = 8 ; S8, n = 24]. Les autres études ne précisent pas |
+| **Durée** | Avec broches : **6 à 8 semaines** de plâtre ou d'attelle ; broches gardées 6 à 12 semaines [Pratique rapportée : S3, S5-S9 ; n = 8 à 36]. Sans broches : 3 à 16 jours de plâtre, puis orthèse amovible portée jour et nuit jusqu'à 5-6 semaines [Pratique rapportée : S1, n = 108 ; S2, n = 95, même réseau] |
+| **Position** | Poignet en position neutre [Pratique rapportée : S5, n = 36 ; S6, n = 8]. Pouce inclus [Pratique rapportée : S6, n = 8 ; S8, n = 24 ; S9, n = 20]. Les autres études ne précisent pas |
 | **Pendant cette étape** | Mobilisation des doigts et du pouce [Pratique rapportée : S1, n = 108]. Œdème, cicatrice, épaule et coude : non décrits [Lacune] |
-| **Fin de l'étape** | À une date fixe : ablation du plâtre ou des broches, ou semaine 2 [Pratique rapportée : S1, S3-S8 ; S2 ne dit pas quand commence la mobilisation du poignet]. Aucun critère clinique rapporté [Lacune] |
+| **Fin de l'étape** | À une date fixe : ablation du plâtre ou des broches, ou semaine 2 [Pratique rapportée : S1, S3-S9 ; S2 ne dit pas quand commence la mobilisation du poignet]. Aucun critère clinique rapporté [Lacune] |
 
 ### Étape 2 : récupération de la mobilité
 
 | | Ce que décrivent les études |
 |---|---|
-| **Début** | Avec broches : **6 à 8 semaines** [Pratique rapportée : S3, S5, S6, S7, S8]. Sans broches : **semaine 2** ou **semaines 5-6** [Pratique rapportée : S1, n = 54 + 54] |
-| **Type de mouvements** | Active-aidée [S6, n = 8] ; active graduée [S5, n = 36] ; « douce », avec ergothérapie [S7, n = 19] ; mobilité active en kinésithérapie [S3, n = 9] ; récupération progressive jusqu'au 6e mois, en kinésithérapie supervisée [S4, n = 7] ; ergothérapie graduée avec attelle amovible et précautions de mise en charge [S8, n = 24]. Tout cela est de la [Pratique rapportée] |
+| **Début** | Avec broches : **6 à 8 semaines** [Pratique rapportée : S3, S5-S9]. Sans broches : **semaine 2** ou **semaines 5-6** [Pratique rapportée : S1, n = 54 + 54] |
+| **Type de mouvements** | Active-aidée [S6, n = 8] ; active graduée [S5, n = 36] ; « douce », avec ergothérapie [S7, n = 19] ; mobilité active en kinésithérapie [S3, n = 9] ; récupération progressive jusqu'au 6e mois, en kinésithérapie supervisée [S4, n = 7] ; ergothérapie graduée avec attelle amovible et précautions de mise en charge [S8, n = 24] ; « mobilité », sans précision [S9, n = 20]. Tout cela est de la [Pratique rapportée] |
 | **Limite d'amplitude** | Sans broches : « prudence en flexion » aux semaines 2-4 (amplitude non chiffrée), puis flexion portée jusqu'à 30° à partir de la semaine 5 ; au-delà, NR [Pratique rapportée : S1, protocole précoce, n = 54]. Avec broches : pas de limite chiffrée ; « mouvements excessifs » évités jusqu'à 3 mois [Pratique rapportée : S3, n = 9] |
 | **Mouvement de lancer de fléchette** | **Utilisé dans aucune étude lue** [Lacune]. Un essai randomisé est en cours (NCT06590701 : lancer de fléchette précoce contre plans anatomiques après reconstruction SL) |
-| **Fin de l'étape** | À une date fixe [Pratique rapportée : S1, S3, S4, S5, S8 ; S2, S6 et S7 ne décrivent pas d'étape de renforcement]. Aucun critère clinique rapporté [Lacune] |
+| **Fin de l'étape** | À une date fixe [Pratique rapportée : S1, S3, S4, S5, S8 ; S2, S6 et S7 ne décrivent pas d'étape de renforcement ; S9 cite la force dès 6 semaines, sans étape distincte]. Aucun critère clinique rapporté [Lacune] |
 
 ### Étape 3 : renforcement et contrôle du poignet
 
 | | Ce que décrivent les études |
 |---|---|
-| **Début** | Très variable : **6 semaines** [S3, n = 9], **semaines 7-13** [S1, n = 108], charge croissante dès **8 semaines** [S5, n = 36], **10-12 semaines** [S8, n = 24], **après 6 mois** [S4, n = 7]. Tout cela est de la [Pratique rapportée] |
+| **Début** | Très variable : **6 semaines** [S3, n = 9], **semaines 7-13** [S1, n = 108], charge croissante dès **8 semaines** [S5, n = 36], **10-12 semaines** [S8, n = 24], **après 6 mois** [S4, n = 7] ; force et endurance nommées dès 6 semaines, sans date propre [S9, n = 20]. Tout cela est de la [Pratique rapportée] |
 | **Contenu** | « Coordination, force et stabilité » ; exercice consistant à tenir un haltère de 0,5 kg en position stable aux semaines 5-6 (protocole tardif) [Pratique rapportée : S1]. Ailleurs, contenu non décrit [Lacune] |
 | **Muscles** | Non précisés dans les études lues [Lacune] |
-| **Proprioception** | Seule la « coordination » de S1 s'en approche [Pratique rapportée : S1]. Son effet après reconstruction n'a pas été étudié dans les études lues [Lacune] |
-| **Fin de l'étape** | À une date fixe [Pratique rapportée : S3, S4, S5, S6, S8 ; S1, S2 et S7 ne donnent pas de date de reprise]. Aucun seuil de force ni test fonctionnel rapporté [Lacune] |
+| **Proprioception** | **Nommée** comme objectif dans S9, sans aucun contenu ; la « coordination » de S1 s'en approche [Pratique rapportée : S1, S9]. Son effet après chirurgie n'a pas été étudié dans les études lues [Lacune] |
+| **Fin de l'étape** | À une date fixe [Pratique rapportée : S3, S4, S5, S6, S8, S9 ; S1, S2 et S7 ne donnent pas de date de reprise]. Aucun seuil de force ni test fonctionnel rapporté [Lacune] |
 
 ### Étape 4 : reprise des activités, du travail et du sport
 
 | | Ce que décrivent les études |
 |---|---|
 | **Activités lourdes et sport** | Sport et travail lourd autorisés après **3 mois** [S6, n = 8] ; « mouvements excessifs » évités jusqu'à **3 mois** [S3, n = 9] ; charge complète à **16 semaines** [S5, n = 36] ; reprise progressive de toutes les activités dès **10-12 semaines** [S8, n = 24] ; activités contre résistance **après 6 mois** [S4, n = 7]. Tout cela est de la [Pratique rapportée] |
-| **Travail** | Retour au poste habituellement autorisé à **3 mois** [Pratique rapportée : S3]. Arrêt de travail moyen de **4 mois** (1 à 9), avec 4 patients sur 7 dans leur emploi antérieur [Résultat observé : S4]. À 3 mois, 82-91 % des **45 répondants** (sur 108) travaillaient ; 26 à 30 % des patients étaient sans emploi avant l'opération [Résultat observé : S1]. Une revue systématique trouve plus de 80 % de retour au travail ou au sport, quelle que soit la technique [Contexte, lu en résumé : C44] |
+| **Travail** | Retour au poste habituellement autorisé à **3 mois** [Pratique rapportée : S3]. Arrêt de travail moyen de **4 mois** (1 à 9), avec 4 patients sur 7 dans leur emploi antérieur [Résultat observé : S4]. À 3 mois, 82-91 % des **45 répondants** (sur 108) travaillaient ; 26 à 30 % des patients étaient sans emploi avant l'opération [Résultat observé : S1]. Travail et activités normales repris en **5 mois** en moyenne (1 à 9) [Résultat observé : S9, n = 20]. Une revue systématique trouve plus de 80 % de retour au travail ou au sport, quelle que soit la technique [Contexte, lu en résumé : C44] |
 | **Autres activités** | 84 % ont repris leurs activités antérieures (travail et sport non distingués) [Résultat observé : S7, n = 19] ; 8 patients sur 8 aussi [Résultat observé : S6] |
 | **Critères de reprise** | Aucun critère clinique rapporté [Lacune] |
 
@@ -87,15 +88,15 @@ Les « étapes » ci-dessous regroupent ce que décrivent les études. Leurs nom
 
 ## 3. Résultats au dernier suivi, chez les patients revus seulement
 
-**Une part importante des patients n'a pas été revue** (S4 : 7 sur 56 éligibles ; S5 : 36 sur 54 ; S8 : 24 sur 40). Les chiffres ci-dessous peuvent donc être plus favorables que la réalité.
+**Une part importante des patients n'a pas été revue** (S4 : 7 sur 56 éligibles ; S5 : 36 sur 54 ; S8 : 24 sur 40 ; S9 : nombre d'opérés inconnu). Les chiffres ci-dessous peuvent donc être plus favorables que la réalité.
 
 | Résultat | Ce qui est rapporté |
 |---|---|
-| Fonction | Scores en général bons au dernier suivi : Mayo 80-90, DASH 5-12, PRWE 12-16 [Résultat observé : S3-S7] |
+| Fonction | Scores en général bons au dernier suivi : Mayo 80-90, DASH 5-12, PRWE 12-16 [Résultat observé : S3-S7, S9] |
 | Mobilité | **77 à 87 % du côté sain** pour la flexion-extension [Résultat observé : S5, S6, S8] ; perte de flexion possible [Résultat observé : S4] |
 | Force | **83 à 98 % du côté sain** [Résultat observé : S5, S6, S8] ; 73 % dans S7 |
-| Tenue de la correction | Perte de correction radiologique entre le post-opératoire et le dernier suivi, dans deux séries de greffes pour instabilité chronique statique suivies 4 à 6 ans [Résultat observé : S4, S5]. Correction maintenue dans S3 et S7 (suivis plus courts). Dans S6 (formes statiques), l'espace SL reste anormal, sans mesure post-opératoire immédiate |
-| Arthrose et réinterventions | Arthrose apparue ou aggravée [Résultat observé : S4, S5, S6, S8]. Chirurgies secondaires : 3 sur 108 à 3 mois (S1) ; 2,3 % de conversions chez les patients sans SLAC (n = 400 ; suivi médian 4,5 ans) (S2) ; 1 sur 19 (S7) ; 2 sur 24 (S8) [Résultat observé] |
+| Tenue de la correction | Perte de correction radiologique entre le post-opératoire et le dernier suivi, dans deux séries de greffes pour instabilité chronique statique suivies 4 à 6 ans [Résultat observé : S4, S5]. Correction maintenue dans S3 et S7 (suivis plus courts). Dans S6 (formes statiques), l'espace SL reste anormal, sans mesure post-opératoire immédiate. Dans S9 (instabilité dynamique), l'angle et l'écart SL sont améliorés à 20 ans chez les patients revus |
+| Arthrose et réinterventions | Arthrose apparue ou aggravée [Résultat observé : S4, S5, S6, S8] ; pas d'arthrose radiocarpienne dans S9 (arthroses du trapèze et STT jugées liées à l'âge). Chirurgies secondaires : 3 sur 108 à 3 mois (S1) ; 2,3 % de conversions chez les patients sans SLAC (n = 400 ; suivi médian 4,5 ans) (S2) ; 1 sur 19 (S7) ; 2 sur 24 (S8) [Résultat observé] |
 
 **Aucune étude lue ne relie ces résultats au protocole de rééducation** [Lacune].
 
@@ -110,6 +111,7 @@ Cette liste n'est pas exhaustive. **Tout symptôme inquiétant se signale à l'�
 | Douleur sur le trajet d'un tendon du bord radial ou du FCR (tendon prélevé dans la 3LT) | Libération du 1er compartiment des extenseurs, synovectomie du FCR [Résultat observé : S1] |
 | Retour de l'instabilité (test de Watson positif, écart SL) | Récidive à 15 mois, reprise chirurgicale [Résultat observé : S7] |
 | Arthrose symptomatique, des mois ou des années après | Chirurgie de sauvetage à 8 mois et à 2,5 ans [Résultat observé : S8] |
+| Fracture du scaphoïde à travers le tunnel osseux, après une chute, 2 mois après l'ablation des broches | 1 cas, traité par plâtre ; pseudarthrose sans symptôme à 20 ans [Résultat observé : S9] |
 | Complications des tunnels osseux (nécrose, fracture du tunnel, échec de la greffe) | [Contexte, lu en résumé : C42, avis d'experts] |
 | SDRC (algodystrophie) | Aucun cas dans S1 ; non rapporté ailleurs |
 | Problèmes liés aux broches, au plâtre, troubles nerveux ou vasculaires | **Non rapportés par les études lues.** Cela ne veut pas dire qu'il n'y en a pas [Lacune] |
@@ -119,8 +121,8 @@ Cette liste n'est pas exhaustive. **Tout symptôme inquiétant se signale à l'�
 Ces outils ont servi à **mesurer les résultats**. Aucune étude ne les a utilisés pour décider du passage d'une étape à l'autre.
 - **Questionnaires :** PRWE ou PRWHE, DASH ou QuickDASH, score de Mayo modifié, MHQ.
 - **Douleur :** EVA au repos et en charge.
-- **Mobilité :** en degrés et en % du côté sain (goniomètre nommé dans S1 et S8).
-- **Force :** dynamomètre, en kg et en % du côté sain (Jamar nommé dans S5 et S8 ; protocole de Mathiowetz dans S1 ; S2 ne mesure pas la force).
+- **Mobilité :** en degrés et en % du côté sain (goniomètre nommé dans S1, S8 et S9).
+- **Force :** dynamomètre, en kg et en % du côté sain (Jamar nommé dans S5, S8 et S9 ; protocole de Mathiowetz dans S1 ; S2 ne mesure pas la force).
 
 ## 6. Ce que la recherche doit encore établir
 

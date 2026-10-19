@@ -1,4 +1,4 @@
-# Extraction des données (version réconciliée) et risque de biais : 8 études incluses
+# Extraction des données (version réconciliée) et risque de biais : 9 études incluses
 
 > **Statut :** version de référence pour la phase 3. Elle remplace `extraction_IA1_et_risque_biais.md`, gardé pour l'historique.
 > **Méthode :**
@@ -40,6 +40,7 @@ Pendant la seconde extraction, un défaut a été trouvé dans les PDF fabriqué
 | S6 (R00076) | Nienstedt F, Huber S, Mariacher M, Vorhauser E, Berger W. Long-term Results of the Treatment of Scapholunate Instability with Dynamic Extensor Carpi Radialis Brevis Tenodesis. Plast Reconstr Surg Glob Open. 2023;11(6):e5061. doi:10.1097/GOX.0000000000005061 |
 | S7 (R00091) | Lee YC, Shih YC, Lo IN, Shih JT. Arthroscopic scapholunate ligament repair and dorsal capsulodesis with suture anchor in acute and subacute scapholunate dissociation. J Orthop Surg Res. 2023;18(1):661. doi:10.1186/s13018-023-04148-y |
 | S8 (R00311) | Chen RE, Calfee RP, Stepan JG, Osei DA. Outcomes of Acute Versus Subacute Scapholunate Ligament Repair. J Hand Surg Glob Online. 2022;4(2):103-10. doi:10.1016/j.jhsg.2021.10.007 |
+| S9 (R00527) | Seradge H, Parker W, Seradge C, Steppe C, McKenzie A. Dynadesis for Treatment of Dynamic Scaphoid Instability with 20-Year Results. J Wrist Surg. 2023;12(1):73-80. doi:10.1055/s-0041-1735304 |
 
 **En attente de classement :** R00092, Rahman R, et al. *Temporary Dorsal Staple Fixation of Scapholunate Interosseous Ligament Repair and Reconstruction.* J Hand Surg Glob Online. 2026. L'âge des 20 patients n'est rapporté ni dans le texte ni dans un tableau. On ne peut donc pas confirmer qu'ils sont adultes, et l'étude n'est pas extraite.
 
@@ -57,6 +58,7 @@ Pendant la seconde extraction, un défaut a été trouvé dans les PDF fabriqué
 | S6 | Pays non précisé (comité d'éthique local). Série de cas rétrospective, opérés 2005-2014 (IV) | **8 évalués sur 9 opérés** | 44 ans (29-65) | Instabilité chronique (3-36 mois après le traumatisme) : statique réductible 4, dynamique 4 ; 6/8 travailleurs manuels | 12 ans (5-14) | Aucun intérêt financier déclaré |
 | S7 | Taïwan (hôpital des forces armées). Série de cas, janv. 2017-janv. 2020 (IV) | 19 ; 16 hommes | 24,1 ans (**17-27** : au moins un patient mineur, nombre non rapporté) | Lésion aiguë ou subaiguë (4-11 semaines) ; Geissler III chez tous | 26,5 mois (24-32) | Pas de financement spécifique ; pas de conflit |
 | S8 | États-Unis (Washington University, St. Louis ; 4 chirurgiens). Cohorte rétrospective de patients opérés en 1996-2012 et revus une fois en 2014 ; comparaison aigu (< 6 semaines) contre subaigu (6-12 semaines), c'est-à-dire un **facteur pronostique**, pas deux protocoles (niveau III pronostique) | **24 sur 40 éligibles** (12 + 12) ; les non-participants étaient plus jeunes et tous des hommes | 52 (35-67) et 51 (18-61) ans ; 67 % d'hommes | Dissociation « statique » de Garcia-Elias 2 à 4 selon le texte, « dynamique » selon le tableau 6 (incohérence de l'article) ; opérés à 22 et 64 jours | 7,2 et 6,2 ans | Bourse NIH (NCATS) ; « no benefits » |
+| S9 | États-Unis (Oklahoma City ; centre unique, un chirurgien, **concepteur de la technique**). Série de cas, caractère rétrospectif ou prospectif non précisé (IV) | **20 patients (21 poignets)** revus après au moins 20 ans ; nombre total d'opérés **non rapporté** | 42 ans à la chirurgie (étendue NR ; environ 32 à 51 ans d'après le tableau 2) ; 62 ans au suivi ; 15 femmes | Instabilité **dynamique** chronique du scaphoïde (Geissler II à IV, Garcia-Elias III), après échec d'au moins 6 mois de traitement conservateur et d'un débridement arthroscopique | 21 ans (20-27) | Financement NR ; « Conflict of Interest None declared » ; le premier auteur a conçu la technique |
 
 **Recoupement probable entre S1 et S2.** Les deux études viennent de la même base de données (Xpert Clinics, Pays-Bas), sur des périodes qui se chevauchent : 2012-2017 pour S1, décembre 2011 à décembre 2019 pour S2. S2 précise que cette base « a déjà servi à des études antérieures ». Les deux études sont gardées parce que leurs questions diffèrent, mais **leurs patients ne sont pas additionnés**.
 
@@ -79,6 +81,7 @@ Pendant la seconde extraction, un défaut a été trouvé dans les PDF fabriqué
 | S6 | **Ténodèse dynamique** : ECRB entier reroutée vers le pôle distal du scaphoïde (technique de Brunelli), ancres ; « sans réparation formelle du ligament SL » selon les auteurs | 2 broches (SL et scapho-capitale) dans 6 cas, aucune dans 2 cas ; retirées à 6 semaines | **Plâtre court prenant le pouce, poignet neutre, 6 semaines** | À 6 semaines : mobilisation active-aidée | **Pas de sport ni de travail lourd pendant 3 mois** | 8/8 ont repris leurs activités antérieures (délai NR) | *Surgical Technique* ; *Results* |
 | S7 | Réparation arthroscopique du SLIL (sans greffe) + capsulodèse dorsale par mini-ancre | 2 broches SL (0,8 mm) + brochage scapho-capital ; **retirées à 12 semaines** | **Plâtre 8 semaines** | Après le plâtre (8 semaines) : « mobilisation douce » du poignet + ergothérapie, broches encore en place | NR | 16/19 (84,2 %) ont repris leurs activités antérieures (délai NR) | Fin de *Surgical technique* ; *Results* |
 | S8 | Réparation directe du SLIL par ancres (sans greffe) ± **capsulodèse de Blatt** (16/24 : 9 aigus, 7 subaigus) | **Broches SL et scapho-capitale (1,4 mm), 6-8 semaines** | **Plâtre antébrachial prenant le pouce jusqu'à l'ablation des broches** | Après l'ablation des broches : ergothérapie graduée, attelle amovible prenant le pouce, « précautions de mise en charge » | **Renforcement à 10-12 semaines**, puis reprise progressive de toutes les activités sans restriction | NR | *Materials and Methods* |
+| S9 | **Stabilisation dynamique « Dynadesis »** : transfert tendineux de l'ECRL (en deux bandelettes) passé dans un tunnel du scaphoïde distal, puis verrouillé autour du FCR. **Le ligament SL n'est ni réparé ni reconstruit** ; les auteurs distinguent leur geste d'une ténodèse | **2 ou 3 broches dans la région STT, 6 semaines** | **Attelle prenant le pouce (*thumb spica*) jusqu'à l'ablation des broches, 6 semaines** | À 6 semaines : « rééducation pour retrouver la mobilité, la force (*power*), l'endurance et la proprioception » (contenu, ordre et délais NR) | Pas de restriction ni de date de renforcement rapportées | Travail et activités normales repris en **5 mois** en moyenne (1-9) | *Description of Technique* ; *Results* |
 
 **Critères de progression.** Les deux extractions concordent : **toutes les études utilisent uniquement des repères temporels** (semaines, ablation du plâtre ou des broches). Aucune n'utilise de critère clinique (douleur, mobilité, force, test fonctionnel) pour passer d'une phase à l'autre.
 
@@ -96,6 +99,7 @@ Pendant la seconde extraction, un défaut a été trouvé dans les PDF fabriqué
 | S6 (12 ans) | Mayo modifié 88 (75-98) : excellent 7, bon 1 ; DASH 5,4 ; PRWE 12 | 5 sans douleur, 2 légère, 1 modérée | Flexion-extension **82 %** du côté sain (62-91) | **83 %** (67-93) | Statiques : espace SL 6,5 → 4,5 mm (reste anormal) ; dynamiques : 2 → 1,5 mm | Arthrose SLAC III chez 2/8 (1 par sous-groupe) |
 | S7 (26,5 mois) | Mayo modifié 60,3 → **90,1** ; 18/19 bons ou excellents | EVA 5,1 → 1,6 (p < 0,01) | Arc flexion-extension 114° → 109° (**-5°**, NS) | 58,6 % → 73,3 % du côté sain | Angle SL inchangé ; pas de diastasis au poing serré chez 18/19 | **1 récidive d'instabilité à 15 mois**, reprise par ligamentoplastie au long palmaire ; aucune autre complication |
 | S8 (6-7 ans) | Aigu vs subaigu : MHQ total 89 vs 79 (p = 0,19) ; MHQ AVQ 90 vs 87 ; EVA fonction 8 vs 8 | EVA 1 vs 2 (p = 0,44) | Flexion 35° vs 32° ; **extension 55° vs 47° (p = 0,02)** ; 77-87 % du côté sain | 38 vs 39 kg (98 % et 90 % du côté sain) | Angle SL 70° → 68° (aigu) et 70° → 65° (subaigu) ; espace SL 3,5 → 2,9 mm | **Arthrose SLAC apparue chez 4/24** (1 aigu, 3 subaigus) ; **2 chirurgies de sauvetage** dans le groupe subaigu (à 8 mois et 2,5 ans). Les 2 patients repris sont exclus des comparaisons cliniques |
+| S9 (20-27 ans) | Mayo moyen **89** (50-100) au dernier suivi seulement ; 17/21 poignets bons ou excellents ; 100 % satisfaits (résumé) | EVA 0-5 : 3,9 → 0,4 ; 16/21 poignets sans douleur | Flexion 62° → 55° ; extension 51° → 55° ; arc final moyen 111° | 22 → 30 kg (côté sain NR) | Angle SL 58° → 49° ; écart SL au poing serré 3,5 → 2,4 mm ; pas d'arthrose radiocarpienne | **1 fracture du scaphoïde à travers le tunnel** après une chute, 2 mois après l'ablation des broches (plâtre 6 semaines ; pseudarthrose asymptomatique à 20 ans) ; arthroses jugées liées à l'âge (STT, trapèze) ; aucune réintervention rapportée |
 
 > **Encadré : la « non-infériorité » de S1 (Bakker 2022).** Les auteurs concluent que la mobilisation précoce n'est pas inférieure à la mobilisation tardive. Mais leur règle est inhabituelle : selon le texte, la non-infériorité serait démontrée si « un côté de l'intervalle de confiance à 95 % » est en dehors de la marge. De plus, l'article ne dit pas dans quel sens se lit la taille d'effet.
 > Pour le PRWHE, la taille d'effet est de 0,197, avec un IC 95 % de -0,19 à 0,58, et la marge est de 0,35. L'intervalle traverse donc la marge. Avec la règle habituelle (Cochrane, CONSORT), la non-infériorité n'est démontrée que si toute la partie défavorable de l'intervalle reste en deçà de la marge. Si la valeur positive signifie « moins bon avec le protocole précoce », ce n'est pas le cas ici. Le résultat est donc **non concluant**, pas « non inférieur ». La même remarque vaut pour plusieurs mesures de mobilité (inclinaison ulnaire : -0,64 à 0,26).
@@ -121,23 +125,23 @@ Pendant la seconde extraction, un défaut a été trouvé dans les PDF fabriqué
 
 **Limite majeure : suivi de 3 mois seulement.** L'étude ne dit rien de la tenue de la reconstruction ni de l'arthrose à long terme.
 
-### S2 à S8 : checklist JBI pour séries de cas (O = oui, N = non, ? = incertain)
+### S2 à S9 : checklist JBI pour séries de cas (O = oui, N = non, ? = incertain)
 
 S2 est une cohorte comparative, mais sa comparaison porte sur des stades d'arthrose sous la même chirurgie, et non sur deux protocoles de rééducation. Pour la question de cette revue (le protocole post-opératoire et ses résultats), elle est donc appréciée comme une série.
 
-| Item JBI | S2 | S3 | S4 | S5 | S6 | S7 | S8 |
-|---|---|---|---|---|---|---|---|
-| 1 Critères d'inclusion clairs | O | O | O | O | ? | O | O |
-| 2 Pathologie mesurée de façon standard | ? (SLAC stadifiée seulement si suspectée) | O | O | O | O | O | O (stades de Garcia-Elias) |
-| 3 Méthode d'identification valide | O | O | O | O | ? | O (arthroscopie) | O (constat opératoire) |
-| 4 Inclusion consécutive | ? | ? | **N** (sélection des patients observants et suivis) | O (« consécutive ») | ? | ? | ? (tous les éligibles repérés par la base de facturation ; caractère consécutif non dit) |
-| 5 Inclusion complète | **N** (questionnaires complets exigés) | ? | **N** (7 sur 56) | **N** (36 sur 54) | O (8 sur 9, perte expliquée) | ? | **N** (24 sur 40 ; non-participants différents) |
-| 6 Démographie décrite | O | O | O | ? (âge : moyenne ou médiane) | ? (sexe non rapporté) | O | O |
-| 7 Données cliniques décrites | O | O | O | ? (pas de données cliniques préopératoires) | **N** (idem) | O | ? (pas de scores préopératoires) |
-| 8 Résultats et suivi décrits | ? (variations sans dispersion) | ? (complications non rapportées) | O | ? (complications non rapportées ; suivi 15 mois à ?) | O | O (tableau 2) | O |
-| 9 Centre et contexte décrits | O | ? | **N** | **N** | **N** | **N** | **N** |
-| 10 Analyse statistique adaptée | O | O | O | O | ? (descriptive seulement) | O | ? (les 2 échecs sont retirés des comparaisons) |
-| **Synthèse** | Risque **modéré** | Risque **modéré** (n = 9 ; évaluation par les chirurgiens) | Risque **élevé** (sélection, n = 7, conflit d'intérêts) | Risque **modéré à élevé** (33 % perdus de vue ; examinateur indépendant) | Risque **élevé** (n = 8 ; pas de données préopératoires) | Risque **modéré** | Risque **modéré à élevé** (participation 60 % ; les 2 échecs sont exclus des comparaisons cliniques) |
+| Item JBI | S2 | S3 | S4 | S5 | S6 | S7 | S8 | S9 |
+|---|---|---|---|---|---|---|---|---|
+| 1 Critères d'inclusion clairs | O | O | O | O | ? | O | O | O |
+| 2 Pathologie mesurée de façon standard | ? (SLAC stadifiée seulement si suspectée) | O | O | O | O | O | O (stades de Garcia-Elias) | O (arthroscopie, Geissler) |
+| 3 Méthode d'identification valide | O | O | O | O | ? | O (arthroscopie) | O (constat opératoire) | O (arthroscopie) |
+| 4 Inclusion consécutive | ? | ? | **N** (sélection des patients observants et suivis) | O (« consécutive ») | ? | ? | ? (tous les éligibles repérés par la base de facturation ; caractère consécutif non dit) | ? |
+| 5 Inclusion complète | **N** (questionnaires complets exigés) | ? | **N** (7 sur 56) | **N** (36 sur 54) | O (8 sur 9, perte expliquée) | ? | **N** (24 sur 40 ; non-participants différents) | ? (seuls les patients revus à 20 ans ; nombre d'opérés NR) |
+| 6 Démographie décrite | O | O | O | ? (âge : moyenne ou médiane) | ? (sexe non rapporté) | O | O | O |
+| 7 Données cliniques décrites | O | O | O | ? (pas de données cliniques préopératoires) | **N** (idem) | O | ? (pas de scores préopératoires) | O |
+| 8 Résultats et suivi décrits | ? (variations sans dispersion) | ? (complications non rapportées) | O | ? (complications non rapportées ; suivi 15 mois à ?) | O | O (tableau 2) | O | O (évaluateur indépendant ; Mayo préopératoire NR) |
+| 9 Centre et contexte décrits | O | ? | **N** | **N** | **N** | **N** | **N** | **N** |
+| 10 Analyse statistique adaptée | O | O | O | O | ? (descriptive seulement) | O | ? (les 2 échecs sont retirés des comparaisons) | ? (2 valeurs p sans test nommé) |
+| **Synthèse** | Risque **modéré** | Risque **modéré** (n = 9 ; évaluation par les chirurgiens) | Risque **élevé** (sélection, n = 7, conflit d'intérêts) | Risque **modéré à élevé** (33 % perdus de vue ; examinateur indépendant) | Risque **élevé** (n = 8 ; pas de données préopératoires) | Risque **modéré** | Risque **modéré à élevé** (participation 60 % ; les 2 échecs sont exclus des comparaisons cliniques) | Risque **modéré** selon la règle ; **réserves** : nombre d'opérés inconnu (biais du survivant possible), chirurgien concepteur de la technique |
 
 Les jugements ci-dessus combinent les deux extractions. Quand elles différaient, le jugement retenu est celui que justifie la source relue (section 6).
 
@@ -146,7 +150,7 @@ Les jugements ci-dessus combinent les deux extractions. Quand elles différaient
 - **modéré à élevé** : un « N » à l'item 5, avec plus de 30 % de patients non évalués ;
 - **modéré** : les autres cas.
 
-Application : S4 (items 4 et 5 « N », n = 7) et S6 (item 7 « N », n = 8) sont « élevés » ; S5 (item 5 « N », 33 % perdus de vue) et S8 (item 5 « N », 40 % non participants) sont « modérés à élevés » ; S2, S3 et S7 sont « modérés ». Pour S3 (n = 9), aucun item n'est « N », mais quatre sont incertains.
+Application : S4 (items 4 et 5 « N », n = 7) et S6 (item 7 « N », n = 8) sont « élevés » ; S5 (item 5 « N », 33 % perdus de vue) et S8 (item 5 « N », 40 % non participants) sont « modérés à élevés » ; S2, S3, S7 et S9 sont « modérés ». Pour S3 (n = 9), aucun item n'est « N », mais quatre sont incertains. Pour S9, la règle donne « modéré », mais le dénominateur inconnu (seuls les patients revus à 20 ans sont décrits) et le rôle du chirurgien concepteur sont des réserves importantes.
 
 ---
 
@@ -163,6 +167,8 @@ Pour chaque étude, **12 données clés** ont été comparées : type d'étude, 
 | Divergent : deux valeurs ou deux lectures différentes | **2** (S1 : interprétation de la non-infériorité ; S7 : complications) |
 
 Aucune erreur de l'extraction n° 2 n'a été trouvée sur ces données clés. Ses manques venaient des tableaux absents des PDF, et ils ont été comblés avec le fichier XML.
+
+**S9 (R00527), ajouté le 2026-10-19 après la décision de l'auteur.** Deux extractions IA indépendantes (A et B), toutes deux avec les tableaux du XML, ont été comparées. Les **12 données clés concordent (12 sur 12)**, et les jugements JBI sont identiques item par item. Les seules différences portent sur la formulation.
 
 **S8 : choix de l'outil de risque de biais.** La comparaison aigu contre subaigu porte sur un facteur pronostique (le délai avant la chirurgie), et non sur un protocole de rééducation : le protocole est le même pour tous. Les deux extractions ont donc apprécié S8 comme une série (JBI). L'extraction n° 2 avait d'abord jugé cette comparaison avec ROBINS-I, avec un risque **sérieux** (aucun ajustement, 40 % des éligibles absents). Ce jugement est à citer si l'on utilise la comparaison aigu contre subaigu.
 
@@ -194,25 +200,18 @@ Aucune erreur de l'extraction n° 2 n'a été trouvée sur ces données clés. S
 
 ---
 
-## 7. Questions d'éligibilité pour l'auteur
+## 7. Questions d'éligibilité (réglées le 2026-10-19)
 
-1. **S6 (Nienstedt 2023) et R00527 : une incohérence du tri.**
-   - S6 est une **ténodèse dynamique** à l'ECRB (technique de Brunelli) : le tendon est fixé au scaphoïde pour le stabiliser, sans reconstruction du ligament lui-même. Elle a été **incluse**.
-   - R00527 est une **stabilisation dynamique** à l'ECRL (« Dynadesis », suivi de plus de 20 ans). Elle a été **exclue** (motif E4 : « ligament non réparé ni reconstruit »), par l'arbitre IA après un désaccord entre les deux relecteurs.
-   - Les deux gestes appartiennent à la même famille. S6 la présente d'ailleurs ainsi dans son tableau 4, où figure l'étude source de la technique de R00527 (Seradge).
-   - Le protocole confirmé par l'auteur cite explicitement « *ECRB or ECRL tenodesis* » et « *Brunelli* » parmi les techniques incluses.
-   - **Recommandation : inclure aussi R00527**, pour rester fidèle au protocole écrit avant le tri. Cela demande deux extractions de plus. Autre choix cohérent : exclure les deux.
-   - Dans tous les cas, ces techniques forment une famille à part dans la synthèse (« stabilisation dynamique »), et le résultat principal est vérifié avec et sans elles.
-   - La correction d'une décision de tri appartient à l'auteur : `sr-screener` l'enregistre comme une décision humaine (`overrides.csv`).
-2. **S7 et l'âge** : inclusion maintenue, l'incertitude est notée (section 2).
-3. **R00092** : reste « en attente de classement » (âge non rapporté). Si l'auteur ne cherche pas d'autre source, l'étude reste hors synthèse et apparaît comme telle dans le diagramme PRISMA.
-
----
+1. **S6 (Nienstedt 2023) et R00527 (Seradge 2023).** L'auteur a décidé d'**inclure R00527**, pour rester cohérent avec S6. La décision est enregistrée comme décision humaine dans `sr-screener` (`../tri/sr_work/overrides_ft.csv`). R00527 devient **S9**.
+   - Selon leurs auteurs, ni S6 ni S9 ne réparent ou ne reconstruisent le ligament SL : ce sont des **stabilisations dynamiques** par un tendon.
+   - Elles forment une famille à part dans la synthèse, et les résultats sont vérifiés sans elles (analyse de sensibilité).
+2. **S7 et l'âge** : inclusion maintenue ; l'incertitude est notée (section 2).
+3. **R00092** : reste « en attente de classement » (âge non rapporté).
 
 ## 8. Ce que montre l'extraction réconciliée
 
 1. **Deux grandes familles de protocoles :**
-   - **(a) immobilisation longue avec broches** : 6 à 8 semaines de plâtre, puis mobilisation, avec une charge complète ou une reprise des activités lourdes entre 3 et 4 mois, et même 6 mois pour le renforcement dans S4 (S3, S4, S5, S6, S7, S8) ;
+   - **(a) immobilisation longue avec broches** : 6 à 8 semaines de plâtre ou d'attelle, puis mobilisation, avec une charge complète ou une reprise des activités lourdes entre 3 et 4 mois, et même 6 mois pour le renforcement dans S4 (S3 à S9, sauf S1 et S2) ;
    - **(b) mobilisation précoce sans broches** après 3LT : 3 à 5 jours de plâtre, puis une orthèse (S1 précoce, S2).
 2. **Une seule étude compare deux protocoles (S1).** À 3 mois, aucune différence significative n'apparaît pour la fonction, la douleur, la mobilité et la force, et les complications ne sont pas plus nombreuses avec la mobilisation précoce. La non-infériorité n'est **pas démontrée de façon rigoureuse** (encadré section 4).
 3. **Les critères de progression sont toujours temporels.** Aucune étude incluse n'utilise de critère clinique pour passer d'une phase à l'autre : c'est une [Lacune].

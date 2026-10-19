@@ -1,20 +1,20 @@
 # Phase 3 · Synthèse narrative structurée (guide SWiM)
 
 > `deep-research`, mode `systematic-review`, phase 3 : `meta_analysis_agent` (décision de ne pas regrouper, cadre SWiM) et `synthesis_agent` (synthèse).
-> Source des données : `../phase2/extraction/extraction_reconciliee_et_risque_biais.md` (8 études ; S1 à S8).
-> Statut : **version 2, révisée après le point de contrôle 2** (avocat du diable : `04_Devils_Advocate_CP2.md` ; contrôle de fidélité aux sources). En attente de la décision de l'auteur sur les textes non lus (voir encadré).
+> Source des données : `../phase2/extraction/extraction_reconciliee_et_risque_biais.md` (9 études ; S1 à S9).
+> Statut : **version 2.1** : révisée après le point de contrôle 2 (avocat du diable : `04_Devils_Advocate_CP2.md` ; contrôle de fidélité aux sources), puis complétée le 2026-10-19 par S9 (R00527, inclus par décision de l'auteur). Les 17 textes gratuits sur PMC sont en cours de récupération par l'auteur : la synthèse sera mise à jour.
 
-> ⚠️ **Portée de cette synthèse.** Elle repose sur les **16 textes intégraux lus sur 75** retenus au tri, dont 8 études incluses.
-> - Les 59 autres n'ont pas été lus : le téléchargement automatique était impossible, et l'auteur a choisi de ne pas faire de recherche manuelle (option (a)).
+> ⚠️ **Portée de cette synthèse.** Elle repose sur les **16 textes intégraux lus sur 75** retenus au tri, dont 9 études incluses (8 par le tri IA, 1 par décision de l'auteur).
+> - Les 59 autres n'ont pas été lus : le téléchargement automatique était impossible. L'auteur récupère maintenant les 17 textes gratuits sur PMC.
 > - **17 d'entre eux sont pourtant gratuits sur PMC.** Parmi eux figure **une autre étude comparative sur la même question**, non lue : Kemler 2023, « *Scapholunate Ligament Reconstruction without Immobilization Is Safe and Leads to Better Functional Results* ».
-> - Toutes les phrases « aucune étude », « une seule étude », « toutes les études » ci-dessous valent donc **pour les 8 études lues**, pas pour toute la littérature.
+> - Toutes les phrases « aucune étude », « une seule étude », « toutes les études » ci-dessous valent donc **pour les 9 études lues**, pas pour toute la littérature.
 
 ---
 
 ## 1. Pourquoi pas de méta-analyse
 
 Le protocole prévoyait une méta-analyse seulement si au moins 3 études comparatives rapportaient le même résultat avec des protocoles comparables.
-- **Parmi les 8 études lues, une seule compare deux protocoles de rééducation (S1).** Les sept autres décrivent chacune un protocole unique.
+- **Parmi les 9 études lues, une seule compare deux protocoles de rééducation (S1).** Les huit autres décrivent chacune un protocole unique.
 - Les chiffres ne peuvent donc pas être regroupés. La synthèse est narrative et structurée, selon le guide SWiM (*Synthesis Without Meta-analysis* ; Campbell M, et al. BMJ. 2020;368:l6890).
 
 ## 2. Méthode de synthèse (items SWiM)
@@ -33,18 +33,18 @@ Le protocole prévoyait une méta-analyse seulement si au moins 3 études compar
 
 ## 3. Les études en bref
 
-- **8 études, 2022-2026** :
+- **9 études, 2022-2026** :
   - 1 cohorte comparative (S1, 108 patients) ;
   - 1 cohorte sur base de données (S2, 95 patients utilisés) ;
-  - 6 séries de 7 à 36 patients.
-- **Patients :** **entre environ 210 et 306 patients**. La somme fait 306, mais S1 et S2 viennent de la même base et peuvent partager jusqu'à 95 patients.
+  - 7 séries de 7 à 36 patients.
+- **Patients :** **entre environ 230 et 326 patients**. La somme fait 326, mais S1 et S2 viennent de la même base et peuvent partager jusqu'à 95 patients.
   - Âge moyen ou médian de 24 à 53 ans selon l'étude ; en majorité des hommes.
-  - Opérés surtout pour une instabilité chronique (S3 à S6), parfois pour une lésion aiguë ou subaiguë (S7, S8). L'ancienneté n'est pas rapportée dans S1 et S2.
-- **Suivi :** de 3 mois (S1) à 12 ans (S6).
+  - Opérés surtout pour une instabilité chronique (S3 à S6, S9), parfois pour une lésion aiguë ou subaiguë (S7, S8). L'ancienneté n'est pas rapportée dans S1 et S2.
+- **Suivi :** de 3 mois (S1) à 21 ans en moyenne (S9).
 - **Pays :** Pays-Bas (S1, S2 : un seul réseau de cliniques), Corée du Sud, France, Allemagne, Taïwan, États-Unis, et un pays non précisé (S6).
 - **Risque de biais :**
   - S1 : modéré (fonction, douleur) à sérieux (mobilité, force, reprise du travail) ;
-  - séries : modéré (S2, S3, S7), modéré à élevé (S5, S8), élevé (S4, S6).
+  - séries : modéré (S2, S3, S7 ; S9 avec réserves), modéré à élevé (S5, S8), élevé (S4, S6).
 
 ---
 
@@ -54,12 +54,12 @@ Le protocole prévoyait une méta-analyse seulement si au moins 3 études compar
 
 | | **Parcours A : avec broches** | **Parcours B : sans broches** |
 |---|---|---|
-| Études | S3, S4, S5, S6, S7, S8 : **6 études, au moins 5 pays** | S1 (2 protocoles), S2 : **un seul réseau de cliniques néerlandais** (patients probablement en partie communs) |
-| Chirurgie | Greffe tendineuse (S3, S4, S5), réparation avec capsulodèse (S7, S8), stabilisation dynamique (S6) | 3LT (greffe de FCR) uniquement |
+| Études | S3, S4, S5, S6, S7, S8, S9 : **7 études, au moins 5 pays** | S1 (2 protocoles), S2 : **un seul réseau de cliniques néerlandais** (patients probablement en partie communs) |
+| Chirurgie | Greffe tendineuse (S3, S4, S5), réparation avec capsulodèse (S7, S8), stabilisation dynamique sans geste sur le ligament (S6, S9) | 3LT (greffe de FCR) uniquement |
 | Broches | Toutes (dans S6, 6 cas sur 8) ; laissées 6 à 12 semaines | Aucune |
-| Immobilisation rigide | Plâtre ou attelle **6 à 8 semaines** ; position neutre quand elle est précisée (S5, S6) ; pouce inclus dans S6 et S8 | **3 à 5 jours** (S1 précoce ; S2, moyen non précisé) ou plâtre de **10 à 16 jours** (S1 tardif), puis orthèse amovible (24 h/24 jusqu'à 5-6 semaines dans S1 ; jusqu'à 6 semaines le jour et 12 semaines la nuit dans S2) |
+| Immobilisation rigide | Plâtre ou attelle **6 à 8 semaines** ; position neutre quand elle est précisée (S5, S6) ; pouce inclus dans S6, S8 et S9 | **3 à 5 jours** (S1 précoce ; S2, moyen non précisé) ou plâtre de **10 à 16 jours** (S1 tardif), puis orthèse amovible (24 h/24 jusqu'à 5-6 semaines dans S1 ; jusqu'à 6 semaines le jour et 12 semaines la nuit dans S2) |
 | Début de la mobilisation du poignet | En général à l'ablation du plâtre et des broches : **6 à 8 semaines**. Dans S7, à 8 semaines, broches encore en place jusqu'à 12 semaines | **Semaine 2** (S1 précoce : « prudence en flexion » aux semaines 2-4, amplitude non chiffrée, puis flexion portée jusqu'à 30° à partir de la semaine 5) ou **semaines 5-6** (S1 tardif). S2 : NR |
-| Encadrement | Kinésithérapie (S3, S4 supervisée, S5), ergothérapie (S7, S8), NR (S6) | Rééducation de la main supervisée en **centres spécialisés** (S1) ; programme de 3 mois « proposé » (S2) |
+| Encadrement | Kinésithérapie (S3, S4 supervisée, S5), ergothérapie (S7, S8), NR (S6, S9) | Rééducation de la main supervisée en **centres spécialisés** (S1) ; programme de 3 mois « proposé » (S2) |
 
 **À ne pas sur-lire :**
 - Le parcours B n'est pas une « tradition » de même poids que le parcours A : il vient d'**un seul réseau néerlandais**.
@@ -70,7 +70,7 @@ Le protocole prévoyait une méta-analyse seulement si au moins 3 études compar
 
 | Avant 6 semaines | À 6 semaines | Après 6 semaines | Non rapporté |
 |---|---|---|---|
-| S1 précoce (semaine 2), S1 tardif (semaines 5-6) | S3, S6 | S5 (8), S7 (8), S8 (6-8) | S2, S4 |
+| S1 précoce (semaine 2), S1 tardif (semaines 5-6) | S3, S6, S9 | S5 (8), S7 (8), S8 (6-8) | S2, S4 |
 
 ### Tableau 2. Délais
 
@@ -78,9 +78,9 @@ Le protocole prévoyait une méta-analyse seulement si au moins 3 études compar
 
 | Composante | Parcours A | Parcours B |
 |---|---|---|
-| Durée du plâtre (semaines) | **médiane 7 ; étendue 6-8** (5 études ; NR dans S4) | 0,4 à 2,3 (3 à 16 jours), puis orthèse |
-| Durée des broches (semaines) | **médiane 7 ; étendue 6-12** (5 études ; NR dans S4) | sans objet |
-| Début de la mobilisation du poignet (semaines) | **médiane 7 ; étendue 6-8** (5 études) | 2 (précoce) ; 5-6 (tardif) |
+| Durée du plâtre ou de l'attelle (semaines) | **médiane 6,5 ; étendue 6-8** (6 études ; NR dans S4) | 0,4 à 2,3 (3 à 16 jours), puis orthèse |
+| Durée des broches (semaines) | **médiane 6,5 ; étendue 6-12** (6 études ; NR dans S4) | sans objet |
+| Début de la mobilisation du poignet (semaines) | **médiane 6,5 ; étendue 6-8** (6 études) | 2 (précoce) ; 5-6 (tardif) |
 
 **Délais de définitions différentes** : pas de médiane, une ligne par étude.
 
@@ -94,18 +94,20 @@ Le protocole prévoyait une méta-analyse seulement si au moins 3 études compar
 | S3 | « Mouvements excessifs » évités ; retour au poste habituellement autorisé | Jusqu'à 3 mois ; 3 mois |
 | S5 | Mise en charge complète autorisée | 16 semaines |
 | S4 | Renforcement et activités contre résistance | Après 6 mois |
+| S9 | Rééducation « pour retrouver la mobilité, la force, l'endurance et la proprioception » | Après 6 semaines (pas de date propre au renforcement) |
+| S9 | Travail et activités normales repris | 5 mois en moyenne (1-9) |
 | S2, S7 | NR | — |
 
-**En résumé :** le renforcement commence, selon l'étude, entre **6 et 12 semaines** (4 études sur 5 qui le décrivent), voire **après 6 mois** (S4). Les activités lourdes, le sport ou la charge complète sont autorisés **vers 3 mois** (S3, S6), à **16 semaines** (S5) ou **après 6 mois** (S4).
+**En résumé :** le renforcement commence, selon l'étude, entre **6 et 12 semaines** (4 des 5 études qui le datent), voire **après 6 mois** (S4). S9 le cite comme objectif dès 6 semaines, sans date. Les activités lourdes, le sport ou la charge complète sont autorisés **vers 3 mois** (S3, S6), à **16 semaines** (S5) ou **après 6 mois** (S4).
 
-### Tableau 3. Ce que les 8 études lues ne rapportent pas
+### Tableau 3. Ce que les 9 études lues ne rapportent pas
 
 | Élément du protocole | Études qui le rapportent |
 |---|---|
 | Nombre de séances de rééducation | **Aucune** |
 | Mobilisation passive ou active (distinction) | S6 (active-aidée) ; S3 et S5 (active) ; S1 (protocoles dits « *active motion* », exercices décrits comme « ROM ») |
 | Mouvement de lancer de fléchette (*dart-throwing motion*) | **Aucune** |
-| Proprioception ou contrôle neuromusculaire | S1 seulement : « coordination » (tenir un haltère de 0,5 kg en position stable), puis entraînement de la stabilité. Remarque : selon la note de tri, R00527 (exclue, question d'éligibilité en suspens) décrirait un travail de proprioception |
+| Proprioception ou contrôle neuromusculaire | S1 : « coordination » (tenir un haltère de 0,5 kg en position stable), puis entraînement de la stabilité. S9 : « proprioception » nommée comme objectif après 6 semaines, **sans aucun contenu** |
 | Électrostimulation | **Aucune** |
 | Muscles ciblés par le renforcement | **Aucune** |
 | Observance | S1 (contrôle de quelques dossiers) ; S4 (critère d'exclusion : moins de 70 % des séances suivies) |
@@ -116,19 +118,20 @@ Le protocole prévoyait une méta-analyse seulement si au moins 3 études compar
 
 ### Tableau 4. Résultats observés (non contrôlés), par famille de techniques
 
-Les résultats sont présentés au dernier suivi de chaque étude, avec le moment de mesure. Le regroupement par fenêtre de temps prévu au protocole (< 6 mois, 6-12 mois, > 12 mois) se lit dans la colonne « Études (suivi) » : S1 seul est dans la fenêtre < 6 mois, S2 seul dans la fenêtre 6-12 mois, et les six autres dans la fenêtre > 12 mois. Cet écart de présentation est déclaré dans les amendements du protocole.
+Les résultats sont présentés au dernier suivi de chaque étude, avec le moment de mesure. Le regroupement par fenêtre de temps prévu au protocole (< 6 mois, 6-12 mois, > 12 mois) se lit dans la colonne « Études (suivi) » : S1 seul est dans la fenêtre < 6 mois, S2 seul dans la fenêtre 6-12 mois, et les sept autres dans la fenêtre > 12 mois. Cet écart de présentation est déclaré dans les amendements du protocole.
 
 | Famille de techniques | Études (suivi) | Fonction | Mobilité | Force | Radiologie, échecs |
 |---|---|---|---|---|---|
 | Greffe tendineuse sans broches (parcours B) | S1 (3 mois) ; S2 (12 mois) | PRWHE médiane 36,5-37,5 à 3 mois (préop. 57-62) ; PRWE amélioré (diminué) de 30 points à 12 mois | S1 : flexion dorsale 48°, palmaire 38-39° à 3 mois | S1 : 24-26 kg à 3 mois | S1 : **pas de radiologie**. S2 : conversion vers une chirurgie de l'arthrose chez **2,3 % des patients sans SLAC** (n = 400 ; suivi médian 4,5 ans) |
 | Greffe tendineuse avec broches (parcours A) | S3 (17 mois) ; S4 (6 ans) ; S5 (4 ans) | Mayo 88 (S3), 80 (S4) ; PRWE 16 (S4) ; DASH 12 (S5) | 77 % du côté sain (S5) ; perte de flexion 70° → 50° (S4, NS) | 92 % du côté sain (S5) ; 34 kg contre 43 kg du côté sain (S4) | **Perte de correction** entre le post-opératoire et le dernier suivi (S4, S5) ; arthrose aggravée chez 8/36 (S5) et 1/7 (S4) ; correction maintenue dans S3 |
 | Réparation avec capsulodèse (parcours A) | S7 (2 ans) ; S8 (6-7 ans) | Mayo 90 (S7) ; MHQ 79-89 (S8) | Arc -5° (S7) ; extension 47-55° (S8) | 73 % du côté sain (S7) ; 90-98 % (S8) | Correction maintenue (S7) ; valeurs finales proches des valeurs préopératoires (S8) ; 1 récidive sur 19 (S7) ; arthrose apparue chez 4/24 et 2 chirurgies de sauvetage (S8, groupe subaigu) |
-| Stabilisation dynamique (parcours A) | S6 (12 ans) | Mayo 88 ; DASH 5 | 82 % du côté sain | 83 % du côté sain | Formes statiques : espace SL amélioré mais resté anormal (pas de mesure post-opératoire immédiate) ; arthrose chez 2/8 |
+| Stabilisation dynamique, sans geste sur le ligament (parcours A) | S6 (12 ans) ; S9 (21 ans) | Mayo 88 (S6), 89 (S9) ; DASH 5 (S6) | 82 % du côté sain (S6) ; arc final 111° (S9) | 83 % du côté sain (S6) ; 22 → 30 kg (S9) | S6, formes statiques : espace SL amélioré mais resté anormal ; arthrose chez 2/8. S9 (instabilité dynamique) : angle SL 58° → 49°, pas d'arthrose radiocarpienne ; 1 fracture du scaphoïde à travers le tunnel |
 
 **Ces résultats ne viennent que des patients revus.** Une part importante des patients n'a pas été évaluée :
 - S4 : 7 analysés sur 56 éligibles ;
 - S5 : 18 perdus de vue sur 54 opérés ;
-- S8 : 16 des 40 éligibles n'ont pas participé, et les 2 échecs sont retirés des comparaisons cliniques.
+- S8 : 16 des 40 éligibles n'ont pas participé, et les 2 échecs sont retirés des comparaisons cliniques ;
+- S9 : seuls les patients revus après 20 ans sont décrits, et le nombre total d'opérés n'est pas donné.
 
 Les résultats peuvent donc être plus favorables que la réalité (biais du survivant).
 
@@ -179,8 +182,9 @@ Règle appliquée à toutes les lignes : la direction est celle des **estimation
 | S6 | Ablation du plâtre et des broches (6 semaines) ; 3 mois pour le sport et le travail lourd | Non |
 | S7 | Ablation du plâtre (8 semaines) ; ablation des broches (12 semaines) | Non |
 | S8 | Ablation des broches (6-8 semaines) ; 10-12 semaines pour le renforcement | Non |
+| S9 | Ablation des broches (6 semaines) ; aucune autre étape datée | Non |
 
-**Résultat :** dans les 8 études lues, le passage d'une phase à l'autre n'est décrit que par le temps écoulé ou par l'ablation du matériel. Aucune ne rapporte de critère fondé sur la douleur, la mobilité, la force, un test clinique ou un questionnaire. Aucun critère clinique n'a été **comparé** à un calendrier fixe. [Lacune]
+**Résultat :** dans les 9 études lues, le passage d'une phase à l'autre n'est décrit que par le temps écoulé ou par l'ablation du matériel. Aucune ne rapporte de critère fondé sur la douleur, la mobilité, la force, un test clinique ou un questionnaire. Aucun critère clinique n'a été **comparé** à un calendrier fixe. [Lacune]
 
 **Prudence d'interprétation.** Ce constat peut refléter **la façon dont les articles chirurgicaux décrivent la rééducation**, plutôt que la pratique réelle :
 - la rééducation y tient en un paragraphe des Méthodes, décrite par convention en semaines ;
@@ -195,16 +199,15 @@ Règle appliquée à toutes les lignes : la direction est celle des **estimation
 |---|---|
 | Famille de techniques | Décrit dans le tableau 4 ; trop peu d'études par famille pour conclure |
 | Broches ou non | Se confond avec les parcours A et B. Toutes les études sans broches sont des 3LT d'un même réseau néerlandais : l'effet des broches ne peut pas être séparé de celui de la technique ni du centre |
-| Instabilité statique ou dynamique | Mal rapportée : statique dans S3, S4, S5 et S8 (S8 se contredit) ; S6 a 4 statiques et 4 dynamiques ; NR dans S1, S2, S7. Dans S6, l'espace SL reste anormal dans les formes statiques, avec une fonction semblable. **Pas de conclusion possible** |
+| Instabilité statique ou dynamique | Mal rapportée : statique dans S3, S4, S5 et S8 (S8 se contredit) ; S6 a 4 statiques et 4 dynamiques ; dynamique dans S9 ; NR dans S1, S2, S7. Dans S6, l'espace SL reste anormal dans les formes statiques, avec une fonction semblable. **Pas de conclusion possible** |
 
 ## 8. Analyses de sensibilité
 
 | Analyse | Délais (tableaux 1-2) | Résultats à long terme (tableau 4) | Messages clés (section 11) |
 |---|---|---|---|
-| **Sans S6** (stabilisation dynamique, question d'éligibilité) | Inchangés (plâtre et broches : 6 semaines) | On perd le seul suivi de 12 ans et une des deux sources « 3 mois » pour le sport et le travail lourd (il reste S3, qui ne parle que du retour au poste) | Message 7 : la liste « arthrose » passe de 4 à 3 études |
+| **Sans S6 ni S9** (stabilisations dynamiques, sans geste sur le ligament) | Plâtre, broches et début de la mobilisation : médiane 7,5 au lieu de 6,5 semaines, étendues inchangées | On perd les deux suivis les plus longs (12 et 21 ans) et la seule source « sport et travail lourd après 3 mois » (il reste S3, qui ne parle que du retour au poste) | Message 6 : la proprioception n'est plus nommée que dans S1. Message 7 : la liste « arthrose » passe de 4 à 3 études |
 | **Sans S7** (patients peut-être mineurs) | Étendue des broches : 6-8 au lieu de 6-12 semaines ; le reste est inchangé | On perd une des deux réparations avec capsulodèse | Message 2 : l'exception « mobilisation avec broches en place » disparaît |
 | **Sans S2** (recoupement avec S1, utilisation partielle) | Le parcours B ne repose plus que sur S1 (S2 suit le même protocole de réseau) | On perd le seul résultat à 12 mois du parcours B | Inchangés |
-| **Avec R00527** (si l'auteur décide de l'inclure) | Selon la note de tri : plâtre de 6 semaines, puis mobilité, force et proprioception | Ajouterait un suivi de plus de 20 ans | Messages 5-6 : la proprioception ne serait plus décrite par « S1 seulement ». À refaire après extraction |
 
 ## 9. Recommandations officielles (sous-question 5, contrainte UC-007)
 
@@ -236,8 +239,8 @@ Détail : `../phase2/recommandations/recherche_recommandations.md`.
 ## 11. Messages clés (version 2)
 
 1. **Aucune recommandation officielle** sur la rééducation après chirurgie SL n'a été trouvée dans les sources consultées (recherche provisoire). [Constat de la recherche]
-2. **Le calendrier varie avec la présence de broches et selon les centres.** [Pratique rapportée, 8 études]
-   - Avec des broches (6 études, au moins 5 pays) : immobilisation de 6 à 8 semaines, puis mobilisation du poignet, en général à l'ablation des broches.
+2. **Le calendrier varie avec la présence de broches et selon les centres.** [Pratique rapportée, 9 études]
+   - Avec des broches (7 études, au moins 5 pays) : immobilisation de 6 à 8 semaines, puis mobilisation du poignet, en général à l'ablation des broches.
    - Sans broches, après une 3LT (un seul réseau néerlandais) : quelques jours de plâtre, puis une orthèse, avec une mobilisation du poignet à partir de la 2e semaine ou des semaines 5-6.
    - Une même technique (3LT) a été suivie de plâtres de 3 jours à 6 semaines.
 3. **Mobilisation précoce contre tardive après 3LT sans broches.** [Preuve comparative : 1 cohorte lue, certitude GRADE très faible]
@@ -246,9 +249,9 @@ Détail : `../phase2/recommandations/recherche_recommandations.md`.
    - Elle ne mesurait pas la tenue de la reconstruction, et le retour au poste d'origine était moins fréquent dans le groupe précoce (non testé).
    - Une autre étude comparative existe, mais elle n'a pas été lue.
 4. **Le renforcement commence**, selon l'étude, entre 6 et 12 semaines, voire après 6 mois. **Le sport, le travail lourd ou la charge complète** sont autorisés vers 3 mois, à 16 semaines ou après 6 mois selon l'étude. [Pratique rapportée, séries]
-5. **Dans les 8 études lues, le passage d'une phase à l'autre suit uniquement le calendrier.** Aucun critère clinique n'est rapporté, et aucun n'a été comparé à un calendrier. Cela peut aussi venir de la façon dont les articles chirurgicaux décrivent la rééducation. [Lacune]
-6. **Le contenu de la rééducation est presque absent des études lues** : nombre de séances, proprioception, lancer de fléchette, muscles à renforcer. [Lacune] Un essai randomisé est en cours sur le lancer de fléchette.
-7. **Une perte de correction radiologique** est rapportée dans deux séries de greffes tendineuses pour instabilité chronique statique, suivies 4 à 6 ans (S4, S5). La correction est maintenue dans S3 et S7, dont le suivi est plus court (17 mois et 2 ans). Une arthrose apparue ou aggravée est rapportée dans S4, S5, S6 et S8. [Résultat observé, non contrôlé : certitude très faible]
+5. **Dans les 9 études lues, le passage d'une phase à l'autre suit uniquement le calendrier.** Aucun critère clinique n'est rapporté, et aucun n'a été comparé à un calendrier. Cela peut aussi venir de la façon dont les articles chirurgicaux décrivent la rééducation. [Lacune]
+6. **Le contenu de la rééducation est presque absent des études lues** : nombre de séances, proprioception (seulement nommée dans S1 et S9, sans contenu dans S9), lancer de fléchette, muscles à renforcer. [Lacune] Un essai randomisé est en cours sur le lancer de fléchette.
+7. **Une perte de correction radiologique** est rapportée dans deux séries de greffes tendineuses pour instabilité chronique statique, suivies 4 à 6 ans (S4, S5). La correction est maintenue dans S3 et S7, dont le suivi est plus court (17 mois et 2 ans). Une arthrose apparue ou aggravée est rapportée dans S4, S5, S6 et S8. S9 ne rapporte pas d'arthrose radiocarpienne après 20 ans, mais seuls les patients revus sont décrits. [Résultat observé, non contrôlé : certitude très faible]
    - Ces différences peuvent tenir au stade, au délai, au suivi ou aux perdus de vue.
    - Aucune étude ne les relie à la rééducation.
 

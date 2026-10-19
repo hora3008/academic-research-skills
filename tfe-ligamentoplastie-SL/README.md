@@ -12,10 +12,10 @@ Langue de sortie : français (termes techniques conservés en anglais quand c'es
            Phase 2 recherche ...... [EN COURS] recherches faites : 1 001 notices → 562 uniques
                                     protocole de tri sr-screener : [FAIT] v1.0 confirmé (Maes)
                                     tri titre/résumé : [FAIT] 562 → 75 retenues (IA seule, sans vérification humaine)
-                                    textes intégraux : 16/75 récupérés → tri : [FAIT] 8 études incluses
+                                    textes intégraux : 16/75 récupérés → tri : [FAIT] 8 études incluses + R00527 (décision de l'auteur) = 9
                                     double extraction IA + risque de biais : [FAIT] (accord 84 %, désaccords tranchés)
-           Phase 3 synthèse ....... [FAIT, v2] synthèse SWiM + GRADE + étapes décrites ; avocat du diable : point critique
-                                    en attente de ta décision (textes gratuits non lus)
+           Phase 3 synthèse ....... [FAIT, v2.1 : 9 études] synthèse SWiM + GRADE + étapes décrites ; point critique :
+                                    17 textes gratuits PMC à envoyer (liste : phase2/tri/textes_gratuits_PMC_a_telecharger.md)
            Bilan fin d'étape 1 .... [ ]
 Étape 2  WRITE ............ [ ]
 Étape 2.5 INTEGRITY ....... [ ] obligatoire, ne peut pas être sautée

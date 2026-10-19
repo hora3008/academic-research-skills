@@ -441,3 +441,14 @@ Les corrections ont été faites dans les fichiers de la phase 3, l'extraction r
 | Obs. | — | Tracé | Les 5 notices « hors langue » sont de **faux signalements**. Pour 18 notices venues d'Europe PMC, une erreur de lecture du fichier CSV (guillemets dans le résumé) a décalé les champs, et du texte du résumé s'est retrouvé dans le champ « langue ». Les 5 notices sont en anglais et font partie des rapports non lus. Les 13 notices touchées qui ont été exclues ont été relues sur leur titre et leur motif : aucune décision ne change (notes techniques, revues, études cadavériques, autres pathologies) |
 
 **Statut du point de contrôle 2 après corrections :** les constats majeurs et mineurs sont traités. Le **constat critique n° 1 reste ouvert** jusqu'à la décision de l'auteur (A ou B). L'avocat du diable refera une vérification après cette décision.
+
+## Suivi (2026-10-19)
+
+L'auteur a confirmé ses choix (registre du projet) :
+- **1A** : il télécharge les 17 textes gratuits sur PMC. Ils seront triés et extraits, puis la synthèse sera mise à jour ;
+- **R00527 inclus** (S9), avec une double extraction IA concordante sur 12 données clés sur 12 ;
+- **pas de vérification humaine** ;
+- **écarts au protocole validés**.
+
+Le constat critique n° 1 reste ouvert jusqu'au traitement des textes récupérés. L'avocat du diable refera ensuite une vérification.
+
