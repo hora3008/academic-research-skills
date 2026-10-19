@@ -75,6 +75,13 @@ Fichiers : `tri/Screening_FT/` (`FT_prisma_counts.md`, `FT_methods_selection.md`
 - **Récupération des 17 textes gratuits sur PMC :** tentée par Europe PMC (XML et PDF), NCBI (efetch, BioC) et les sites des éditeurs. **Tous les accès sont bloqués** (hors du sous-ensemble en libre accès, protection anti-robots). Il faut un lecteur humain.
 - **Faux signalements de langue :** 18 notices d'Europe PMC ont des champs décalés (guillemets dans le résumé). Les 5 notices retenues « hors langue » sont en anglais, et les 13 notices exclues touchées ont été relues sur leur titre : aucune décision ne change.
 
-## 8. Étape suivante
+## 8. Décisions de l'auteur après le point de contrôle 2 (2026-10-19)
 
-Phase 3 : synthèse narrative (SWiM), GRADE, cadre par phases, avocat du diable (point de contrôle 2). Dossier `../phase3/`.
+- **R00527 inclus** (stabilisation dynamique, cohérence avec R00076) : décision humaine enregistrée dans `sr-screener` (`tri/sr_work/overrides_ft.csv`). Tri sur texte intégral : **9 inclus**, 6 exclus, 1 en attente. Double extraction IA de R00527 en cours.
+- **Textes gratuits sur PMC** : l'auteur les télécharge (liste : `tri/textes_gratuits_PMC_a_telecharger.md`). Ils seront triés sur texte intégral avec `sr-screener`, puis extraits en double.
+- **Pas de vérification humaine** des chiffres (déclaré).
+- **Écarts au protocole** du 2026-10-11 : validés.
+
+## 9. Étape suivante
+
+Tri et extraction des textes envoyés par l'auteur ; mise à jour de la synthèse, du GRADE et du PRISMA ; nouvelle vérification par l'avocat du diable ; puis bilan de fin d'étape 1.

@@ -5,8 +5,8 @@ flowchart TD
   F["Reports sought for retrieval (n = 75)"]
   N["Reports not retrieved (n = 59)"]
   E["Reports assessed for eligibility (n = 16)"]
-  X["Reports excluded (n = 7)<br/>E1 Publication type (review, editorial, letter, comment, erratum, conference abstract, protocol, trial registration, book chapter, technique note without patient outcomes, case report of 1-4 patients, survey of clinicians): 1<br/>E3 Population: not SL injury in adults, SLAC stage II or higher, or SL repair during distal radius fracture fixation without separate SL data: 1<br/>E4 Intervention: no SL ligament repair, reconstruction or capsulodesis (conservative care, debridement or thermal shrinkage alone, RASL or screw or K-wire fixation alone, salvage surgery): 2<br/>E5 Postoperative protocol not described to the minimum level (immobilisation type or duration, or start of motion, plus one more element): 3"]
-  C["Reports of included studies (n = 8)"]
+  X["Reports excluded (n = 6)<br/>E1 Publication type (review, editorial, letter, comment, erratum, conference abstract, protocol, trial registration, book chapter, technique note without patient outcomes, case report of 1-4 patients, survey of clinicians): 1<br/>E3 Population: not SL injury in adults, SLAC stage II or higher, or SL repair during distal radius fracture fixation without separate SL data: 1<br/>E4 Intervention: no SL ligament repair, reconstruction or capsulodesis (conservative care, debridement or thermal shrinkage alone, RASL or screw or K-wire fixation alone, salvage surgery): 1<br/>E5 Postoperative protocol not described to the minimum level (immobilisation type or duration, or start of motion, plus one more element): 3"]
+  C["Reports of included studies (n = 9)"]
   U["Reports awaiting classification (n = 1)"]
   F --> N
   F --> E
@@ -29,15 +29,15 @@ flowchart TD
  "reports_not_retrieved": 59,
  "reports_assessed": 16,
  "reports_to_assess": 16,
- "reports_excluded": 7,
+ "reports_excluded": 6,
  "excluded_by_reason": {
   "E1 Publication type (review, editorial, letter, comment, erratum, conference abstract, protocol, trial registration, book chapter, technique note without patient outcomes, case report of 1-4 patients, survey of clinicians)": 1,
   "E3 Population: not SL injury in adults, SLAC stage II or higher, or SL repair during distal radius fracture fixation without separate SL data": 1,
-  "E4 Intervention: no SL ligament repair, reconstruction or capsulodesis (conservative care, debridement or thermal shrinkage alone, RASL or screw or K-wire fixation alone, salvage surgery)": 2,
+  "E4 Intervention: no SL ligament repair, reconstruction or capsulodesis (conservative care, debridement or thermal shrinkage alone, RASL or screw or K-wire fixation alone, salvage surgery)": 1,
   "E5 Postoperative protocol not described to the minimum level (immobilisation type or duration, or start of motion, plus one more element)": 3
  },
  "reports_unclear_awaiting_classification": 1,
- "studies_included_reports": 8,
+ "studies_included_reports": 9,
  "agreement": {
   "n": 16,
   "both_advance": 7,
@@ -50,7 +50,8 @@ flowchart TD
  },
  "decided_by": {
   "A+B": 14,
-  "ADJ": 2
+  "ADJ": 1,
+  "Maes (author)": 1
  }
 }
 ```

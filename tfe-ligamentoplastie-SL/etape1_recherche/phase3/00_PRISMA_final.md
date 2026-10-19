@@ -1,7 +1,7 @@
 # Diagramme de flux PRISMA 2020 (final)
 
 > Nombres issus de `sr-screener` (`../phase2/tri/Screening_TA/TA_prisma_counts.json` et `../phase2/tri/Screening_FT/FT_prisma_counts.json`), arrêtés au 2026-10-11.
-> Si l'auteur modifie une décision de tri (question R00527, voir `../phase2/extraction/extraction_reconciliee_et_risque_biais.md`, section 7), ce diagramme sera mis à jour.
+> **Mise à jour du 2026-10-19 :** R00527 est inclus par décision de l'auteur (6 exclus, 9 inclus). Le diagramme sera mis à jour quand les 17 textes gratuits sur PMC auront été triés.
 
 ```mermaid
 flowchart TD
@@ -16,11 +16,11 @@ flowchart TD
     F["Rapports recherchés en texte intégral (n = 75)"]
     N["Rapports non récupérés (n = 59)<br/>téléchargement automatique impossible ;<br/>recherche manuelle non faite (choix de l'auteur) ;<br/>dont 17 gratuits sur PMC"]
     E["Rapports évalués sur texte intégral (n = 16)"]
-    X2["Rapports exclus (n = 7)<br/>E1 note technique sans patients 1<br/>E3 population (fractures du radius) 1<br/>E4 pas de geste ligamentaire 2<br/>E5 protocole post-opératoire insuffisant 3"]
+    X2["Rapports exclus (n = 6)<br/>E1 note technique sans patients 1<br/>E3 population (fractures du radius) 1<br/>E4 pas de geste ligamentaire (RASL) 1<br/>E5 protocole post-opératoire insuffisant 3"]
     U["En attente de classement (n = 1)<br/>âge des patients non rapporté"]
   end
   subgraph INC["Inclus"]
-    I["Études incluses dans la revue (n = 8)<br/>rapports : 8"]
+    I["Études incluses dans la revue (n = 9)<br/>rapports : 9<br/>(dont R00527, inclus par décision de l'auteur)"]
     O["Études en cours (registres) : 7 enregistrements<br/>pertinents, traités à part (non inclus)"]
   end
   A --> D
