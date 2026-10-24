@@ -1,0 +1,1 @@
+{"label": "FTB:R00500@2d095654244d6d7cccc4550dc6b99f385c54c471e0ff1290015816bcb96a90ab", "decisions": [{"id": "R00500", "d": "exclude", "code": "E1", "why": "Narrative review/technique description with treatment algorithm; no original patient cohort or outcomes reported.", "where": "p73 Introduction (aim); p77-80 Sections 5-8"}]}

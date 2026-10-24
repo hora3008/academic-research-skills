@@ -10549,5 +10549,229 @@
    }
   ],
   "accepted_context": "2d095654244d6d7cccc4550dc6b99f385c54c471e0ff1290015816bcb96a90ab"
+ },
+ {
+  "source": "/home/user/academic-research-skills/tfe-ligamentoplastie-SL/etape1_recherche/phase2/tri/sr_work/ft_rev2_results/FTA_R00232.json",
+  "label": "FTA:R00232@2d095654244d6d7cccc4550dc6b99f385c54c471e0ff1290015816bcb96a90ab",
+  "decisions": [
+   {
+    "id": "R00232",
+    "d": "exclude",
+    "code": "E5",
+    "why": "Only mentions visit after cast and pin removal; no immobilisation duration, motion start, exercises or restrictions described.",
+    "where": "p488 Patients and Methods; whole report"
+   }
+  ],
+  "accepted_context": "2d095654244d6d7cccc4550dc6b99f385c54c471e0ff1290015816bcb96a90ab"
+ },
+ {
+  "source": "/home/user/academic-research-skills/tfe-ligamentoplastie-SL/etape1_recherche/phase2/tri/sr_work/ft_rev2_results/FTA_R00257.json",
+  "label": "FTA:R00257@2d095654244d6d7cccc4550dc6b99f385c54c471e0ff1290015816bcb96a90ab",
+  "decisions": [
+   {
+    "id": "R00257",
+    "d": "exclude",
+    "code": "E5",
+    "why": "Only anterior splint 6 weeks and K-wire removal stated; no exercise, progression, restrictions or return-to-activity timing reported.",
+    "where": "p435 Material and Methods (surgery description)"
+   }
+  ],
+  "accepted_context": "2d095654244d6d7cccc4550dc6b99f385c54c471e0ff1290015816bcb96a90ab"
+ },
+ {
+  "source": "/home/user/academic-research-skills/tfe-ligamentoplastie-SL/etape1_recherche/phase2/tri/sr_work/ft_rev2_results/FTA_R00294.json",
+  "label": "FTA:R00294@2d095654244d6d7cccc4550dc6b99f385c54c471e0ff1290015816bcb96a90ab",
+  "decisions": [
+   {
+    "id": "R00294",
+    "d": "exclude",
+    "code": "E4",
+    "why": "Study intervention is arthroscopic SLIL debridement alone (43 of 79 wrists); no SL repair or reconstruction protocol described.",
+    "where": "p310 Abstract; p311 Methods, Inclusion Criteria; p312-313 Follow-Up"
+   }
+  ],
+  "accepted_context": "2d095654244d6d7cccc4550dc6b99f385c54c471e0ff1290015816bcb96a90ab"
+ },
+ {
+  "source": "/home/user/academic-research-skills/tfe-ligamentoplastie-SL/etape1_recherche/phase2/tri/sr_work/ft_rev2_results/FTA_R00366.json",
+  "label": "FTA:R00366@2d095654244d6d7cccc4550dc6b99f385c54c471e0ff1290015816bcb96a90ab",
+  "decisions": [
+   {
+    "id": "R00366",
+    "d": "exclude",
+    "code": "E4",
+    "why": "Intervention is arthroscopic thermal capsular shrinkage (19) or capsular abrasion (4); no ligament repair, reconstruction or true capsulodesis.",
+    "where": "p2-3 Methods, Surgical Technique; p1 Abstract"
+   }
+  ],
+  "accepted_context": "2d095654244d6d7cccc4550dc6b99f385c54c471e0ff1290015816bcb96a90ab"
+ },
+ {
+  "source": "/home/user/academic-research-skills/tfe-ligamentoplastie-SL/etape1_recherche/phase2/tri/sr_work/ft_rev2_results/FTA_R00401.json",
+  "label": "FTA:R00401@2d095654244d6d7cccc4550dc6b99f385c54c471e0ff1290015816bcb96a90ab",
+  "decisions": [
+   {
+    "id": "R00401",
+    "d": "include",
+    "code": "INC",
+    "why": "Prospective series of 19 adults with arthroscopic SL repair plus capsulodesis; splint 4 weeks, rehab after; outcomes reported; 11 isolated SL injuries.",
+    "where": "p329-330 Methods (Participants, Postoperative period); p331-332 Results"
+   }
+  ],
+  "accepted_context": "2d095654244d6d7cccc4550dc6b99f385c54c471e0ff1290015816bcb96a90ab"
+ },
+ {
+  "source": "/home/user/academic-research-skills/tfe-ligamentoplastie-SL/etape1_recherche/phase2/tri/sr_work/ft_rev2_results/FTA_R00474.json",
+  "label": "FTA:R00474@2d095654244d6d7cccc4550dc6b99f385c54c471e0ff1290015816bcb96a90ab",
+  "decisions": [
+   {
+    "id": "R00474",
+    "d": "include",
+    "code": "INC",
+    "why": "68-patient case series, SL capsuloligamentoplasty; 4-week splint, then dart-throw motion, loading banned 12 weeks; ROM, grip, QuickDASH reported.",
+    "where": "p467 Technique (postop protocol); p468-469 Results, Tables 1-2"
+   }
+  ],
+  "accepted_context": "2d095654244d6d7cccc4550dc6b99f385c54c471e0ff1290015816bcb96a90ab"
+ },
+ {
+  "source": "/home/user/academic-research-skills/tfe-ligamentoplastie-SL/etape1_recherche/phase2/tri/sr_work/ft_rev2_results/FTA_R00500.json",
+  "label": "FTA:R00500@2d095654244d6d7cccc4550dc6b99f385c54c471e0ff1290015816bcb96a90ab",
+  "decisions": [
+   {
+    "id": "R00500",
+    "d": "exclude",
+    "code": "E1",
+    "why": "Narrative review with technique description and treatment algorithm; no original patient series or reported patient outcomes.",
+    "where": "p73 Introduction; p77-80 Sections 5-7 (technique, discussion, algorithm)"
+   }
+  ],
+  "accepted_context": "2d095654244d6d7cccc4550dc6b99f385c54c471e0ff1290015816bcb96a90ab"
+ },
+ {
+  "source": "/home/user/academic-research-skills/tfe-ligamentoplastie-SL/etape1_recherche/phase2/tri/sr_work/ft_rev2_results/FTA_R00528.json",
+  "label": "FTA:R00528@2d095654244d6d7cccc4550dc6b99f385c54c471e0ff1290015816bcb96a90ab",
+  "decisions": [
+   {
+    "id": "R00528",
+    "d": "exclude",
+    "code": "E3",
+    "why": "SL repair during operative distal radius fracture fixation; no SL-specific postoperative protocol (varied by surgeon, only immobilisation days).",
+    "where": "p651 Methods, Study Subjects; p652 Results, post-operative protocol"
+   }
+  ],
+  "accepted_context": "2d095654244d6d7cccc4550dc6b99f385c54c471e0ff1290015816bcb96a90ab"
+ },
+ {
+  "source": "/home/user/academic-research-skills/tfe-ligamentoplastie-SL/etape1_recherche/phase2/tri/sr_work/ft_rev2_results/FTB_R00171.json",
+  "label": "FTB:R00171@2d095654244d6d7cccc4550dc6b99f385c54c471e0ff1290015816bcb96a90ab",
+  "decisions": [
+   {
+    "id": "R00171",
+    "d": "exclude",
+    "code": "E5",
+    "why": "No postoperative protocol reported: no immobilisation type/duration, motion start, exercises or restrictions described; only surgical technique and outcomes.",
+    "where": "p2-3 Methods and Surgical Technique; p3-4 Results"
+   }
+  ],
+  "accepted_context": "2d095654244d6d7cccc4550dc6b99f385c54c471e0ff1290015816bcb96a90ab"
+ },
+ {
+  "source": "/home/user/academic-research-skills/tfe-ligamentoplastie-SL/etape1_recherche/phase2/tri/sr_work/ft_rev2_results/FTB_R00257.json",
+  "label": "FTB:R00257@2d095654244d6d7cccc4550dc6b99f385c54c471e0ff1290015816bcb96a90ab",
+  "decisions": [
+   {
+    "id": "R00257",
+    "d": "exclude",
+    "code": "E5",
+    "why": "Only 6-week anterior splint and K-wire removal stated; no exercise, progression, restrictions or return-to-activity timing described.",
+    "where": "p435 Methods, surgical technique (postoperative splint paragraph)"
+   }
+  ],
+  "accepted_context": "2d095654244d6d7cccc4550dc6b99f385c54c471e0ff1290015816bcb96a90ab"
+ },
+ {
+  "source": "/home/user/academic-research-skills/tfe-ligamentoplastie-SL/etape1_recherche/phase2/tri/sr_work/ft_rev2_results/FTB_R00294.json",
+  "label": "FTB:R00294@2d095654244d6d7cccc4550dc6b99f385c54c471e0ff1290015816bcb96a90ab",
+  "decisions": [
+   {
+    "id": "R00294",
+    "d": "exclude",
+    "code": "E4",
+    "why": "Studied intervention is arthroscopic debridement alone; Dynadesis subgroup has no described postoperative protocol or separate outcomes.",
+    "where": "p311-313 Methods, Debride-First-Then-Wait Protocol and Follow-Up; p315 Results"
+   }
+  ],
+  "accepted_context": "2d095654244d6d7cccc4550dc6b99f385c54c471e0ff1290015816bcb96a90ab"
+ },
+ {
+  "source": "/home/user/academic-research-skills/tfe-ligamentoplastie-SL/etape1_recherche/phase2/tri/sr_work/ft_rev2_results/FTB_R00366.json",
+  "label": "FTB:R00366@2d095654244d6d7cccc4550dc6b99f385c54c471e0ff1290015816bcb96a90ab",
+  "decisions": [
+   {
+    "id": "R00366",
+    "d": "exclude",
+    "code": "E4",
+    "why": "Intervention is arthroscopic thermal capsular shrinkage (19) or capsular abrasion (4) only; no ligament repair, reconstruction or true capsulodesis.",
+    "where": "p2 Methods; p219-220 Surgical Technique"
+   }
+  ],
+  "accepted_context": "2d095654244d6d7cccc4550dc6b99f385c54c471e0ff1290015816bcb96a90ab"
+ },
+ {
+  "source": "/home/user/academic-research-skills/tfe-ligamentoplastie-SL/etape1_recherche/phase2/tri/sr_work/ft_rev2_results/FTB_R00401.json",
+  "label": "FTB:R00401@2d095654244d6d7cccc4550dc6b99f385c54c471e0ff1290015816bcb96a90ab",
+  "decisions": [
+   {
+    "id": "R00401",
+    "d": "include",
+    "code": "INC",
+    "why": "19 adults, arthroscopic SL anchor repair plus capsulodesis; splint 4 weeks, finger/elbow motion, KW removal, rehab after; function, pain, ROM, grip reported.",
+    "where": "p3 Methods, Participants; p4 Methods, Postoperative period; p5-6 Results"
+   }
+  ],
+  "accepted_context": "2d095654244d6d7cccc4550dc6b99f385c54c471e0ff1290015816bcb96a90ab"
+ },
+ {
+  "source": "/home/user/academic-research-skills/tfe-ligamentoplastie-SL/etape1_recherche/phase2/tri/sr_work/ft_rev2_results/FTB_R00474.json",
+  "label": "FTB:R00474@2d095654244d6d7cccc4550dc6b99f385c54c471e0ff1290015816bcb96a90ab",
+  "decisions": [
+   {
+    "id": "R00474",
+    "d": "include",
+    "code": "INC",
+    "why": "68-patient SL capsuloligamentoplasty series; splint 4 weeks, dart-throw motion then, loading barred 12 weeks; ROM, QuickDASH reported.",
+    "where": "p467 Technique (postop protocol); p468-469 Results, Tables 1-2"
+   }
+  ],
+  "accepted_context": "2d095654244d6d7cccc4550dc6b99f385c54c471e0ff1290015816bcb96a90ab"
+ },
+ {
+  "source": "/home/user/academic-research-skills/tfe-ligamentoplastie-SL/etape1_recherche/phase2/tri/sr_work/ft_rev2_results/FTB_R00500.json",
+  "label": "FTB:R00500@2d095654244d6d7cccc4550dc6b99f385c54c471e0ff1290015816bcb96a90ab",
+  "decisions": [
+   {
+    "id": "R00500",
+    "d": "exclude",
+    "code": "E1",
+    "why": "Narrative review/technique description with treatment algorithm; no original patient cohort or outcomes reported.",
+    "where": "p73 Introduction (aim); p77-80 Sections 5-8"
+   }
+  ],
+  "accepted_context": "2d095654244d6d7cccc4550dc6b99f385c54c471e0ff1290015816bcb96a90ab"
+ },
+ {
+  "source": "/home/user/academic-research-skills/tfe-ligamentoplastie-SL/etape1_recherche/phase2/tri/sr_work/ft_rev2_results/FTB_R00528.json",
+  "label": "FTB:R00528@2d095654244d6d7cccc4550dc6b99f385c54c471e0ff1290015816bcb96a90ab",
+  "decisions": [
+   {
+    "id": "R00528",
+    "d": "exclude",
+    "code": "E3",
+    "why": "SL injuries with distal radius fracture fixation; no SL-specific postoperative protocol (only mean immobilisation days, 'varied by surgeon'), so exception not met.",
+    "where": "p651 Methods, Study Subjects; p652 Methods/Results, immobilisation and post-operative protocol"
+   }
+  ],
+  "accepted_context": "2d095654244d6d7cccc4550dc6b99f385c54c471e0ff1290015816bcb96a90ab"
  }
 ]
