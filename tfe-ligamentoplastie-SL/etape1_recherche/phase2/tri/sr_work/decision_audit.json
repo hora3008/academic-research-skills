@@ -9787,5 +9787,767 @@
    }
   ],
   "accepted_context": "1eb381806b861cd29e8a8d9ae1705bf1fec4fa2c9b12dc339f8dd595ccbcc7e7"
+ },
+ {
+  "source": "/home/user/academic-research-skills/tfe-ligamentoplastie-SL/etape1_recherche/phase2/tri/sr_work/ft_rev1_results_unbound.json",
+  "label": "FTB:R00002",
+  "decisions": [
+   {
+    "id": "R00002",
+    "d": "include",
+    "code": "INC",
+    "why": "SLIC 2 tendon-graft SL reconstruction, 7 adults; motion after K-wire removal, strengthening only after 6 months; clinical and radiological outcomes reported.",
+    "where": "p4 Surgical technique (last paragraph); p1-2 Abstract and Methods; p4-5 Results"
+   }
+  ],
+  "accepted_context": "2d095654244d6d7cccc4550dc6b99f385c54c471e0ff1290015816bcb96a90ab",
+  "legacy_import_reason": "FT revision 1 (context 1eb381806b86, 2026-10-11): same protocol, config and PDFs for these 16 reports; retrieval refreshed on 2026-10-24 with 17 author-supplied PMC PDFs, so only the new reports are screened in revision 2"
+ },
+ {
+  "source": "/home/user/academic-research-skills/tfe-ligamentoplastie-SL/etape1_recherche/phase2/tri/sr_work/ft_rev1_results_unbound.json",
+  "label": "FTA:R00002",
+  "decisions": [
+   {
+    "id": "R00002",
+    "d": "include",
+    "code": "INC",
+    "why": "SLIC 2 SL ligamentoplasty, 7 adults; K-wire stabilisation, motion after removal, strengthening only after 6 months; clinical and radiological outcomes reported.",
+    "where": "p4 Surgical technique (last paragraph); p1-2 Abstract and Methods; p4-5 Results"
+   }
+  ],
+  "accepted_context": "2d095654244d6d7cccc4550dc6b99f385c54c471e0ff1290015816bcb96a90ab",
+  "legacy_import_reason": "FT revision 1 (context 1eb381806b86, 2026-10-11): same protocol, config and PDFs for these 16 reports; retrieval refreshed on 2026-10-24 with 17 author-supplied PMC PDFs, so only the new reports are screened in revision 2"
+ },
+ {
+  "source": "/home/user/academic-research-skills/tfe-ligamentoplastie-SL/etape1_recherche/phase2/tri/sr_work/ft_rev1_results_unbound.json",
+  "label": "FTB:R00024",
+  "decisions": [
+   {
+    "id": "R00024",
+    "d": "exclude",
+    "code": "E5",
+    "why": "Splint 2 weeks then cast 2-3 months, then 'supervised hand therapy'; no exercise, progression, restrictions or return-to-activity details given.",
+    "where": "p3 Methods, Surgical technique (final paragraph)"
+   }
+  ],
+  "accepted_context": "2d095654244d6d7cccc4550dc6b99f385c54c471e0ff1290015816bcb96a90ab",
+  "legacy_import_reason": "FT revision 1 (context 1eb381806b86, 2026-10-11): same protocol, config and PDFs for these 16 reports; retrieval refreshed on 2026-10-24 with 17 author-supplied PMC PDFs, so only the new reports are screened in revision 2"
+ },
+ {
+  "source": "/home/user/academic-research-skills/tfe-ligamentoplastie-SL/etape1_recherche/phase2/tri/sr_work/ft_rev1_results_unbound.json",
+  "label": "FTA:R00024",
+  "decisions": [
+   {
+    "id": "R00024",
+    "d": "exclude",
+    "code": "E5",
+    "why": "Immobilisation given (splint 2 wk, cast 2-3 mo) but only 'supervised hand therapy'; no exercise content, progression, restrictions or return timing.",
+    "where": "p3 Methods, Surgical technique (last paragraph)"
+   }
+  ],
+  "accepted_context": "2d095654244d6d7cccc4550dc6b99f385c54c471e0ff1290015816bcb96a90ab",
+  "legacy_import_reason": "FT revision 1 (context 1eb381806b86, 2026-10-11): same protocol, config and PDFs for these 16 reports; retrieval refreshed on 2026-10-24 with 17 author-supplied PMC PDFs, so only the new reports are screened in revision 2"
+ },
+ {
+  "source": "/home/user/academic-research-skills/tfe-ligamentoplastie-SL/etape1_recherche/phase2/tri/sr_work/ft_rev1_results_unbound.json",
+  "label": "FTB:R00049",
+  "decisions": [
+   {
+    "id": "R00049",
+    "d": "include",
+    "code": "INC",
+    "why": "Adult SL reconstruction (tendon graft+tape+capsulodesis), 9-patient case series; 3+3 weeks splint/cast, 6-week physio, 3-month restrictions/work return; clinical and radiological outcomes.",
+    "where": "p3 Methods, Surgical Procedures (postoperative protocol); p1-2 Methods, Study Design; p4 Results"
+   }
+  ],
+  "accepted_context": "2d095654244d6d7cccc4550dc6b99f385c54c471e0ff1290015816bcb96a90ab",
+  "legacy_import_reason": "FT revision 1 (context 1eb381806b86, 2026-10-11): same protocol, config and PDFs for these 16 reports; retrieval refreshed on 2026-10-24 with 17 author-supplied PMC PDFs, so only the new reports are screened in revision 2"
+ },
+ {
+  "source": "/home/user/academic-research-skills/tfe-ligamentoplastie-SL/etape1_recherche/phase2/tri/sr_work/ft_rev1_results_unbound.json",
+  "label": "FTA:R00049",
+  "decisions": [
+   {
+    "id": "R00049",
+    "d": "include",
+    "code": "INC",
+    "why": "9 adult men, SL reconstruction with tendon graft, tape and capsulodesis; cast 3+3 weeks, physiotherapy from 6 weeks, restrictions; clinical and radiological outcomes.",
+    "where": "p3 Methods, Surgical Procedures (postoperative protocol); p2 Study Design; p4 Results"
+   }
+  ],
+  "accepted_context": "2d095654244d6d7cccc4550dc6b99f385c54c471e0ff1290015816bcb96a90ab",
+  "legacy_import_reason": "FT revision 1 (context 1eb381806b86, 2026-10-11): same protocol, config and PDFs for these 16 reports; retrieval refreshed on 2026-10-24 with 17 author-supplied PMC PDFs, so only the new reports are screened in revision 2"
+ },
+ {
+  "source": "/home/user/academic-research-skills/tfe-ligamentoplastie-SL/etape1_recherche/phase2/tri/sr_work/ft_rev1_results_unbound.json",
+  "label": "FTB:R00058",
+  "decisions": [
+   {
+    "id": "R00058",
+    "d": "include",
+    "code": "INC",
+    "why": "3-LT tenodesis SL reconstruction; immobilisation 3-5 days then orthosis weaning to 12 weeks; PRWE and complications reported; cohort, 2024, English.",
+    "where": "p2-3 Methods, Surgical Technique (3-Ligament Tenodesis); p3 Outcome Measures; p4-5 Results"
+   }
+  ],
+  "accepted_context": "2d095654244d6d7cccc4550dc6b99f385c54c471e0ff1290015816bcb96a90ab",
+  "legacy_import_reason": "FT revision 1 (context 1eb381806b86, 2026-10-11): same protocol, config and PDFs for these 16 reports; retrieval refreshed on 2026-10-24 with 17 author-supplied PMC PDFs, so only the new reports are screened in revision 2"
+ },
+ {
+  "source": "/home/user/academic-research-skills/tfe-ligamentoplastie-SL/etape1_recherche/phase2/tri/sr_work/ft_rev1_results_unbound.json",
+  "label": "FTA:R00058",
+  "decisions": [
+   {
+    "id": "R00058",
+    "d": "include",
+    "code": "INC",
+    "why": "3-ligament tenodesis cohort; immobilisation 3-5 days, orthosis weaning to 12 weeks, PRWE and complications reported; SLAC 2-3 reported separately.",
+    "where": "p2-3 Methods, Surgical Technique (3-Ligament Tenodesis); p4-5 Results"
+   }
+  ],
+  "accepted_context": "2d095654244d6d7cccc4550dc6b99f385c54c471e0ff1290015816bcb96a90ab",
+  "legacy_import_reason": "FT revision 1 (context 1eb381806b86, 2026-10-11): same protocol, config and PDFs for these 16 reports; retrieval refreshed on 2026-10-24 with 17 author-supplied PMC PDFs, so only the new reports are screened in revision 2"
+ },
+ {
+  "source": "/home/user/academic-research-skills/tfe-ligamentoplastie-SL/etape1_recherche/phase2/tri/sr_work/ft_rev1_results_unbound.json",
+  "label": "FTA:R00067",
+  "decisions": [
+   {
+    "id": "R00067",
+    "d": "exclude",
+    "code": "E4",
+    "why": "RASL: debridement and cannulated screw fixation of scaphoid-lunate only; no ligament repair, reconstruction or capsulodesis performed (protocol rule: RASL alone excluded).",
+    "where": "p2 Methods, Surgical Technique (also p1 Abstract and Introduction)"
+   }
+  ],
+  "accepted_context": "2d095654244d6d7cccc4550dc6b99f385c54c471e0ff1290015816bcb96a90ab",
+  "legacy_import_reason": "FT revision 1 (context 1eb381806b86, 2026-10-11): same protocol, config and PDFs for these 16 reports; retrieval refreshed on 2026-10-24 with 17 author-supplied PMC PDFs, so only the new reports are screened in revision 2"
+ },
+ {
+  "source": "/home/user/academic-research-skills/tfe-ligamentoplastie-SL/etape1_recherche/phase2/tri/sr_work/ft_rev1_results_unbound.json",
+  "label": "FTB:R00067",
+  "decisions": [
+   {
+    "id": "R00067",
+    "d": "exclude",
+    "code": "E4",
+    "why": "RASL: headless compression screw fixation scaphoid-lunate with debridement and styloidectomy; no ligament repair, reconstruction or capsulodesis.",
+    "where": "p2 Methods, Surgical Technique (also p1 Abstract/Introduction, RASL screw)"
+   }
+  ],
+  "accepted_context": "2d095654244d6d7cccc4550dc6b99f385c54c471e0ff1290015816bcb96a90ab",
+  "legacy_import_reason": "FT revision 1 (context 1eb381806b86, 2026-10-11): same protocol, config and PDFs for these 16 reports; retrieval refreshed on 2026-10-24 with 17 author-supplied PMC PDFs, so only the new reports are screened in revision 2"
+ },
+ {
+  "source": "/home/user/academic-research-skills/tfe-ligamentoplastie-SL/etape1_recherche/phase2/tri/sr_work/ft_rev1_results_unbound.json",
+  "label": "FTA:R00076",
+  "decisions": [
+   {
+    "id": "R00076",
+    "d": "include",
+    "code": "INC",
+    "why": "Adult SL tenodesis case series (n=9); 6-week cast, then active motion, 3-month activity restriction; clinical and radiological outcomes reported.",
+    "where": "p2-3 Patients and Methods, Surgical Technique (postoperative protocol); p3 Results"
+   }
+  ],
+  "accepted_context": "2d095654244d6d7cccc4550dc6b99f385c54c471e0ff1290015816bcb96a90ab",
+  "legacy_import_reason": "FT revision 1 (context 1eb381806b86, 2026-10-11): same protocol, config and PDFs for these 16 reports; retrieval refreshed on 2026-10-24 with 17 author-supplied PMC PDFs, so only the new reports are screened in revision 2"
+ },
+ {
+  "source": "/home/user/academic-research-skills/tfe-ligamentoplastie-SL/etape1_recherche/phase2/tri/sr_work/ft_rev1_results_unbound.json",
+  "label": "FTB:R00076",
+  "decisions": [
+   {
+    "id": "R00076",
+    "d": "include",
+    "code": "INC",
+    "why": "ECRB tenodesis for SL instability, 9 adults; 6-week cast, then active motion, 3-month activity restriction; functional and radiological outcomes.",
+    "where": "p2-3 Patients and Methods, Surgical Technique; p3 Results"
+   }
+  ],
+  "accepted_context": "2d095654244d6d7cccc4550dc6b99f385c54c471e0ff1290015816bcb96a90ab",
+  "legacy_import_reason": "FT revision 1 (context 1eb381806b86, 2026-10-11): same protocol, config and PDFs for these 16 reports; retrieval refreshed on 2026-10-24 with 17 author-supplied PMC PDFs, so only the new reports are screened in revision 2"
+ },
+ {
+  "source": "/home/user/academic-research-skills/tfe-ligamentoplastie-SL/etape1_recherche/phase2/tri/sr_work/ft_rev1_results_unbound.json",
+  "label": "FTB:R00091",
+  "decisions": [
+   {
+    "id": "R00091",
+    "d": "include",
+    "code": "INC",
+    "why": "Arthroscopic SL repair plus capsulodesis, 19 adults; cast 8 weeks then gentle motion/OT, K-wires out 12 weeks; outcomes reported.",
+    "where": "p3 Methods, Surgical technique (last paragraph); Results; Abstract (case series, 19 wrists)"
+   }
+  ],
+  "accepted_context": "2d095654244d6d7cccc4550dc6b99f385c54c471e0ff1290015816bcb96a90ab",
+  "legacy_import_reason": "FT revision 1 (context 1eb381806b86, 2026-10-11): same protocol, config and PDFs for these 16 reports; retrieval refreshed on 2026-10-24 with 17 author-supplied PMC PDFs, so only the new reports are screened in revision 2"
+ },
+ {
+  "source": "/home/user/academic-research-skills/tfe-ligamentoplastie-SL/etape1_recherche/phase2/tri/sr_work/ft_rev1_results_unbound.json",
+  "label": "FTA:R00091",
+  "decisions": [
+   {
+    "id": "R00091",
+    "d": "include",
+    "code": "INC",
+    "why": "Arthroscopic SL repair plus capsulodesis, 19 patients; cast 8 weeks, K-wires out 12 weeks, gentle motion after; outcomes reported.",
+    "where": "p3 Methods, Surgical technique (post-op cast, rehabilitation) and Results"
+   }
+  ],
+  "accepted_context": "2d095654244d6d7cccc4550dc6b99f385c54c471e0ff1290015816bcb96a90ab",
+  "legacy_import_reason": "FT revision 1 (context 1eb381806b86, 2026-10-11): same protocol, config and PDFs for these 16 reports; retrieval refreshed on 2026-10-24 with 17 author-supplied PMC PDFs, so only the new reports are screened in revision 2"
+ },
+ {
+  "source": "/home/user/academic-research-skills/tfe-ligamentoplastie-SL/etape1_recherche/phase2/tri/sr_work/ft_rev1_results_unbound.json",
+  "label": "FTA:R00092",
+  "decisions": [
+   {
+    "id": "R00092",
+    "d": "unclear",
+    "code": "UNC",
+    "why": "Ages of the 20 patients not reported, so adult status cannot be confirmed; other criteria appear met.",
+    "where": "p5-6 Case Illustration (series demographics not given); p4 Postoperative Management"
+   }
+  ],
+  "accepted_context": "2d095654244d6d7cccc4550dc6b99f385c54c471e0ff1290015816bcb96a90ab",
+  "legacy_import_reason": "FT revision 1 (context 1eb381806b86, 2026-10-11): same protocol, config and PDFs for these 16 reports; retrieval refreshed on 2026-10-24 with 17 author-supplied PMC PDFs, so only the new reports are screened in revision 2"
+ },
+ {
+  "source": "/home/user/academic-research-skills/tfe-ligamentoplastie-SL/etape1_recherche/phase2/tri/sr_work/ft_rev1_results_unbound.json",
+  "label": "FTA:R00167",
+  "decisions": [
+   {
+    "id": "R00167",
+    "d": "exclude",
+    "code": "E1",
+    "why": "Technique note on arthroscopic double-pulley SL repair; describes steps and rehabilitation but reports no patient outcomes or case series.",
+    "where": "Abstract, Surgical Technique (Steps 1-6), Discussion; whole text, no Results section"
+   }
+  ],
+  "accepted_context": "2d095654244d6d7cccc4550dc6b99f385c54c471e0ff1290015816bcb96a90ab",
+  "legacy_import_reason": "FT revision 1 (context 1eb381806b86, 2026-10-11): same protocol, config and PDFs for these 16 reports; retrieval refreshed on 2026-10-24 with 17 author-supplied PMC PDFs, so only the new reports are screened in revision 2"
+ },
+ {
+  "source": "/home/user/academic-research-skills/tfe-ligamentoplastie-SL/etape1_recherche/phase2/tri/sr_work/ft_rev1_results_unbound.json",
+  "label": "FTB:R00092",
+  "decisions": [
+   {
+    "id": "R00092",
+    "d": "unclear",
+    "code": "UNC",
+    "why": "Patient age and SLAC status not reported, so adult population cannot be confirmed; 10-week immobilisation and outcomes are reported.",
+    "where": "p5-6 Case Illustration (20 patients, follow-up); p4 Postoperative Management"
+   }
+  ],
+  "accepted_context": "2d095654244d6d7cccc4550dc6b99f385c54c471e0ff1290015816bcb96a90ab",
+  "legacy_import_reason": "FT revision 1 (context 1eb381806b86, 2026-10-11): same protocol, config and PDFs for these 16 reports; retrieval refreshed on 2026-10-24 with 17 author-supplied PMC PDFs, so only the new reports are screened in revision 2"
+ },
+ {
+  "source": "/home/user/academic-research-skills/tfe-ligamentoplastie-SL/etape1_recherche/phase2/tri/sr_work/ft_rev1_results_unbound.json",
+  "label": "FTB:R00167",
+  "decisions": [
+   {
+    "id": "R00167",
+    "d": "exclude",
+    "code": "E1",
+    "why": "Technical note describing surgical technique (cadaveric/video demonstration); no patient outcomes or patient series reported despite abstract mentioning preliminary results.",
+    "where": "p1 Abstract and Surgical Technique; p4 Discussion (Technical Note, no Results section)"
+   }
+  ],
+  "accepted_context": "2d095654244d6d7cccc4550dc6b99f385c54c471e0ff1290015816bcb96a90ab",
+  "legacy_import_reason": "FT revision 1 (context 1eb381806b86, 2026-10-11): same protocol, config and PDFs for these 16 reports; retrieval refreshed on 2026-10-24 with 17 author-supplied PMC PDFs, so only the new reports are screened in revision 2"
+ },
+ {
+  "source": "/home/user/academic-research-skills/tfe-ligamentoplastie-SL/etape1_recherche/phase2/tri/sr_work/ft_rev1_results_unbound.json",
+  "label": "FTA:R00191",
+  "decisions": [
+   {
+    "id": "R00191",
+    "d": "exclude",
+    "code": "E5",
+    "why": "Only 6 weeks immobilisation then K-wire removal stated; no exercise content, progression, restrictions or return-to-activity timing described.",
+    "where": "p322 (PDF p4) Methods, Surgical technique (also p321 Participants)"
+   }
+  ],
+  "accepted_context": "2d095654244d6d7cccc4550dc6b99f385c54c471e0ff1290015816bcb96a90ab",
+  "legacy_import_reason": "FT revision 1 (context 1eb381806b86, 2026-10-11): same protocol, config and PDFs for these 16 reports; retrieval refreshed on 2026-10-24 with 17 author-supplied PMC PDFs, so only the new reports are screened in revision 2"
+ },
+ {
+  "source": "/home/user/academic-research-skills/tfe-ligamentoplastie-SL/etape1_recherche/phase2/tri/sr_work/ft_rev1_results_unbound.json",
+  "label": "FTB:R00191",
+  "decisions": [
+   {
+    "id": "R00191",
+    "d": "exclude",
+    "code": "E5",
+    "why": "Only 6-week immobilisation and K-wire removal stated; no exercise, progression, restrictions or return-to-activity timing described.",
+    "where": "p322 Materials and Methods, Surgical technique (last paragraph); no rehabilitation section in Methods or Discussion"
+   }
+  ],
+  "accepted_context": "2d095654244d6d7cccc4550dc6b99f385c54c471e0ff1290015816bcb96a90ab",
+  "legacy_import_reason": "FT revision 1 (context 1eb381806b86, 2026-10-11): same protocol, config and PDFs for these 16 reports; retrieval refreshed on 2026-10-24 with 17 author-supplied PMC PDFs, so only the new reports are screened in revision 2"
+ },
+ {
+  "source": "/home/user/academic-research-skills/tfe-ligamentoplastie-SL/etape1_recherche/phase2/tri/sr_work/ft_rev1_results_unbound.json",
+  "label": "FTA:R00219",
+  "decisions": [
+   {
+    "id": "R00219",
+    "d": "exclude",
+    "code": "E5",
+    "why": "Only long-arm cast to 6 weeks and K-wire removal timing reported; no exercise, progression, restrictions or return-to-activity details.",
+    "where": "p2 Methods, Surgical technique (also p3 Outcome measures, no rehabilitation described)"
+   }
+  ],
+  "accepted_context": "2d095654244d6d7cccc4550dc6b99f385c54c471e0ff1290015816bcb96a90ab",
+  "legacy_import_reason": "FT revision 1 (context 1eb381806b86, 2026-10-11): same protocol, config and PDFs for these 16 reports; retrieval refreshed on 2026-10-24 with 17 author-supplied PMC PDFs, so only the new reports are screened in revision 2"
+ },
+ {
+  "source": "/home/user/academic-research-skills/tfe-ligamentoplastie-SL/etape1_recherche/phase2/tri/sr_work/ft_rev1_results_unbound.json",
+  "label": "FTB:R00219",
+  "decisions": [
+   {
+    "id": "R00219",
+    "d": "exclude",
+    "code": "E5",
+    "why": "Only long-arm cast to 6 weeks and K-wire removal stated; no exercise content, progression, restrictions or return-to-activity timing described.",
+    "where": "p2 Methods, Surgical technique (also p3 Outcome measures, Results: no rehabilitation described)"
+   }
+  ],
+  "accepted_context": "2d095654244d6d7cccc4550dc6b99f385c54c471e0ff1290015816bcb96a90ab",
+  "legacy_import_reason": "FT revision 1 (context 1eb381806b86, 2026-10-11): same protocol, config and PDFs for these 16 reports; retrieval refreshed on 2026-10-24 with 17 author-supplied PMC PDFs, so only the new reports are screened in revision 2"
+ },
+ {
+  "source": "/home/user/academic-research-skills/tfe-ligamentoplastie-SL/etape1_recherche/phase2/tri/sr_work/ft_rev1_results_unbound.json",
+  "label": "FTB:R00269",
+  "decisions": [
+   {
+    "id": "R00269",
+    "d": "include",
+    "code": "INC",
+    "why": "Adults after 3-ligament tenodesis; immobilisation, ROM start and progression detailed; PRWHE, pain, ROM, grip outcomes; 108-patient cohort, 2022, English.",
+    "where": "p1077 Methods, Participants and Late/Early active motion protocols; p1078 Fig 1; p1081-1082 Results"
+   }
+  ],
+  "accepted_context": "2d095654244d6d7cccc4550dc6b99f385c54c471e0ff1290015816bcb96a90ab",
+  "legacy_import_reason": "FT revision 1 (context 1eb381806b86, 2026-10-11): same protocol, config and PDFs for these 16 reports; retrieval refreshed on 2026-10-24 with 17 author-supplied PMC PDFs, so only the new reports are screened in revision 2"
+ },
+ {
+  "source": "/home/user/academic-research-skills/tfe-ligamentoplastie-SL/etape1_recherche/phase2/tri/sr_work/ft_rev1_results_unbound.json",
+  "label": "FTA:R00269",
+  "decisions": [
+   {
+    "id": "R00269",
+    "d": "include",
+    "code": "INC",
+    "why": "Adults, 3-ligament tenodesis cohort (n=108), detailed immobilisation/ROM/progression protocols, patient outcomes, 2022 English full text; all criteria met.",
+    "where": "p1077 Methods (Participants, Late/Early active motion protocol); p1078 Fig 1; pp1079-1082 Results"
+   }
+  ],
+  "accepted_context": "2d095654244d6d7cccc4550dc6b99f385c54c471e0ff1290015816bcb96a90ab",
+  "legacy_import_reason": "FT revision 1 (context 1eb381806b86, 2026-10-11): same protocol, config and PDFs for these 16 reports; retrieval refreshed on 2026-10-24 with 17 author-supplied PMC PDFs, so only the new reports are screened in revision 2"
+ },
+ {
+  "source": "/home/user/academic-research-skills/tfe-ligamentoplastie-SL/etape1_recherche/phase2/tri/sr_work/ft_rev1_results_unbound.json",
+  "label": "FTA:R00276",
+  "decisions": [
+   {
+    "id": "R00276",
+    "d": "include",
+    "code": "INC",
+    "why": "ECRB tenodesis SL reconstruction, 36 adults; cast 8 weeks, graduated physiotherapy, full load 16 weeks; DASH, ROM, grip reported.",
+    "where": "p3 Methods, Surgical indication and procedure (final paragraph); p2 Demography; p3 Outcome analysis and Results"
+   }
+  ],
+  "accepted_context": "2d095654244d6d7cccc4550dc6b99f385c54c471e0ff1290015816bcb96a90ab",
+  "legacy_import_reason": "FT revision 1 (context 1eb381806b86, 2026-10-11): same protocol, config and PDFs for these 16 reports; retrieval refreshed on 2026-10-24 with 17 author-supplied PMC PDFs, so only the new reports are screened in revision 2"
+ },
+ {
+  "source": "/home/user/academic-research-skills/tfe-ligamentoplastie-SL/etape1_recherche/phase2/tri/sr_work/ft_rev1_results_unbound.json",
+  "label": "FTB:R00276",
+  "decisions": [
+   {
+    "id": "R00276",
+    "d": "include",
+    "code": "INC",
+    "why": "SL tenodesis in 36 adults; 8-week cast then graduated active remobilisation, full load at 16 weeks; DASH, ROM, grip, radiology reported.",
+    "where": "p3 Methods, Surgical indication and procedure; p3-4 Outcome analysis and Results"
+   }
+  ],
+  "accepted_context": "2d095654244d6d7cccc4550dc6b99f385c54c471e0ff1290015816bcb96a90ab",
+  "legacy_import_reason": "FT revision 1 (context 1eb381806b86, 2026-10-11): same protocol, config and PDFs for these 16 reports; retrieval refreshed on 2026-10-24 with 17 author-supplied PMC PDFs, so only the new reports are screened in revision 2"
+ },
+ {
+  "source": "/home/user/academic-research-skills/tfe-ligamentoplastie-SL/etape1_recherche/phase2/tri/sr_work/ft_rev1_results_unbound.json",
+  "label": "FTA:R00311",
+  "decisions": [
+   {
+    "id": "R00311",
+    "d": "unclear",
+    "code": "UNC",
+    "why": "Protocol, SL repair and outcomes met; publication year and patient ages not stated in rendered text (tables empty).",
+    "where": "p1 header and Abstract; p2 Methods (immobilisation, therapy); p3 Results (Table 1 not rendered)"
+   }
+  ],
+  "accepted_context": "2d095654244d6d7cccc4550dc6b99f385c54c471e0ff1290015816bcb96a90ab",
+  "legacy_import_reason": "FT revision 1 (context 1eb381806b86, 2026-10-11): same protocol, config and PDFs for these 16 reports; retrieval refreshed on 2026-10-24 with 17 author-supplied PMC PDFs, so only the new reports are screened in revision 2"
+ },
+ {
+  "source": "/home/user/academic-research-skills/tfe-ligamentoplastie-SL/etape1_recherche/phase2/tri/sr_work/ft_rev1_results_unbound.json",
+  "label": "FTB:R00311",
+  "decisions": [
+   {
+    "id": "R00311",
+    "d": "include",
+    "code": "INC",
+    "why": "SL anchor repair ± capsulodesis; cast/K-wires 6-8 wks, splint, strengthening by 10-12 wks; 24 patients; clinical, radiographic outcomes reported.",
+    "where": "p2 Materials and Methods (SL repair technique, postoperative protocol); p3-4 Results"
+   }
+  ],
+  "accepted_context": "2d095654244d6d7cccc4550dc6b99f385c54c471e0ff1290015816bcb96a90ab",
+  "legacy_import_reason": "FT revision 1 (context 1eb381806b86, 2026-10-11): same protocol, config and PDFs for these 16 reports; retrieval refreshed on 2026-10-24 with 17 author-supplied PMC PDFs, so only the new reports are screened in revision 2"
+ },
+ {
+  "source": "/home/user/academic-research-skills/tfe-ligamentoplastie-SL/etape1_recherche/phase2/tri/sr_work/ft_rev1_results_unbound.json",
+  "label": "FTA:R00390",
+  "decisions": [
+   {
+    "id": "R00390",
+    "d": "exclude",
+    "code": "E3",
+    "why": "Distal radius fracture plating series; SL injuries only incidental, no SL-specific protocol or separate SL results reported.",
+    "where": "Abstract; p2 Methods 2.1 Patient Selection; p4-5 Discussion"
+   }
+  ],
+  "accepted_context": "2d095654244d6d7cccc4550dc6b99f385c54c471e0ff1290015816bcb96a90ab",
+  "legacy_import_reason": "FT revision 1 (context 1eb381806b86, 2026-10-11): same protocol, config and PDFs for these 16 reports; retrieval refreshed on 2026-10-24 with 17 author-supplied PMC PDFs, so only the new reports are screened in revision 2"
+ },
+ {
+  "source": "/home/user/academic-research-skills/tfe-ligamentoplastie-SL/etape1_recherche/phase2/tri/sr_work/ft_rev1_results_unbound.json",
+  "label": "FTB:R00390",
+  "decisions": [
+   {
+    "id": "R00390",
+    "d": "exclude",
+    "code": "E3",
+    "why": "Distal radius fracture MIPO series; SL injuries only incidentally repaired arthroscopically, no SL-specific protocol or separate SL results.",
+    "where": "p1 Abstract; p2 Methods 2.1 Patient Selection; p3 Results 3.1; p5 Discussion limitations"
+   }
+  ],
+  "accepted_context": "2d095654244d6d7cccc4550dc6b99f385c54c471e0ff1290015816bcb96a90ab",
+  "legacy_import_reason": "FT revision 1 (context 1eb381806b86, 2026-10-11): same protocol, config and PDFs for these 16 reports; retrieval refreshed on 2026-10-24 with 17 author-supplied PMC PDFs, so only the new reports are screened in revision 2"
+ },
+ {
+  "source": "/home/user/academic-research-skills/tfe-ligamentoplastie-SL/etape1_recherche/phase2/tri/sr_work/ft_rev1_results_unbound.json",
+  "label": "FTA:R00527",
+  "decisions": [
+   {
+    "id": "R00527",
+    "d": "include",
+    "code": "INC",
+    "why": "SLIL tears treated by ECRL-FCR tenodesis; 6-week spica then ROM/power/proprioception rehab; 20 patients; grip, pain, ROM, X-ray outcomes.",
+    "where": "p2 Surgical Technique (immobilisation, rehabilitation); p3 Methods, Patients and Results; p1 Abstract"
+   }
+  ],
+  "accepted_context": "2d095654244d6d7cccc4550dc6b99f385c54c471e0ff1290015816bcb96a90ab",
+  "legacy_import_reason": "FT revision 1 (context 1eb381806b86, 2026-10-11): same protocol, config and PDFs for these 16 reports; retrieval refreshed on 2026-10-24 with 17 author-supplied PMC PDFs, so only the new reports are screened in revision 2"
+ },
+ {
+  "source": "/home/user/academic-research-skills/tfe-ligamentoplastie-SL/etape1_recherche/phase2/tri/sr_work/ft_rev1_results_unbound.json",
+  "label": "FTB:R00527",
+  "decisions": [
+   {
+    "id": "R00527",
+    "d": "exclude",
+    "code": "E4",
+    "why": "Dynamic ECRL tendon transfer to scaphoid; SL ligament not repaired or reconstructed, only arthroscopic debridement; authors distinguish it from tenodesis/capsulodesis.",
+    "where": "p2 Surgical Technique; p3 Materials and Methods; p1 Introduction"
+   }
+  ],
+  "accepted_context": "2d095654244d6d7cccc4550dc6b99f385c54c471e0ff1290015816bcb96a90ab",
+  "legacy_import_reason": "FT revision 1 (context 1eb381806b86, 2026-10-11): same protocol, config and PDFs for these 16 reports; retrieval refreshed on 2026-10-24 with 17 author-supplied PMC PDFs, so only the new reports are screened in revision 2"
+ },
+ {
+  "source": "/home/user/academic-research-skills/tfe-ligamentoplastie-SL/etape1_recherche/phase2/tri/sr_work/ft_rev1_results_unbound.json",
+  "label": "FTADJ:R00527",
+  "decisions": [
+   {
+    "id": "R00527",
+    "d": "exclude",
+    "code": "E4",
+    "why": "Dynamic ECRL-FCR tendon transfer to scaphoid; SL ligament not repaired or reconstructed, arthroscopic SLIL repair not attempted.",
+    "where": "p2 Description of technique and Surgical Technique; p3 Materials and Methods"
+   }
+  ],
+  "accepted_context": "2d095654244d6d7cccc4550dc6b99f385c54c471e0ff1290015816bcb96a90ab",
+  "legacy_import_reason": "FT revision 1 (context 1eb381806b86, 2026-10-11): same protocol, config and PDFs for these 16 reports; retrieval refreshed on 2026-10-24 with 17 author-supplied PMC PDFs, so only the new reports are screened in revision 2"
+ },
+ {
+  "source": "/home/user/academic-research-skills/tfe-ligamentoplastie-SL/etape1_recherche/phase2/tri/sr_work/ft_rev1_results_unbound.json",
+  "label": "FTADJ:R00311",
+  "decisions": [
+   {
+    "id": "R00311",
+    "d": "include",
+    "code": "INC",
+    "why": "SL repair; K-wire/cast immobilisation 6-8 weeks, graded therapy, strengthening by 10-12 weeks; clinical and radiographic outcomes, 24 patients.",
+    "where": "p2 Materials and Methods (surgical repair and postoperative course); p3-4 Results (outcomes)"
+   }
+  ],
+  "accepted_context": "2d095654244d6d7cccc4550dc6b99f385c54c471e0ff1290015816bcb96a90ab",
+  "legacy_import_reason": "FT revision 1 (context 1eb381806b86, 2026-10-11): same protocol, config and PDFs for these 16 reports; retrieval refreshed on 2026-10-24 with 17 author-supplied PMC PDFs, so only the new reports are screened in revision 2"
+ },
+ {
+  "source": "/home/user/academic-research-skills/tfe-ligamentoplastie-SL/etape1_recherche/phase2/tri/sr_work/ft_rev2_results/FTA_R00025.json",
+  "label": "FTA:R00025@2d095654244d6d7cccc4550dc6b99f385c54c471e0ff1290015816bcb96a90ab",
+  "decisions": [
+   {
+    "id": "R00025",
+    "d": "include",
+    "code": "INC",
+    "why": "8 adults, arthroscopic SL capsuloligamentous repair; splint 10-14 days, motion at 6 weeks, activities 10-12 weeks; ROM, PROMs, radiographs reported.",
+    "where": "p169-170 Methods; p172 Postoperative Management and Results; p173 Table 2"
+   }
+  ],
+  "accepted_context": "2d095654244d6d7cccc4550dc6b99f385c54c471e0ff1290015816bcb96a90ab"
+ },
+ {
+  "source": "/home/user/academic-research-skills/tfe-ligamentoplastie-SL/etape1_recherche/phase2/tri/sr_work/ft_rev2_results/FTA_R00050.json",
+  "label": "FTA:R00050@2d095654244d6d7cccc4550dc6b99f385c54c471e0ff1290015816bcb96a90ab",
+  "decisions": [
+   {
+    "id": "R00050",
+    "d": "include",
+    "code": "INC",
+    "why": "12 adults, arthroscopic dorsal capsulodesis plus internal brace; 4-week splint, rehab, load restrictions, return to sport; clinical and radiological outcomes.",
+    "where": "p80 Methods, Patients, Surgical Technique, Postoperative Management; p81 Results"
+   }
+  ],
+  "accepted_context": "2d095654244d6d7cccc4550dc6b99f385c54c471e0ff1290015816bcb96a90ab"
+ },
+ {
+  "source": "/home/user/academic-research-skills/tfe-ligamentoplastie-SL/etape1_recherche/phase2/tri/sr_work/ft_rev2_results/FTA_R00070.json",
+  "label": "FTA:R00070@2d095654244d6d7cccc4550dc6b99f385c54c471e0ff1290015816bcb96a90ab",
+  "decisions": [
+   {
+    "id": "R00070",
+    "d": "exclude",
+    "code": "E5",
+    "why": "Radiographic comparison; no postoperative protocol (immobilisation, motion start, exercises) described; SLD surgical treatment not stated.",
+    "where": "p252 Materials and Methods; p251 Abstract"
+   }
+  ],
+  "accepted_context": "2d095654244d6d7cccc4550dc6b99f385c54c471e0ff1290015816bcb96a90ab"
+ },
+ {
+  "source": "/home/user/academic-research-skills/tfe-ligamentoplastie-SL/etape1_recherche/phase2/tri/sr_work/ft_rev2_results/FTA_R00110.json",
+  "label": "FTA:R00110@2d095654244d6d7cccc4550dc6b99f385c54c471e0ff1290015816bcb96a90ab",
+  "decisions": [
+   {
+    "id": "R00110",
+    "d": "include",
+    "code": "INC",
+    "why": "29 adults, arthroscopic dorsal capsulo-ligamentoplasty; 4-week cast, then rehab, work after 2 months, lifting 3 months; pain, ROM, QuickDASH reported.",
+    "where": "p489 Postoperative Care; p490-492 Case Series methods, Results, Table 2"
+   }
+  ],
+  "accepted_context": "2d095654244d6d7cccc4550dc6b99f385c54c471e0ff1290015816bcb96a90ab"
+ },
+ {
+  "source": "/home/user/academic-research-skills/tfe-ligamentoplastie-SL/etape1_recherche/phase2/tri/sr_work/ft_rev2_results/FTA_R00141.json",
+  "label": "FTA:R00141@2d095654244d6d7cccc4550dc6b99f385c54c471e0ff1290015816bcb96a90ab",
+  "decisions": [
+   {
+    "id": "R00141",
+    "d": "include",
+    "code": "INC",
+    "why": "Arthroscopic SL capsuloligamentous repair, 15 adults; splint 2 weeks, cast 2-4 weeks, therapy from week 6; outcomes reported.",
+    "where": "p3 Methods; p5 Postoperative Care and Results; p10 Table 2"
+   }
+  ],
+  "accepted_context": "2d095654244d6d7cccc4550dc6b99f385c54c471e0ff1290015816bcb96a90ab"
+ },
+ {
+  "source": "/home/user/academic-research-skills/tfe-ligamentoplastie-SL/etape1_recherche/phase2/tri/sr_work/ft_rev2_results/FTA_R00149.json",
+  "label": "FTA:R00149@2d095654244d6d7cccc4550dc6b99f385c54c471e0ff1290015816bcb96a90ab",
+  "decisions": [
+   {
+    "id": "R00149",
+    "d": "include",
+    "code": "INC",
+    "why": "42 adults, PL tendon-graft SL reconstruction; cast 5d+6wk, 3-month physio, activity restrictions described; clinical and radiological outcomes reported.",
+    "where": "p347 Methods, Postoperative (Rehabilitation) Protocol; p349-350 Results, Tables 3-4"
+   }
+  ],
+  "accepted_context": "2d095654244d6d7cccc4550dc6b99f385c54c471e0ff1290015816bcb96a90ab"
+ },
+ {
+  "source": "/home/user/academic-research-skills/tfe-ligamentoplastie-SL/etape1_recherche/phase2/tri/sr_work/ft_rev2_results/FTA_R00156.json",
+  "label": "FTA:R00156@2d095654244d6d7cccc4550dc6b99f385c54c471e0ff1290015816bcb96a90ab",
+  "decisions": [
+   {
+    "id": "R00156",
+    "d": "include",
+    "code": "INC",
+    "why": "Nonrandomised comparative study, 21 adults, SL tenodesis; splint 1 week vs cast 6 weeks, hand therapy start, return-to-work, ROM outcomes.",
+    "where": "p24 Methods (Surgical Procedure, Postoperative Regimen); p25 Results, Table 1; p26 Table 2"
+   }
+  ],
+  "accepted_context": "2d095654244d6d7cccc4550dc6b99f385c54c471e0ff1290015816bcb96a90ab"
+ },
+ {
+  "source": "/home/user/academic-research-skills/tfe-ligamentoplastie-SL/etape1_recherche/phase2/tri/sr_work/ft_rev2_results/FTA_R00169.json",
+  "label": "FTA:R00169@2d095654244d6d7cccc4550dc6b99f385c54c471e0ff1290015816bcb96a90ab",
+  "decisions": [
+   {
+    "id": "R00169",
+    "d": "include",
+    "code": "INC",
+    "why": "Adult SL volar capsulodesis case series (n=28); splint/cast/pins 6 weeks, no weight-bearing 12 weeks; ROM, grip, DASH outcomes.",
+    "where": "p372-373 Methods, Surgical Technique; p374-375 Results"
+   }
+  ],
+  "accepted_context": "2d095654244d6d7cccc4550dc6b99f385c54c471e0ff1290015816bcb96a90ab"
+ },
+ {
+  "source": "/home/user/academic-research-skills/tfe-ligamentoplastie-SL/etape1_recherche/phase2/tri/sr_work/ft_rev2_results/FTA_R00171.json",
+  "label": "FTA:R00171@2d095654244d6d7cccc4550dc6b99f385c54c471e0ff1290015816bcb96a90ab",
+  "decisions": [
+   {
+    "id": "R00171",
+    "d": "exclude",
+    "code": "E5",
+    "why": "Six-patient volar SL capsulodesis series reports outcomes but no immobilisation, motion start, exercises, or restrictions anywhere.",
+    "where": "p3-4 Surgical Technique and Results; p2 Methods (no postoperative protocol section)"
+   }
+  ],
+  "accepted_context": "2d095654244d6d7cccc4550dc6b99f385c54c471e0ff1290015816bcb96a90ab"
+ },
+ {
+  "source": "/home/user/academic-research-skills/tfe-ligamentoplastie-SL/etape1_recherche/phase2/tri/sr_work/ft_rev2_results/FTB_R00025.json",
+  "label": "FTB:R00025@2d095654244d6d7cccc4550dc6b99f385c54c471e0ff1290015816bcb96a90ab",
+  "decisions": [
+   {
+    "id": "R00025",
+    "d": "include",
+    "code": "INC",
+    "why": "Adults with SL injury, arthroscopic capsuloligamentous repair, splint/brace/motion timing described, ROM/PROM/radiographic outcomes, 8-patient case series, 2025 English.",
+    "where": "p169-170 Methods; p172 Postoperative Management and Results; p173 Table 2"
+   }
+  ],
+  "accepted_context": "2d095654244d6d7cccc4550dc6b99f385c54c471e0ff1290015816bcb96a90ab"
+ },
+ {
+  "source": "/home/user/academic-research-skills/tfe-ligamentoplastie-SL/etape1_recherche/phase2/tri/sr_work/ft_rev2_results/FTB_R00050.json",
+  "label": "FTB:R00050@2d095654244d6d7cccc4550dc6b99f385c54c471e0ff1290015816bcb96a90ab",
+  "decisions": [
+   {
+    "id": "R00050",
+    "d": "include",
+    "code": "INC",
+    "why": "Adult case series of 12 with SL internal brace plus capsulodesis; splint 4 weeks, rehab, load and return-to-sport limits; outcomes reported.",
+    "where": "p80 Methods, Patients and Postoperative Management; p81 Results"
+   }
+  ],
+  "accepted_context": "2d095654244d6d7cccc4550dc6b99f385c54c471e0ff1290015816bcb96a90ab"
+ },
+ {
+  "source": "/home/user/academic-research-skills/tfe-ligamentoplastie-SL/etape1_recherche/phase2/tri/sr_work/ft_rev2_results/FTB_R00070.json",
+  "label": "FTB:R00070@2d095654244d6d7cccc4550dc6b99f385c54c471e0ff1290015816bcb96a90ab",
+  "decisions": [
+   {
+    "id": "R00070",
+    "d": "exclude",
+    "code": "E4",
+    "why": "Radiographic SLD vs Kienbock comparison; no SL repair/reconstruction reported, Kienbock group had lunate resection with pisiform transfer, no rehabilitation described.",
+    "where": "p2 Materials and Methods; p1 Abstract"
+   }
+  ],
+  "accepted_context": "2d095654244d6d7cccc4550dc6b99f385c54c471e0ff1290015816bcb96a90ab"
+ },
+ {
+  "source": "/home/user/academic-research-skills/tfe-ligamentoplastie-SL/etape1_recherche/phase2/tri/sr_work/ft_rev2_results/FTB_R00110.json",
+  "label": "FTB:R00110@2d095654244d6d7cccc4550dc6b99f385c54c471e0ff1290015816bcb96a90ab",
+  "decisions": [
+   {
+    "id": "R00110",
+    "d": "include",
+    "code": "INC",
+    "why": "29 adults, arthroscopic dorsal capsulo-ligamentoplasty; 4-week cast, then proprioceptive rehab, gradual work after 2 months; clinical and radiological outcomes reported.",
+    "where": "p489 Methods, Postoperative Care; p490-492 Case Series, Results, Table 2"
+   }
+  ],
+  "accepted_context": "2d095654244d6d7cccc4550dc6b99f385c54c471e0ff1290015816bcb96a90ab"
+ },
+ {
+  "source": "/home/user/academic-research-skills/tfe-ligamentoplastie-SL/etape1_recherche/phase2/tri/sr_work/ft_rev2_results/FTB_R00141.json",
+  "label": "FTB:R00141@2d095654244d6d7cccc4550dc6b99f385c54c471e0ff1290015816bcb96a90ab",
+  "decisions": [
+   {
+    "id": "R00141",
+    "d": "include",
+    "code": "INC",
+    "why": "Arthroscopic SL capsulodesis, 15 adults; surgery 6-22 weeks post-injury, not during DRF fixation; postoperative protocol and outcomes reported.",
+    "where": "p303 Methods (injury-to-surgery 14 weeks); p304 Postoperative Care; p305-306 Results, Table 2"
+   }
+  ],
+  "accepted_context": "2d095654244d6d7cccc4550dc6b99f385c54c471e0ff1290015816bcb96a90ab"
+ },
+ {
+  "source": "/home/user/academic-research-skills/tfe-ligamentoplastie-SL/etape1_recherche/phase2/tri/sr_work/ft_rev2_results/FTB_R00149.json",
+  "label": "FTB:R00149@2d095654244d6d7cccc4550dc6b99f385c54c471e0ff1290015816bcb96a90ab",
+  "decisions": [
+   {
+    "id": "R00149",
+    "d": "include",
+    "code": "INC",
+    "why": "Adults with SL tendon-graft reconstruction; cast 5 days plus 6 weeks, physiotherapy 3 months, return/lifting limits; outcomes; 42-patient series, 2022.",
+    "where": "p347 Methods, Postoperative (Rehabilitation) Protocol; p346 Patients and Methods; p349-350 Results"
+   }
+  ],
+  "accepted_context": "2d095654244d6d7cccc4550dc6b99f385c54c471e0ff1290015816bcb96a90ab"
+ },
+ {
+  "source": "/home/user/academic-research-skills/tfe-ligamentoplastie-SL/etape1_recherche/phase2/tri/sr_work/ft_rev2_results/FTB_R00156.json",
+  "label": "FTB:R00156@2d095654244d6d7cccc4550dc6b99f385c54c471e0ff1290015816bcb96a90ab",
+  "decisions": [
+   {
+    "id": "R00156",
+    "d": "include",
+    "code": "INC",
+    "why": "Adult SL tenodesis nonrandomised comparison (n=21); splint 1 wk vs cast+K-wires 6 wks, hand therapy start, ROM/grip/return-to-work outcomes.",
+    "where": "p24 Methods, Postoperative Regimen; p25 Results, Table 1; p26 Table 2"
+   }
+  ],
+  "accepted_context": "2d095654244d6d7cccc4550dc6b99f385c54c471e0ff1290015816bcb96a90ab"
+ },
+ {
+  "source": "/home/user/academic-research-skills/tfe-ligamentoplastie-SL/etape1_recherche/phase2/tri/sr_work/ft_rev2_results/FTB_R00169.json",
+  "label": "FTB:R00169@2d095654244d6d7cccc4550dc6b99f385c54c471e0ff1290015816bcb96a90ab",
+  "decisions": [
+   {
+    "id": "R00169",
+    "d": "include",
+    "code": "INC",
+    "why": "Case series of 28 adults, volar capsulodesis; splint 2 wk, cast 4 wk, pins/therapy 6 wk, no weight-bearing 12 wk; DASH, ROM reported.",
+    "where": "p373 Methods, Surgical Technique; p372 Methods; p374-375 Results"
+   }
+  ],
+  "accepted_context": "2d095654244d6d7cccc4550dc6b99f385c54c471e0ff1290015816bcb96a90ab"
+ },
+ {
+  "source": "/home/user/academic-research-skills/tfe-ligamentoplastie-SL/etape1_recherche/phase2/tri/sr_work/ft_rev2_results/FTB_R00232.json",
+  "label": "FTB:R00232@2d095654244d6d7cccc4550dc6b99f385c54c471e0ff1290015816bcb96a90ab",
+  "decisions": [
+   {
+    "id": "R00232",
+    "d": "exclude",
+    "code": "E5",
+    "why": "Only 'cast and pin removal' mentioned; no immobilisation duration, motion start, exercises, progression or restrictions described.",
+    "where": "p488 Patients and Methods (whole report, pp487-491)"
+   }
+  ],
+  "accepted_context": "2d095654244d6d7cccc4550dc6b99f385c54c471e0ff1290015816bcb96a90ab"
  }
 ]

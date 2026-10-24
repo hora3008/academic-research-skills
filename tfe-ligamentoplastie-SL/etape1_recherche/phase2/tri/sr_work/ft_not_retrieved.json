@@ -21,13 +21,6 @@
   "ta_decision": "include"
  },
  {
-  "id": "R00025",
-  "title": "Volar-Dorsal Arthroscopic Repair for Scapholunate Ligament Injuries: A Case Series and Treatment Algorithm.",
-  "doi": "10.1055/a-2662-1273",
-  "pmid": "41869482",
-  "ta_decision": "include"
- },
- {
   "id": "R00026",
   "title": "Functional and radiological outcomes of the all-dorsal technique for scapholunate ligament reconstruction.",
   "doi": "10.1177/17531934261428319",
@@ -56,13 +49,6 @@
   "ta_decision": "include"
  },
  {
-  "id": "R00050",
-  "title": "Early Results of All-Dorsal Arthroscopic Scapholunate Ligamentoplasty.",
-  "doi": "10.1055/a-2511-3111",
-  "pmid": "41574154",
-  "ta_decision": "include"
- },
- {
   "id": "R00054",
   "title": "Reduction and Association of the Scaphoid and Lunate Versus Internal Brace for Scapholunate Ligament Reconstruction.",
   "doi": "10.1177/15589447251414125",
@@ -75,13 +61,6 @@
   "doi": "10.1177/17531934231219191",
   "pmid": "38069863",
   "ta_decision": "include"
- },
- {
-  "id": "R00070",
-  "title": "Difference in Carpal Alignment between Scapholunate Dissociation and Kienbock Disease: A Retrospective Study.",
-  "doi": "10.1055/s-0040-1717829",
-  "pmid": "36016639",
-  "ta_decision": "unclear"
  },
  {
   "id": "R00081",
@@ -117,13 +96,6 @@
   "doi": "10.1016/j.jhsa.2022.09.012",
   "pmid": "36456426",
   "ta_decision": "include"
- },
- {
-  "id": "R00110",
-  "title": "Arthroscopic Dorsal Round-Block Capsulo-Ligamentoplasty for Dynamic Scapholunate Instability: An Anatomical Study and Case Series.",
-  "doi": "10.1055/s-0044-1790205",
-  "pmid": "40995554",
-  "ta_decision": "unclear"
  },
  {
   "id": "R00113",
@@ -168,24 +140,10 @@
   "ta_decision": "unclear"
  },
  {
-  "id": "R00141",
-  "title": "Arthroscopic Suture Anchor Scapholunate Capsulodesis.",
-  "doi": "10.1055/s-0044-1791501",
-  "pmid": "40688638",
-  "ta_decision": "include"
- },
- {
   "id": "R00148",
   "title": "Combined repair of scapholunate ligament (SL) and triangular fibrocartilage complex (TFCC) lesions in chronic trauma of the wrist: surgical treatment of 14 patients.",
   "doi": "10.1007/s12306-023-00787-w",
   "pmid": "37227663",
-  "ta_decision": "include"
- },
- {
-  "id": "R00149",
-  "title": "Dorsal Scapholunate Ligament Reconstruction by Using Palmaris Longus Tendon Graft in Chronic Static Scapholunate Dissociations: Does It Yield Favorable Radiographic and Functional Results?",
-  "doi": "10.1055/s-0042-1759729",
-  "pmid": "37564624",
   "ta_decision": "include"
  },
  {
@@ -194,27 +152,6 @@
   "doi": "10.1097/prs.0000000000009786",
   "pmid": "36219862",
   "ta_decision": "unclear"
- },
- {
-  "id": "R00156",
-  "title": "Scapholunate Ligament Reconstruction without Immobilization Is Safe and Leads to Better Functional Results.",
-  "doi": "10.1055/s-0042-1749164",
-  "pmid": "36644724",
-  "ta_decision": "include"
- },
- {
-  "id": "R00169",
-  "title": "Long-Term Functional Outcomes After Volar Capsulodesis for Treatment of Scapholunate Ligament Injuries: An 18-Year Experience.",
-  "doi": "10.1055/a-2686-1118",
-  "pmid": "42524696",
-  "ta_decision": "include"
- },
- {
-  "id": "R00171",
-  "title": "Clinical Outcomes of Arthroscopic-Assisted Volar Scapholunate Capsulodesis: A Case Series.",
-  "doi": "10.1055/s-0043-1762930",
-  "pmid": "37841355",
-  "ta_decision": "include"
  },
  {
   "id": "R00173",
@@ -273,24 +210,10 @@
   "ta_decision": "unclear"
  },
  {
-  "id": "R00232",
-  "title": "Postoperative Pain Is Correlated with Scaphoid Dorsal Translation following Scapholunate Interosseous Ligament Reconstruction.",
-  "doi": "10.1055/s-0040-1713656",
-  "pmid": "33282534",
-  "ta_decision": "include"
- },
- {
   "id": "R00238",
   "title": "Treatment of static scapholunate dissociation using a slip of the flexor carpi radialis.",
   "doi": "10.1007/s00590-020-02706-2",
   "pmid": "32447458",
-  "ta_decision": "include"
- },
- {
-  "id": "R00257",
-  "title": "Radiologic Evolution after Scapholunate Dorsal Capsulodesis for Chronic Tears.",
-  "doi": "10.1055/s-0043-1764159",
-  "pmid": "37841361",
   "ta_decision": "include"
  },
  {
@@ -322,20 +245,6 @@
   "ta_decision": "include"
  },
  {
-  "id": "R00294",
-  "title": "Arthroscopic Debridement for Treatment of Chronic Dynamic Scaphoid Instability.",
-  "doi": "10.1055/s-0043-1769934",
-  "pmid": "39027026",
-  "ta_decision": "unclear"
- },
- {
-  "id": "R00366",
-  "title": "Clinical Outcomes of Arthroscopic Ligament-Sparing Dorsal Capsulodesis for Partial Scapholunate Ligament Tear.",
-  "doi": "10.1055/s-0042-1757441",
-  "pmid": "37223389",
-  "ta_decision": "unclear"
- },
- {
   "id": "R00371",
   "title": "Chronic Reducible Scapholunate Ligament Dissociation: A Simple Surgical Technique for a Complex Injury.",
   "doi": "10.1097/bth.0000000000000261",
@@ -343,31 +252,10 @@
   "ta_decision": "include"
  },
  {
-  "id": "R00401",
-  "title": "Arthroscopic Reinsertion of Acute Injuries of the Scapholunate Ligament Technique and Results.",
-  "doi": "10.1055/s-0040-1710502",
-  "pmid": "32760612",
-  "ta_decision": "include"
- },
- {
   "id": "R00408",
   "title": "Arthroscopic \"S\"\"-shaped Ligamentoplasty for Floating Lunate.\"",
   "doi": "",
   "pmid": "",
-  "ta_decision": "unclear"
- },
- {
-  "id": "R00474",
-  "title": "Midcarpal Ultra-wide Scapholunotriquetral Capsulo-ligamentoplasty (MUSCL) Procedure.",
-  "doi": "10.1055/a-2698-9750",
-  "pmid": "42788177",
-  "ta_decision": "include"
- },
- {
-  "id": "R00500",
-  "title": "Arthroscopic management of scapholunate complex injuries associated with distal radius fractures.",
-  "doi": "10.1016/j.jor.2024.01.009",
-  "pmid": "38333048",
   "ta_decision": "unclear"
  },
  {
@@ -383,13 +271,6 @@
   "doi": "10.1016/j.hansur.2022.08.004",
   "pmid": "35988914",
   "ta_decision": "include"
- },
- {
-  "id": "R00528",
-  "title": "Early Outcomes of Scapholunate Injuries With Concomitant Distal Radius Fractures.",
-  "doi": "10.1177/1558944719890037",
-  "pmid": "34549615",
-  "ta_decision": "unclear"
  },
  {
   "id": "R00532",
