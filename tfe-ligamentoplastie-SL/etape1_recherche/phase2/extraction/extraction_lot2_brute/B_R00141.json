@@ -1,0 +1,99 @@
+{
+"id":"R00141",
+"reference_vancouver":"Chung SR, Carratalá V, Delgado PJ, Kalapos R, Kakar S. Arthroscopic suture anchor scapholunate capsulodesis. J Wrist Surg. 2025;14(4):302-13. doi:10.1055/s-0044-1791501 [p. 302]",
+"etude":{
+"pays":"Espagne (comité d'éthique de l'Hospital Quirónsalud Valencia) ; auteurs aussi de Singapour et des USA ; pays du recrutement non précisé explicitement [p. 303 Méthodes ; p. 312 Ethical Approval]",
+"centres_chirurgiens":"Centre(s) et nombre de chirurgiens NR ; l'approbation éthique vient de l'Hospital Quirónsalud Valencia [p. 312] ; technique décrite par les auteurs (Carratalá, Kakar, Kalapos) [p. 303, 309]",
+"type_etude":"Revue rétrospective d'une série de cas, un seul bras, sans comparaison de protocoles [p. 302 Abstract ; p. 303 Méthodes]",
+"periode":"Chirurgies 2021-2023 ; suivi de 12 mois (12-26) [p. 302 Abstract]",
+"niveau_preuve":"Niveau IV (déclaré) [p. 302]",
+"financement_coi":"Financement : aucun. COI : R.K. employé d'Arthrex ; S.K. consultant Arthrex, Restor3D et IBRA, perçoit des royalties d'Arthrex ; P.J.D. consultant Arthrex et Newclip ; V.C. consultant Arthrex et Newclip ; aucun honoraire pour ce manuscrit. Une illustratrice et le service marketing d'Arthrex ont fourni les dessins [p. 312]",
+"enregistrement":"NR (étude rétrospective ; approbation du comité d'éthique et consentement éclairé déclarés) [p. 303, 312]"
+},
+"patients":{
+"n_inclus":"15 [p. 303 Méthodes]",
+"n_analyses":"Variable selon la mesure : 15 pour la série ; moyennes de Table 2 sur des sous-ensembles (voir Table 3 : AROM pré-op disponible chez 10/15, AROM à 12 mois chez 13/15, patient 7 sans donnée postopératoire, patient 11 sans mesure de force à 12 mois) ; n par mesure non indiqué dans le texte [p. 310 Tables 2-3]",
+"perdus_de_vue":"Non déclaré explicitement ; données manquantes visibles (patient 7 sans AROM/force post-op, VAS et QuickDASH à 12 mois NR ; patient 11 sans force à 12 mois ; pré-op AROM/force NR pour 5 patients) [p. 310-311 Tables 3-4]",
+"age":"Moyenne 44,9 ans (31-61) [p. 303]",
+"sexe":"12 hommes, 3 femmes [p. 303]",
+"cote_dominant":"Texte : 12 droitiers et 3 gauchers (« dominant ») ; 10 (67 %) poignets droits et 5 (33 %) gauches lésés. Côté dominant vs côté opéré non croisés [p. 303]",
+"aigu_ou_chronique":"Mixte : indication « aigu et chronique » ; délai moyen lésion-chirurgie 14 semaines (6-22) ; répartition aigu/chronique NR [p. 303]",
+"statique_ou_dynamique":"Lésion réductible exigée ; 15/15 avec test de glissement du scaphoïde positif ; diastasis SL radiographique > 3 mm chez aucun ; angle SL < 60° (pas de DISI) ; statique/dynamique non qualifié formellement [p. 303, 305]",
+"stade_classification":"Geissler II = 8, III = 4, IV = 3 ; EWAS IIB 4, IIC 4, IIIC 4, IV 3 [p. 305, Table 1 p. 309]. Texte d'inclusion : Garcia-Elias IV et V ; indications : EWAS IIB-IV et Garcia-Elias II-V [p. 303]",
+"profession_sport":"NR [p. 302-312]",
+"patients_hors_criteres":"7 patients lésion SL isolée et 8 avec fracture associée du radius distal (traitée) ; 4/15 avec lésion TFCC associée (non réparée) ; 8 patients avec instabilité palmaire associée (EWAS IIC, IIIC, IV) ayant eu une réparation palmaire arthroscopique en plus ; pas de données séparées pour ces sous-groupes [p. 305]. Aucun SLAC (arthrose exclue) [p. 303]"
+},
+"chirurgie":{
+"technique":"Capsuloligamentoplastie dorsale SL arthroscopique avec 2 ancres à suture (une dans le scaphoïde dorsal, une dans le lunatum dorsal) via portails médio-carpien ulnaire et radial, suivie d'une plicature de la capsule dorsale (DIC/DCSS) ; variante mini-ouverte possible [p. 303-305]",
+"famille":"Capsulodèse (avec réparation du ligament par ancres ; terme « capsuloligamentous repair »)",
+"voie":"Arthroscopique (portails 3-4, 6R, MCU, MCR) ; variante mini-ouverte pour le passage des fils décrite ; proportion de chacune NR [p. 303-305]",
+"greffe":"Aucune pour la procédure index ; ligamentoplastie secondaire par greffe tendineuse libre chez 2 patients en échec (type de greffe NR) [p. 305]",
+"broches_nb_duree":"Pas de broches systématiques ; embrochage SL ou scapho-capitatum « peut être nécessaire » si réduction insuffisante ; si broches, retrait à 6-8 semaines ; nombre de patients embrochés NR [p. 305]",
+"autre_fixation_internal_brace":"Ancres micro-corkscrew 2,2 mm (Arthrex), double chargées ; pas d'internal brace [p. 304, 306 Fig. 5]",
+"gestes_associes":"Réparation arthroscopique palmaire SL chez les patients avec instabilité palmaire associée (8 cas) ; traitement de la fracture du radius distal (8 cas) ; synovectomie et débridement ; lésions TFCC associées (4) non réparées [p. 303-305]"
+},
+"reeducation":{
+"immobilisation_type_position_articulations":"Attelle de repos volaire 2 semaines, puis (après ablation des fils) plâtre court antébrachial ; position du poignet et articulations incluses NR [p. 305 Postoperative Care]",
+"immobilisation_duree":"2 semaines d'attelle + 2 à 4 semaines de plâtre court, soit 4 à 6 semaines au total [p. 305]",
+"debut_mob_passive":"NR ; rééducation supervisée par thérapeute de la main après 6 semaines [p. 305]",
+"debut_mob_active":"Après 6 semaines (rééducation supervisée) ; détail de l'amplitude NR [p. 305]",
+"DTM":"Mouvement de lancer de fléchettes (dart throwers motion) travaillé à partir de 6 semaines [p. 305]",
+"restrictions_amplitude":"NR",
+"debut_renforcement_muscles":"À partir de 6 semaines : renforcement de l'extenseur radial du carpe (ECRL/ECRB, écrit « extensor carpi radialis ») et du fléchisseur radial du carpe ; précision exacte du début de force NR [p. 305]",
+"proprioception":"Oui : proprioception du poignet, à partir de 6 semaines [p. 305]",
+"electrostimulation":"NR",
+"mise_en_charge":"NR (pas de précision de charge sur le membre)",
+"autres_restrictions":"Si broches : retrait à 6-8 semaines puis rééducation immédiatement après retrait [p. 305]",
+"criteres_progression_type":"Temporels (calendrier fixe)",
+"criteres_progression_detail":"Étapes à 2 sem. (ablation des fils/plâtre), 4-6 sem. (fin du plâtre), 6 sem. (rééducation), 6-8 sem. (broches) ; aucun critère clinique ou radiologique cité [p. 305]",
+"encadrement_kine_domicile_nb_seances":"Rééducation supervisée par thérapeute de la main ; nombre de séances, fréquence et programme à domicile NR [p. 305]",
+"observance":"NR",
+"reprise_travail":"NR",
+"reprise_sport":"NR (mention d'un autre article sur basketteurs professionnels uniquement en référence, non rapporté dans cette série) [p. 309]"
+},
+"resultats":{
+"outil_principal_et_valeurs_par_temps":"Moyennes (ET ; étendue) pré-op / 6 mois / 12 mois : VAS 6 (1,3 ; 4-8) / 2,4 (1,1 ; 1-4) / 1,2 (1 ; 0-3) ; MWS 43,5 (13,3 ; 20-60) / 79,6 (8,7 ; 70-90) / 86,5 (8 ; 75-100) ; QuickDASH 65,9 (15,8 ; 38,5-84) / 14,9 (8,7 ; 6,3-38,5) / 6,5 (4,4 ; 0-15,8) ; tous p < 0,001 vs pré-op (t apparié, sans correction de multiplicité, sans groupe contrôle) [p. 310 Table 2 ; p. 307]. Valeurs individuelles en Table 4 [p. 311]",
+"douleur":"VAS 6 -> 2,4 -> 1,2 (diminution 80 % à 12 mois, calcul du relecteur) [p. 310 Table 2]",
+"mobilite":"AROM moyenne (flexion-extension supposée, mesure exacte NR) : 83,5° (ET 18,9 ; 50-105) -> 111,1° à 6 mois (+33 %, p = 0,001) -> 125,4° à 12 mois (+50 %, p < 0,001) ; pré-op calculable chez 10 patients seulement (vérifié : moyenne 83,5 sur 10 valeurs de la Table 3), 12 mois chez 13 [p. 305-306, 310 Tables 2-3]",
+"force":"Force de préhension moyenne (kg) : 13,5 (4,4 ; 7-20) -> 25,2 (4,1 ; 18-32) à 6 mois (+87 %, p < 0,001) -> 31,3 (4,6 ; 22-39) à 12 mois (+131 %, p < 0,001) [p. 310 Table 2]. Incohérence : les 10 valeurs pré-op de la Table 3 donnent moyenne 12,3 kg et minimum 6 kg (patient 4) et non 13,5 / 7 ; avec 12,3 le gain à 12 mois serait +154 % [recalcul, p. 310 Table 3]. Dénominateur du « 131 % » : 31,3/13,5 = +132 % (arrondi) ; comparaison de moyennes d'effectifs différents. Force exprimée en kg absolus, pas en % du côté sain (NR)",
+"radiologie":"Radiographies postop systématiques ; diastasis SL récurrent chez 2/15 à ~6 mois (deux des 3 patients EWAS IV) ; mesures radiologiques (diastasis, angle SL) postop chez les autres NR [p. 305, 307]",
+"taux_reprise":"NR (reprise du travail ou du sport non rapportée)",
+"satisfaction":"NR (pas d'échelle de satisfaction ; MWS et QuickDASH uniquement)",
+"suivi_moyen":"12 mois (12-26) [p. 302] ; texte : « au moins 1 an » [p. 303]. Mesures aux temps 6 et 12 mois uniquement"
+},
+"securite":{
+"complications":"2/15 récidive symptomatique de diastasis SL à ~6 mois (EWAS IV) ; 4/15 lésion TFCC associée (pré-existante, sans réparation nécessaire) ; autres complications : « minimes », non détaillées ; conclusion « sûr » reposant sur 15 patients [p. 302, 305]",
+"reinterventions":"2/15 (13 %) ligamentoplastie SL secondaire par greffe tendineuse libre, « réussie dans les deux cas » (critère de réussite et résultats NR) ; retrait des broches si posées (nombre NR) [p. 305, 307]"
+},
+"cles":{
+"type_etude":"Série de cas rétrospective monocentrique probable (centre NR), niveau IV [p. 302-303]",
+"effectif":"15 inclus ; analyses sur 10-14 selon la mesure (données manquantes) [p. 303, 310]",
+"age":"44,9 ans en moyenne (31-61) ; 12 H / 3 F [p. 303]",
+"technique":"Capsuloligamentoplastie dorsale SL arthroscopique par 2 ancres à suture (scaphoïde + lunatum) et plicature DIC/DCSS ; ± réparation palmaire [p. 303-305]",
+"broches":"Non systématiques ; embrochage si réduction insuffisante, retrait à 6-8 sem. [p. 305]",
+"immobilisation":"Attelle volaire 2 sem. puis plâtre court 2-4 sem. (4-6 sem. au total) [p. 305]",
+"debut_mobilisation":"Rééducation supervisée active à partir de 6 semaines (DTM) [p. 305]",
+"renforcement_ou_charge":"Renforcement ECR et FCR + proprioception à partir de 6 sem. ; charge NR [p. 305]",
+"type_criteres_progression":"Temporels uniquement [p. 305]",
+"reprise_travail_sport":"NR",
+"resultat_fonctionnel_principal":"À 12 mois : MWS 43,5 -> 86,5 ; QuickDASH 65,9 -> 6,5 ; VAS 6 -> 1,2 ; AROM 83,5° -> 125,4° ; force 13,5 -> 31,3 kg (p < 0,001, avant/après sans contrôle) [p. 310]",
+"complications":"2/15 récidive de diastasis SL (reprise par ligamentoplastie) ; autres NR [p. 305]"
+},
+"risque_de_biais":{
+"outil":"Checklist JBI pour séries de cas (10 items) : un seul protocole postopératoire pour tous, aucune comparaison de protocoles ni de groupes",
+"items":{
+"1_criteres_inclusion_clairs":"? Critères donnés mais contradictoires : inclusion « Garcia-Elias IV et V », indications « EWAS IIB-IV et Garcia-Elias II-V » ; exclusion des lésions chroniques non réductibles alors que le texte cible « aigu et chronique » [p. 303]",
+"2_pathologie_mesuree_standard":"O : arthroscopie, classification Geissler/EWAS, radiographies, IRM, test de glissement scaphoïdien [p. 303, 305, Table 1]",
+"3_methode_identification_valide":"O : évaluation arthroscopique et classification publiée [p. 303]",
+"4_inclusion_consecutive":"? Non précisée (« all patients who underwent... » de 2021 à 2023, ce qui suggère l'exhaustivité mais le mot consécutif n'apparaît pas) [p. 303]",
+"5_inclusion_complete":"? Dénominateur des patients opérés sur la période NR ; formulation « all patients » sans nombre ; données manquantes importantes à l'analyse (AROM/force pré-op manquants chez 5/15 soit 33 %) [p. 303, 310]",
+"6_demographie_decrite":"O : âge, sexe, côté, délai ; profession/sport NR [p. 303]",
+"7_donnees_cliniques_decrites":"O : stade, VAS, AROM, force, MWS, QuickDASH par patient (Tables 3-4) ; mais protocole de rééducation décrit de façon sommaire et observance NR [p. 305, 310-311]",
+"8_resultats_suivi_decrits":"O avec réserve : résultats à 6 et 12 mois par patient, complications et réinterventions rapportées ; reprise travail/sport NR ; patient 7 sans suivi postopératoire [p. 305, 310-311]",
+"9_centre_contexte_decrits":"? Centre NR dans le texte (seulement le comité d'éthique de Valencia) ; nombre de chirurgiens NR [p. 303, 312]",
+"10_analyse_statistique_adaptee":"N : t apparié sur des sous-ensembles différents d'effectifs non indiqués ; 10 tests sans correction ; aucun IC ; aucun traitement des données manquantes ; moyenne de force pré-op incompatible avec la Table 3 [p. 303, 310]"
+},
+"synthese":"Modéré (modéré à élevé si dénominateur confirmé inférieur au total opéré). Règle : aucun « N » aux items 4, 5, 7 (items 4 et 5 en « ? », item 7 en « O »), n = 15 ≥ 10, donc pas « élevé » ; pas de « N » à l'item 5, donc pas « modéré à élevé » ; reste « modéré ». Réserves importantes : auteurs concepteurs de la technique et consultants/salariés d'Arthrex (fabricant des ancres, dessins fournis par le marketing Arthrex) [p. 312] ; dénominateur inconnu ; 33 % de données pré-op manquantes pour AROM et force ; absence de contrôle ; un patient sans aucune donnée postopératoire."
+},
+"remarques":"1) Éligibilité : tous adultes (31-61 ans), pas de SLAC ; mais 8/15 avec fracture du radius distal associée et 8 avec instabilité palmaire (réparation palmaire en plus) ; 3 patients EWAS IV (Geissler IV) dont 2 en échec ; ni sous-groupes sans fracture ni sans geste associé rapportés séparément. Population mixte aigu/chronique (délai 6-22 sem.). 2) Protocole de rééducation bref, une seule description de 5 lignes [p. 305], sans critères de progression ni dosage, et non propre aux patients de la série (paragraphe « Postoperative Care » de la description technique) ; on ne sait pas s'il a été appliqué à tous (ex. patients embrochés). 3) Incohérences : (a) inclusion Garcia-Elias IV-V vs indications II-V ; (b) 12 droitiers/3 gauchers vs 10 poignets droits/5 gauches (dominance et côté opéré confondus ?) ; (c) force pré-op moyenne 13,5 kg et étendue 7-20 (Table 2) vs 12,3 kg et minimum 6 kg calculés à partir de la Table 3 ; (d) l'abstract parle de « reducible acute or chronic » mais la série inclut des cas > 14 semaines et des Geissler IV ; (e) « Two out of three patients with EWAS IV » : EWAS IV = 3 [Table 1], cohérent ; (f) Table 3 montre AROM 12 mois manquant pour patients 7 et 11, force 12 mois manquante patient 11 ; (g) abstract « follow-up 12 months (12-26) » vs. mesures seulement à 6 et 12 mois ; (h) 2 récidives à 6 mois mais les valeurs de 12 mois des patients concernés (non identifiés) peuvent inclure l'effet de la reprise secondaire et ne sont pas distinguées. 4) Conclusion des auteurs « fiable et sûr » : tirée de 15 patients, sans contrôle, avec 13 % de réinterventions et un gain pré/post sans correction de multiplicité ; la supériorité à d'autres techniques n'est pas testée. L'amélioration du MWS (43,5 -> 86,5) est cohérente avec les moyennes mais l'effet de la rééducation ne peut pas être isolé de celui de la chirurgie. 5) Aucune donnée sur la reprise du travail/sport, la mise en charge, l'observance, le nombre de séances. 6) Date de publication en ligne 2024-10-03 ; numéros de page imprimés 302-313 (J Wrist Surg 2025;14:302-313)."
+}

@@ -82,6 +82,21 @@ Fichiers : `tri/Screening_FT/` (`FT_prisma_counts.md`, `FT_methods_selection.md`
 - **Pas de vérification humaine** des chiffres (déclaré).
 - **Écarts au protocole** du 2026-10-11 : validés.
 
-## 9. Étape suivante
+## 9. Second tri sur texte intégral : 17 textes gratuits sur PMC (2026-10-24)
 
-Tri et extraction des textes envoyés par l'auteur ; mise à jour de la synthèse, du GRADE et du PRISMA ; nouvelle vérification par l'avocat du diable ; puis bilan de fin d'étape 1.
+- Les 17 PDF envoyés par l'auteur (`/mnt/project-files`, **jamais versés dans git** : droits des éditeurs) ont été triés avec `sr-screener` (révision 2 du tri sur texte intégral), par les deux mêmes relecteurs IA.
+- **Résultat : 9 inclus, 8 exclus** (E1 1 ; E3 1 ; E4 3 ; E5 3). Kemler 2023 (R00156), étude témoin, est inclus. Ying 2024 (R00090) n'est pas gratuit sur PMC et reste non lu.
+- **Totaux PRISMA :** 75 recherchés, 42 non récupérés, 33 évalués, 14 exclus, 1 en attente (R00092), **18 inclus** ; accord 93,9 %, kappa 0,879.
+- ⚠️ **Correction :** le message du commit `0beeb60` indique « 7 inclus, 10 exclus ». C'est faux : les fichiers de `sr-screener` (`tri/Screening_FT/FT_prisma_counts.json`, `tri/sr_work/ft_decisions.json`) donnent **9 inclus et 8 exclus**. Un message de commit ne se corrige pas sans réécrire l'historique ; la correction est donc consignée ici et dans `../phase3/00_PRISMA_final.md`.
+
+## 10. Extraction et risque de biais de S10 à S18 (2026-10-25)
+
+- **Double extraction IA à l'aveugle** : pour chacune des 9 études, deux agents séparés (A et B, 18 agents au total) ont lu le PDF de l'éditeur avec les mêmes consignes, sans voir le travail de l'autre. Sorties brutes : `extraction/extraction_lot2_brute/` (`A_R000xx.json`, `B_R000xx.json`, consignes).
+- **Accord sur 108 données clés :** 104 concordantes (96 %), 4 complétées, 0 divergente. Jugements de risque de biais concordants pour les 9 études (ROBINS-I « sérieux » pour Kemler 2023 ; JBI « modéré » pour 6 séries, « modéré à élevé » pour S16 et S18).
+- **Nouvelles questions d'éligibilité pour l'auteur** : fractures du radius associées dans S13 et S17 (proposition : garder, avec analyse de sensibilité) ; mineurs possibles dans S18 (inclusion maintenue, comme S7).
+- Phase 3 mise à jour : PRISMA final, synthèse SWiM v3, GRADE v3 (Kemler 2023 ajouté comme seconde étude comparative), cadre par étapes v3.
+- Pas de vérification humaine des chiffres (déclaré).
+
+## 11. Étape suivante
+
+Nouvelle vérification par l'avocat du diable (point de contrôle 3), réponse de l'auteur aux questions d'éligibilité, puis bilan de fin d'étape 1.

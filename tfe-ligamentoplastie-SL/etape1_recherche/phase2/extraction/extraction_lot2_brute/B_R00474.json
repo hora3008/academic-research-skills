@@ -1,0 +1,100 @@
+{
+  "id": "R00474",
+  "reference_vancouver": "Houghton ER, Sivakumar B, Thompson N, Smith NC. Midcarpal ultra-wide scapholunotriquetral capsulo-ligamentoplasty (MUSCL) procedure. J Wrist Surg. 2026;15:465-71. doi:10.1055/a-2698-9750 (mis en ligne 2025-09-25) [p. 465]",
+  "etude": {
+    "pays": "Australie (Macquarie Hand Unit, Macquarie University, Nouvelle-Galles du Sud) [p. 465, correspondance; p. 470, affiliations]",
+    "centres_chirurgiens": "Centre unique apparent (Macquarie Hand Unit) ; patients revus par l'auteur senior (N.C. Smith), qui est aussi le correspondant et l'auteur de la technique associée (reconstruction du STT volaire, réf. 11) ; un seul chirurgien non explicitement affirmé [p. 468, Results ; p. 470]",
+    "type_etude": "Description de technique (« Procedure ») avec série consécutive rétrospective de 68 patients, sans groupe comparateur [p. 465, résumé ; p. 468, Results et Discussion/limites ; p. 470]",
+    "periode": "Juillet 2020 à novembre 2023 [p. 465, résumé ; p. 468, Results]",
+    "niveau_preuve": "NR (aucun niveau de preuve indiqué ; série de cas rétrospective, donc niveau IV par déduction, non déclaré par les auteurs)",
+    "financement_coi": "Conflit d'intérêts : aucun déclaré. Financement : NR (aucune mention) [p. 470, Statements]",
+    "enregistrement": "NR (pas d'enregistrement ni de numéro d'éthique mentionné ; consentement éclairé écrit pour publication des données anonymisées et photos) [p. 470, Statements]"
+  },
+  "patients": {
+    "n_inclus": "68 patients consécutifs [p. 465, résumé ; p. 468, Results]",
+    "n_analyses": "Variable selon le critère : mobilité n=66 ; force de préhension côté atteint n=4 en pré-op et n=27 en post-op ; QuickDASH n=16 en pré et en post [p. 469, Table 2]",
+    "perdus_de_vue": "1 (1,5 %) [p. 469, Table 1] ; mais n=66 pour la mobilité (et non 67) : 1 patient supplémentaire non expliqué [p. 469, Table 2]",
+    "age": "Moyenne 36 ans (extrêmes 15-69) [p. 469, Table 1]",
+    "sexe": "43 femmes (63,2 %), 25 hommes (36,8 %) [p. 469, Table 1]",
+    "cote_dominant": "Côté dominant atteint chez 43 (63,2 %) [p. 469, Table 1]",
+    "aigu_ou_chronique": "Délai lésion-chirurgie : moyenne 11 mois (extrêmes 20 jours à 120 mois), mélange aigu/chronique non ventilé ; pas de proportion aiguë/chronique [p. 469, Table 1]",
+    "statique_ou_dynamique": "Indication : instabilité symptomatique avec élargissement arthroscopique et sans malalignement radiographique, donc a priori dynamique/prédynamique ; pas de répartition statique/dynamique rapportée [p. 466, Indications]",
+    "stade_classification": "EWAS. Trois formulations discordantes : IIIB/IIIC/IV [p. 465, résumé, Background] ; IIIB-IV [p. 466, Indications] ; IIIA-V pour la série de 68 patients [p. 468, Results]. Répartition par grade NR",
+    "profession_sport": "Travailleurs manuels 28 (41,2 %) ; mécanisme : sport 23, port de charge lourde 15, chute sur main en extension 10, accident de la route 7, machine 7, autre 6 (total 68) [p. 469, Table 1]. Niveau sportif NR",
+    "patients_hors_criteres": "Au moins un patient de 15 ans (extrêmes 15-69), donc mineur(s) possible(s) ; nombre de < 18 ans NR, données non séparables [p. 469, Table 1]. Grade EWAS IIIA et V mentionnés dans les Results (hors indication déclarée IIIB-IV) : effectifs NR [p. 468]. Pas de données SLAC. Possibles gestes associés (STT volaire) : voir remarques"
+  },
+  "chirurgie": {
+    "technique": "MUSCL (Midcarpal Ultra-wide Scapholunotriquetral Capsulo-ligamentoplasty) : plicature/imbrication très large de la capsule dorsale (DRC, DIC, DSLT) par deux fils passés depuis l'articulation médio-carpienne, nouée sur la capsule par une mini-incision transverse de 2-3 cm ; pas d'instrumentation du ligament SL lui-même [p. 465, résumé ; p. 466-467, Technique ; p. 469, Discussion]",
+    "famille": "Autre : capsuloligamentoplastie/plicature capsulaire dorsale arthroscopique (variante de l'ADCLR) ; ni réparation directe du SL, ni capsulodèse classique, ni greffe [p. 465-467]",
+    "voie": "Arthroscopique avec courte incision ouverte de 2-3 cm pour visualiser les tendons extenseurs (mixte, arthroscopie « sèche » de préférence) [p. 466-467, Technique]",
+    "greffe": "Aucune ; fil PDS 2/0 teinté (ou fil non résorbable, ou Ethibond 0 selon préférence) [p. 467, Technique]",
+    "broches_nb_duree": "Aucune broche mentionnée (NR explicite non formulé ; aucune broche dans la description) [p. 466-467]",
+    "autre_fixation_internal_brace": "Nœud de suture sur la capsule (poussoir de nœud seringue 1 mL), noué en traction poignet en position neutre ; pas d'ancre, pas d'internal brace [p. 467, Technique]",
+    "gestes_associes": "Possible augmentation par reconstruction ouverte du ligament STT volaire si nécessaire pour contrôler la rotation du scaphoïde (préférence de l'auteur senior pour EWAS V) [p. 467, Technique ; p. 469, Discussion]. Nombre de patients ayant eu ce geste ou d'autres : NR"
+  },
+  "reeducation": {
+    "immobilisation_type_position_articulations": "Attelle, poignet en position neutre [p. 467, Technique] ; articulations incluses (coude, pouce, doigts) NR ; type (plâtre/orthèse) : « splint »",
+    "immobilisation_duree": "4 semaines [p. 467, Technique]",
+    "debut_mob_passive": "NR (mouvement « progressivement réintroduit » après 4 semaines, sans distinction passif/actif) [p. 467]",
+    "debut_mob_active": "NR de façon distincte ; mobilité réintroduite graduellement à partir de 4 semaines [p. 467]",
+    "DTM": "Oui : la réintroduction du mouvement débute par le mouvement de lancer de fléchette (dart throwing motion), après 4 semaines [p. 467, Technique]",
+    "restrictions_amplitude": "NR (mobilité « graduellement réintroduite », sans limites chiffrées)",
+    "debut_renforcement_muscles": "NR ; seule restriction : mise en charge (loading) du poignet interdite pendant 12 semaines [p. 467]",
+    "proprioception": "NR (aucun programme proprioceptif décrit ; la proprioception n'est évoquée que dans l'introduction/discussion à propos de la stabilité) [p. 465, 468]",
+    "electrostimulation": "NR",
+    "mise_en_charge": "Interdite pendant 12 semaines [p. 467, Technique]",
+    "autres_restrictions": "NR. Mention générale : une période d'immobilisation et de rééducation de la main est requise, l'observance du patient est essentielle [p. 466, Indications]",
+    "criteres_progression_type": "Temporels (semaine 4, semaine 12) ; seul le terme « graduellement » est qualitatif",
+    "criteres_progression_detail": "Délais fixes uniquement : immobilisation 4 semaines puis DTM ; charge interdite 12 semaines. Aucun critère clinique de progression [p. 467]",
+    "encadrement_kine_domicile_nb_seances": "Rééducation par thérapeute de la main mentionnée (patients revus en consultation avec chirurgien et thérapeute de la main, notes post-opératoires) ; nombre de séances, fréquence, programme à domicile : NR [p. 466, Indications ; p. 469, Discussion limites]",
+    "observance": "NR (dite « clé » mais non mesurée) [p. 466]",
+    "reprise_travail": "NR",
+    "reprise_sport": "NR"
+  },
+  "resultats": {
+    "outil_principal_et_valeurs_par_temps": "QuickDASH (n=16) : pré-op 49,57 (15,9-95,45) ; post-op 14,38 (0-97,73) à un suivi moyen de 8 mois ; amélioration de 35,19 points (49,57-14,38 = 35,19, cohérent), p=0,000059 [p. 465, résumé ; p. 468, Results ; p. 469, Table 2]. Seuls 16/68 (23,5 %) ont un QuickDASH ; test apparié non précisé pour ce sous-échantillon. Pas de mesure à d'autres temps (seulement pré-op et dernier suivi)",
+    "douleur": "NR (scores de douleur peu documentés, reconnu par les auteurs) [p. 470, limites]",
+    "mobilite": "Dorsiflexion 64,54° -> 68,32° (p=0,1415) ; palmarflexion 71,89° -> 67,18° (p=0,1752) ; n=66 ; différences non significatives [p. 469, Table 2]. Texte : extension augmentée, flexion diminuée, non significatif [p. 468, Results]. Mobilité mesurée au dernier suivi, pas par temps. Pas de mesure de déviation radio-ulnaire ni de pro-supination",
+    "force": "Force de préhension côté atteint : 41,88 kg (n=4) pré-op -> 35,63 kg (n=27) post-op, p=0,4020 ; côté sain 48,50 kg (n=4) -> 42,61 kg (n=27), p=0,4462 [p. 469, Table 2]. Effectifs très différents et non appariés ; la force post-op est plus basse que pré-op (non significatif) ; ratio atteint/sain post-op calculé : 35,63/42,61 = 83,6 % (calcul de l'extracteur, non rapporté)",
+    "radiologie": "Non collectée (« Radiographic measurements were not collected ») ; diastasis SL persistant possible, jugé sans pertinence clinique par les auteurs (affirmation non étayée par des données de l'étude) [p. 470, limites]",
+    "taux_reprise": "NR (reprise du travail/sport non rapportée)",
+    "satisfaction": "NR",
+    "suivi_moyen": "8 mois (extrêmes 2-24) [p. 465, résumé ; p. 469, Table 1]. Suivi minimal de 2 mois : court, plusieurs patients suivis moins que la durée de l'interdiction de charge (12 semaines)"
+  },
+  "securite": {
+    "complications": "Aucune complication rapportée pour la série ; la section Complications décrit seulement des complications potentielles (neuropraxie de traction, lésion tendineuse, lésion cartilagineuse iatrogène, incarcération tendineuse si fils de part et d'autre d'un tendon extenseur) [p. 467-468, Complications]. L'absence de complication n'est pas affirmée explicitement : NR",
+    "reinterventions": "NR"
+  },
+  "cles": {
+    "type_etude": "Description de technique avec série consécutive rétrospective monocentrique sans comparateur [p. 465 ; p. 470]",
+    "effectif": "68 inclus ; analysés : 66 (mobilité), 27 (force post-op ; 4 pré-op), 16 (QuickDASH) ; 1 perdu de vue [p. 469, Tables 1-2]",
+    "age": "Moyenne 36 ans (15-69) ; 63,2 % de femmes [p. 469, Table 1]",
+    "technique": "MUSCL : plicature capsulaire dorsale ultra-large (DRC, DIC, DSLT) par sutures médio-carpiennes, arthroscopique + mini-incision de 2-3 cm [p. 466-467]",
+    "broches": "Aucune broche mentionnée [p. 466-467]",
+    "immobilisation": "Attelle, poignet en position neutre, 4 semaines [p. 467]",
+    "debut_mobilisation": "À 4 semaines, par mouvement de lancer de fléchette (DTM), réintroduction graduelle ; passif/actif NR [p. 467]",
+    "renforcement_ou_charge": "Mise en charge interdite 12 semaines ; début du renforcement NR [p. 467]",
+    "type_criteres_progression": "Temporels uniquement (4 et 12 semaines) [p. 467]",
+    "reprise_travail_sport": "NR",
+    "resultat_fonctionnel_principal": "QuickDASH 49,57 -> 14,38 (n=16/68), p<0,001, suivi moyen 8 mois ; mobilité et force sans variation significative [p. 469, Table 2]",
+    "complications": "Aucune rapportée dans la série (complications seulement potentielles listées) ; reinterventions NR [p. 467-468]"
+  },
+  "risque_de_biais": {
+    "outil": "Checklist JBI pour séries de cas : série consécutive sans comparaison de protocoles (même protocole pour tous) ; ROBINS-I et RoB 2 non applicables.",
+    "items": {
+      "1_criteres_inclusion_clairs": "? : indication décrite (instabilité symptomatique, EWAS IIIB-IV, sans malalignement) mais le grade EWAS diffère entre résumé (IIIB/IIIC/IV), Indications (IIIB-IV) et Results (IIIA-V) [p. 465 ; p. 466 ; p. 468]",
+      "2_pathologie_mesure_standard": "? : classification EWAS arthroscopique (standard) mais critères de mesure incohérents entre sections et répartition par grade NR [p. 466 ; p. 468]",
+      "3_methode_identification_valide": "? : diagnostic par arthroscopie (« drive-through », sondage) décrit pour la technique, mais méthode d'identification des patients de la série non décrite [p. 466, Technique]",
+      "4_inclusion_consecutive": "O : « 68 consecutive patients » [p. 465 ; p. 468]",
+      "5_inclusion_complete": "N : le dénominateur n'est pas complet pour les critères de résultat : QuickDASH 16/68 (76,5 % non évalués), force pré-op 4/68, force post-op 27/68, mobilité 66/68 ; perdus de vue 1 déclaré mais 2 manquants en mobilité [p. 469, Tables 1-2]. Item jugé N car les patients inclus ne sont pas tous analysés",
+      "6_demographie_decrite": "O : âge, sexe, côté dominant, profession manuelle, mécanisme, délai [p. 469, Table 1]",
+      "7_donnees_cliniques_decrites": "O : mécanisme, délai lésion-chirurgie, mobilité pré-op, force et QuickDASH pré-op (partiels) ; douleur et grade EWAS NR [p. 469, Tables 1-2]",
+      "8_resultats_suivi_decrits": "? : résultats décrits mais suivi de 2 à 24 mois (moyenne 8), douleur, radiologie et reprise NR ; seules deux mesures (pré-op et dernier suivi) [p. 469, Table 2 ; p. 470]",
+      "9_centre_contexte_decrits": "O : Macquarie Hand Unit, Australie, chirurgien senior unique cité, thérapeute de la main ; données démographiques du site NR [p. 465 ; p. 470]",
+      "10_analyse_statistique_adaptee": "? : t de Student apparié et de Welch décrits ; appariement douteux pour la force (n=4 vs n=27) et le QuickDASH sur 16 patients seulement ; pas de correction, pas d'IC ni de seuil minimal cliniquement important [p. 468, Results ; p. 469, Table 2]"
+    },
+    "synthese": "MODÉRÉ À ÉLEVÉ. Règle : un « N » à l'item 5 avec plus de 30 % de patients non évalués (QuickDASH 52 non évalués sur 68 = 76,5 % ; force pré-op 64/68) ; items 4 et 7 = O donc pas de risque « élevé » ; effectif de 68 (≥ 10). Réserves importantes : (1) série rétrospective à partir des notes cliniques avec données manquantes, reconnues par les auteurs [p. 470] ; (2) auteur senior concepteur/promoteur de la technique et seul évaluateur des patients, absence d'évaluateur indépendant [p. 468] ; (3) suivi court (moyenne 8 mois, minimum 2) ; (4) pas de groupe comparateur, donc aucun effet propre du protocole de rééducation estimable ; (5) protocole de rééducation décrit en deux phrases comme partie de la technique, pas comme objet d'étude ; (6) conflit d'intérêts : aucun déclaré, financement NR ; (7) mélange de grades EWAS et possible geste associé non ventilé.",
+    "jugement_selon_resultat": "Fiabilité plus faible pour le QuickDASH (n=16/68) et la force de préhension (n=4 puis n=27, non appariés) que pour la mobilité (n=66/68)."
+  },
+  "remarques": "(1) Éligibilité : il s'agit d'un article de description de technique ; le protocole post-opératoire est très succinct (attelle neutre 4 semaines, puis DTM, charge interdite 12 semaines) [p. 467] et n'est pas évalué en soi (pas de comparaison). (2) Population : âge minimal 15 ans [p. 469, Table 1], donc au moins un patient < 18 ans possible, non séparable ; patients EWAS IIIA et V mentionnés dans les Results [p. 468] hors de l'indication IIIB-IV [p. 466], et le résumé cite IIIB/IIIC/IV [p. 465] : incohérence sur les grades. Aucune donnée SLAC. (3) Indication : lésion SL avec malalignement radiographique exclue de l'indication isolée, des gestes adjoints (reconstruction du STT volaire) sont possibles [p. 466-467] mais leur fréquence est NR : interprétation des résultats incertaine. (4) Incohérences chiffrées : 1 perdu de vue (1,5 %) alors que mobilité n=66 (au lieu de 67) [p. 469] ; la force de préhension post-op (35,63 kg) est inférieure à la pré-op (41,88 kg), échantillons différents, p=0,4020 : aucune conclusion possible ; texte « Mean postoperative wrist extension increased » correspond à dorsiflexion 64,54 -> 68,32 (non significatif) [p. 468-469] ; p du QuickDASH en Table 2 (0,000059) concorde avec « p<0,001 » du texte. (5) Conclusions des auteurs : « résultats prometteurs à court terme », « maintenance de la mobilité » et « résultats similaires à l'ADCLR » [p. 470] : la comparaison à l'ADCLR est indirecte, sans test ; l'amélioration du QuickDASH (35,19 points) porte sur 16 patients sans témoin ; l'affirmation selon laquelle le diastasis persistant est « sans pertinence clinique » n'est pas étayée (pas de radiographie) [p. 470]. Le texte attribue la moins bonne mobilité et le QuickDASH légèrement inférieur à la durée de suivi plus courte (non démontré) [p. 470]. (6) Le résumé affirme « amélioration significative de la mobilité » : non, il dit seulement p=0,14 et 0,18 ; pas de contradiction. (7) Revue des termes : Results dit « Range of motion, grip strength, and QuickDASH were recorded preoperatively and at final follow-up » : une seule mesure post-op. (8) Pas de données sur reprise du travail/sport, douleur, satisfaction, complications observées, réinterventions, ni sur le nombre de séances de kinésithérapie : tous NR."
+}

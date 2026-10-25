@@ -12,10 +12,11 @@ Langue de sortie : français (termes techniques conservés en anglais quand c'es
            Phase 2 recherche ...... [EN COURS] recherches faites : 1 001 notices → 562 uniques
                                     protocole de tri sr-screener : [FAIT] v1.0 confirmé (Maes)
                                     tri titre/résumé : [FAIT] 562 → 75 retenues (IA seule, sans vérification humaine)
-                                    textes intégraux : 16/75 récupérés → tri : [FAIT] 8 études incluses + R00527 (décision de l'auteur) = 9
-                                    double extraction IA + risque de biais : [FAIT] (accord 84 %, désaccords tranchés)
-           Phase 3 synthèse ....... [FAIT, v2.1 : 9 études] synthèse SWiM + GRADE + étapes décrites ; point critique :
-                                    17 textes gratuits PMC à envoyer (liste : phase2/tri/textes_gratuits_PMC_a_telecharger.md)
+                                    textes intégraux : 33/75 lus (16 automatiques + 17 PMC envoyés par l'auteur)
+                                    tri texte intégral : [FAIT] 18 études incluses (dont R00527, décision de l'auteur)
+                                    double extraction IA + risque de biais : [FAIT] S1-S9 (accord 84 %) ; S10-S18 à l'aveugle (accord 96 %)
+           Phase 3 synthèse ....... [FAIT, v3 : 18 études] PRISMA + synthèse SWiM + GRADE (S1 et Kemler 2023) + étapes décrites
+                                    à faire : avocat du diable (point de contrôle 3) ; questions d'éligibilité S13, S17, S18
            Bilan fin d'étape 1 .... [ ]
 Étape 2  WRITE ............ [ ]
 Étape 2.5 INTEGRITY ....... [ ] obligatoire, ne peut pas être sautée
@@ -43,7 +44,7 @@ Langue de sortie : français (termes techniques conservés en anglais quand c'es
 | `etape1_recherche/contexte/bibliographie_contexte.md` | **Bibliographie commentée** des chapitres pathologie et chirurgie (44 sources, Vancouver, niveau de preuve) |
 | `etape1_recherche/phase2/extraction/` | Grille d'extraction (tableur), grilles RoB 2 / ROBINS-I / JBI, test sur Kemler 2023 |
 | `etape1_recherche/phase2/tri/ft_protocol.md` | Protocole de tri sur texte intégral (v1.0 confirmé) |
-| `etape1_recherche/phase2/extraction/extraction_reconciliee_et_risque_biais.md` | **Données des 8 études incluses** (protocoles, résultats) et risque de biais, version réconciliée de deux extractions IA indépendantes |
+| `etape1_recherche/phase2/extraction/extraction_reconciliee_et_risque_biais.md` | **Données des 18 études incluses** (protocoles, résultats) et risque de biais, version réconciliée de deux extractions IA indépendantes |
 | `etape1_recherche/phase3/` | **Synthèse** : PRISMA final, synthèse narrative SWiM, GRADE, ce que décrivent les études étape par étape, avocat du diable (point de contrôle 2) |
 | `etape1_recherche/04_cartographie_preliminaire.md` | Recherche exploratoire PubMed : sources clés par sous-question |
 | `etape1_recherche/journal_recherches/` | Résultats bruts des recherches (reproductibilité pour le jury) |

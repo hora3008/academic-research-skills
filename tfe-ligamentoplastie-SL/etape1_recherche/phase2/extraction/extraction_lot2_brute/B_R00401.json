@@ -1,0 +1,100 @@
+{
+"id": "R00401",
+"reference_vancouver": "Carratalá V, Lucas FJ, Miranda I, Prada A, Guisasola E, Miranda FJ. Arthroscopic reinsertion of acute injuries of the scapholunate ligament: technique and results. J Wrist Surg. 2020;9(4):328-37. doi:10.1055/s-0040-1710502 [p. 328]",
+"etude": {
+"pays": "Espagne (Valence) [p. 328, 337 Note]",
+"centres_chirurgiens": "Monocentre : Unité de chirurgie de la main, Hôpital Quirónsalud Valencia ; nombre de chirurgiens NR ; les auteurs sont les concepteurs de la technique (réf. 22 et 23 : Carratalá et al. 2016, 2017) [p. 328, 337, réf. 22-23]",
+"type_etude": "Série de cas prospective, consécutive, sans groupe comparateur, un seul protocole (qualifiée d'« analytical, prospective clinical study ») [p. 328 Abstract, p. 329 Matériel et méthodes]",
+"periode": "NR (dates d'inclusion non données ; suivi minimum 12 mois, extrêmes 12-38 mois, moyenne NR) [p. 329 Méthodes]",
+"niveau_preuve": "NR (non déclaré par les auteurs)",
+"financement_coi": "Financement : aucun ; conflits d'intérêts : aucun déclaré [p. 337 Funding / Conflict of Interest]. Réserve : auteurs concepteurs de la technique, utilisation d'implants Arthrex mentionnée [p. 330]",
+"enregistrement": "NR (pas d'enregistrement de protocole) ; approbation du comité d'éthique de l'hôpital [p. 329, 337]"
+},
+"patients": {
+"n_inclus": "19 patients consécutifs [p. 329 Méthodes]",
+"n_analyses": "19 à 12 mois suggéré (aucune perte rapportée) ; mais données pré-opératoires impossibles à recueillir pour les patients avec fracture du radius distal ou fracture-luxation (soit 8/19, dénominateur pré-op NR précisément) [p. 329 Méthodes]",
+"perdus_de_vue": "Aucun rapporté explicitement (NR : pas de diagramme de flux) [p. 329-332]",
+"age": "Moyenne 44 ± 2 ans (± SEM probable ; l'article n'indique pas l'écart), extrêmes 31-57 ans [p. 331 Résultats]",
+"sexe": "74 % d'hommes (soit ~14/19 ; n exact NR) [p. 331 Résultats]",
+"cote_dominant": "Main droite atteinte 58 % ; dominance de la main NR [p. 331 Résultats]",
+"aigu_ou_chronique": "Aigu ou subaigu : candidats idéaux jusqu'à 2-4 semaines après le traumatisme ; lésions non aiguës exclues ; mais les 2 patients réopérés étaient traités à 31 et 48 jours après le traumatisme (délai chirurgical moyen NR) [p. 329 Méthodes, p. 336 Discussion]",
+"statique_ou_dynamique": "Instabilité pré-dynamique (classification de García-Elías) ; carpe réductible, ligament dorsal réparable, ligaments secondaires compétents, pas d'atteinte chondrale ; instabilité non réductible = contre-indication [p. 329-330]",
+"stade_classification": "Geissler : type 2 n=4, type 3 n=8, type 4 n=7. EWAS : 2B n=3, 2C n=1, 3C n=8, 4 n=7. Rupture complète 58 % (~11), partielle dorsale 42 % (~8) [p. 331, p. 334 Tableau 1]",
+"profession_sport": "NR",
+"patients_hors_criteres": "Pas de patients SLAC ni enfants (âge 31-57). Sous-groupe particulier : 7 patients avec fracture associée du radius distal (ostéosynthèse ouverte d'abord, puis arthroscopie) et 1 luxation périlunaire, soit 8/19 (42 %) ; 11 lésions SL isolées. Données séparables : seulement le Mayo Wrist Score significativement meilleur (p<0,05) à 6 et 12 mois sans fracture associée, valeurs NR [p. 329 Méthodes, p. 332 Résultats]"
+},
+"chirurgie": {
+"technique": "Réinsertion arthroscopique du ligament SL par ancre (Micro Corkscrew 2,2 mm, Arthrex) au bord dorso-proximal du scaphoïde ou du lunatum, suture au passe-fil (TFCC SutureLasso 70°), nœud coulissant ; plicature/renforcement capsulaire dorsal (capsulodèse arthroscopique) ; plusieurs ancres possibles [p. 330 Technique 1-3]",
+"famille": "Réparation directe (réinsertion sur ancre) + capsulodèse dorsale (capsulodèse arthroscopique) ; combinaison réparation + capsulodèse [p. 330]",
+"voie": "Arthroscopique (portails 3-4, 6R, médio-carpien ulnaire MCU et radial MCR) ; ostéosynthèse du radius par voie ouverte au préalable chez 7 patients [p. 329-330]",
+"greffe": "Aucune (pas de greffe tendineuse) [p. 330]",
+"broches_nb_duree": "Broches de Kirschner pour pincer scaphoïde et lunatum et protéger la suture ; nombre NR ; retrait des broches (« secondary KW ») à 4 semaines [p. 330 Technique 3-4]",
+"autre_fixation_internal_brace": "Ancre à suture (Micro Corkscrew 2,2 mm) ; pas d'internal brace ni vis ; NR autre [p. 330]",
+"gestes_associes": "Ostéosynthèse ouverte du radius distal (7 patients) avant l'arthroscopie ; réduction arthroscopique de la luxation périlunaire (1) ; arthroscopie diagnostique chez tous [p. 329, 336 Fig. 11]"
+},
+"reeducation": {
+"immobilisation_type_position_articulations": "Attelle antébrachiale post-opératoire laissant libres doigts et coude ; ablation de l'attelle à 4 semaines puis orthèse de poignet amovible ; position du poignet NR [p. 330 Technique 4]",
+"immobilisation_duree": "Attelle antébrachiale jusqu'à 4 semaines (fils à 2 semaines), puis orthèse amovible (durée NR) [p. 330 Technique 4]",
+"debut_mob_passive": "NR (la « rééducation spécifique » débute à 4 semaines, sans précision passive/active) [p. 330]",
+"debut_mob_active": "Doigts et coude mobilisés d'emblée ; poignet : rééducation spécifique à partir de 4 semaines après retrait de l'attelle (contenu NR, renvoi à réf. 22) [p. 330 Technique 4]",
+"DTM": "NR",
+"restrictions_amplitude": "NR",
+"debut_renforcement_muscles": "NR",
+"proprioception": "NR (la proprioception n'est évoquée que pour l'anatomie du nerf interosseux postérieur, pas comme rééducation) [p. 329]",
+"electrostimulation": "NR",
+"mise_en_charge": "NR",
+"autres_restrictions": "NR",
+"criteres_progression_type": "Temporels (calendrier fixe : fils 2 semaines, retrait attelle et broches 4 semaines) [p. 330]",
+"criteres_progression_detail": "Pas de critère clinique ou radiologique de progression décrit ; contenu de la rééducation non détaillé dans l'article [p. 330]",
+"encadrement_kine_domicile_nb_seances": "NR",
+"observance": "NR",
+"reprise_travail": "NR",
+"reprise_sport": "NR"
+},
+"resultats": {
+"outil_principal_et_valeurs_par_temps": "Mayo Wrist Score et QuickDASH à pré-op, 6 et 12 mois. Valeurs numériques absentes du texte, lues sur les graphiques (approximatives) : MWS ~46 pré-op, ~78 à 6 mois, ~86 à 12 mois (p<0,001 vs pré-op) ; QuickDASH ~63 pré-op, ~15 à 6 mois, ~7 à 12 mois (amélioration 6→12 mois significative). Résultats fonctionnels à 12 mois : bons/excellents 79 % (15/19 : 6 excellents, 9 bons), satisfaisants 10,5 % (2), mauvais 2 (10,5 %) [p. 332 Résultats, p. 334-335 Fig. 9-10, p. 336 Discussion]",
+"douleur": "EVA : amélioration significative pré vs post-op et 6 vs 12 mois ; valeurs lues sur Fig. 6 (approximatives) : ~6,7 pré-op, ~2,5 à 6 mois, ~1,2 à 12 mois (moyenne ± SEM) [p. 331 Résultats, p. 334 Fig. 6]",
+"mobilite": "Amplitude articulaire : amélioration significative à 6 et 12 mois et entre 6 et 12 mois ; Fig. 8 (lecture approximative) ~86° pré-op, ~109° à 6 mois, ~122° à 12 mois ; perte moyenne de 10° (0-20°) vs côté controlatéral [p. 332 Résultats, p. 335 Fig. 8, p. 336 Discussion]. Mesure non précisée (arc flexion-extension ? NR)",
+"force": "Force de préhension : 13,7 ± 1,3 kg pré-op, 30,8 ± 1,1 kg à 12 mois (~25 kg à 6 mois, lecture graphique) ; déficit vs normale 57,7 ± 5,3 % pré-op et 12,7 ± 2,4 % à 12 mois ; différence significative hommes > femmes à 12 mois (p<0,001) mais pas de différence de déficit relatif [p. 331 Résultats, p. 335 Fig. 7]",
+"radiologie": "NR (pas d'évaluation radiographique post-opératoire chiffrée : écart SL, angle SL non rapportés ; radios de suivi seulement illustrées sur un cas, Fig. 11) [p. 336 Fig. 11]",
+"taux_reprise": "NR (reprise de travail/sport non rapportée)",
+"satisfaction": "NR (pas d'outil de satisfaction ; seuls les scores fonctionnels MWS et QuickDASH)",
+"suivi_moyen": "Minimum 12 mois, extrêmes 12-38 mois ; moyenne NR [p. 329 Méthodes]"
+},
+"securite": {
+"complications": "Aucune autre complication que les 2 mauvais résultats (échec avec instabilité symptomatique du carpe) ; « No other complications were reported in the rest of the cases » [p. 332 Résultats]",
+"reinterventions": "2/19 (10,5 %) réopérés par ligamentoplastie assistée par arthroscopie (reconstruction axiale et dorsale du SL) ; ces deux patients avaient été opérés 31 et 48 jours après le traumatisme [p. 332 Résultats, p. 336 Discussion]"
+},
+"cles": {
+"type_etude": "Série de cas prospective monocentrique, sans comparateur [p. 328-329]",
+"effectif": "19 patients consécutifs inclus, aucune perte rapportée ; pré-op manquant chez 8 [p. 329]",
+"age": "44 ± 2 ans (31-57), 74 % hommes [p. 331]",
+"technique": "Réinsertion arthroscopique du SL sur ancre 2,2 mm + capsulodèse dorsale arthroscopique, lésions aiguës/subaiguës [p. 330]",
+"broches": "Broches de Kirschner (nombre NR), retirées à 4 semaines [p. 330]",
+"immobilisation": "Attelle antébrachiale 4 semaines (fils à 2 sem), puis orthèse amovible ; doigts et coude libres [p. 330]",
+"debut_mobilisation": "Poignet : rééducation spécifique à partir de 4 semaines ; passif/actif NR [p. 330]",
+"renforcement_ou_charge": "NR",
+"type_criteres_progression": "Temporels (calendrier fixe), aucun critère clinique [p. 330]",
+"reprise_travail_sport": "NR",
+"resultat_fonctionnel_principal": "MWS ~46 pré-op à ~86 à 12 mois ; QuickDASH ~63 à ~7 (valeurs lues sur graphiques) ; 79 % bons/excellents ; force 30,8 kg à 12 mois (déficit 12,7 %) [p. 331-332, 335]",
+"complications": "Aucune hors 2 échecs (10,5 %) réopérés par ligamentoplastie [p. 332]"
+},
+"risque_de_biais": {
+"outil": "Checklist JBI séries de cas : un seul protocole pour tous, sans comparaison de protocoles ni d'interventions (ROBINS-I non applicable) [p. 329]",
+"items": {
+"1_criteres_inclusion_clairs": "O : lésion aiguë/subaiguë du SL, arthroscopie, exclusion des lésions dégénératives ou non aiguës ; mais définition de l'aigu variable (2-4 sem. vs 6 sem. ; patients à 31 et 48 j inclus) [p. 329, 336]",
+"2_pathologie_mesure_standard": "O : arthroscopie chez tous, classifications Geissler et EWAS [p. 329, 334 Tableau 1]",
+"3_methode_identification_valide": "O : arthroscopie, référence diagnostique, radios, IRM/TDM complémentaires [p. 329]",
+"4_inclusion_consecutive": "O : « 19 consecutive patients » [p. 328-329]",
+"5_inclusion_complete": "? : consécutifs mais pas de diagramme de flux, nombre de patients éligibles/exclus NR ; données pré-op manquantes pour 8/19 [p. 329]",
+"6_demographie_decrite": "O : âge, sexe, côté, fracture associée, stade ; dominance, profession NR [p. 331]",
+"7_donnees_cliniques_decrites": "O avec réserve : présentation clinique et lésions décrites (Tableau 1) mais délai chirurgical moyen NR, pré-op absent pour 8 patients [p. 329, 334]",
+"8_resultats_suivi_decrits": "O : MWS, QuickDASH, EVA, force, mobilité à 6 et 12 mois, complications et réinterventions ; suivi 12-38 mois ; pas de perdus de vue rapportés ; valeurs en graphique seulement [p. 331-332]",
+"9_centre_contexte_decrits": "? : centre nommé (monocentrique) mais pas de données démographiques du site ni de période d'inclusion [p. 328-329, 337]",
+"10_analyse_statistique_adaptee": "N : ANOVA à un facteur avec Bonferroni sur des mesures répétées appariées (au lieu d'ANOVA à mesures répétées) ; données pré-op manquantes pour 8 patients non traitées ; dispersion en SEM ; pas d'IC ; sous-groupes comparés sans valeurs [p. 330 Analyse statistique]"
+},
+"synthese": "Modéré : un seul « N » (item 10), aucun « N » parmi les items 4, 5, 7 ; effectif de 19 (≥ 10) ; item 5 en « ? » sans taux de patients non évalués connu",
+"reserves": "Chirurgiens concepteurs de la technique (réf. 22-23), pas de comparateur, 42 % de cas avec fracture du radius ou luxation périlunaire (confusion), pré-op manquant chez 8/19, absence de critères de progression et de rééducation détaillée (peu informatif pour la question de la revue), résultats numériques lus sur graphiques, pas d'évaluation radiologique, dénominateur des patients éligibles inconnu"
+},
+"remarques": "1) Rééducation très peu décrite (4 semaines attelle puis « rééducation spécifique » renvoyée à réf. 22 ; aucun détail sur mobilisation, renforcement, proprioception, reprise). 2) Incohérence de délai : candidats idéaux « jusqu'à 2-4 semaines » [p. 329], « acute phase » = 6 sem. citée en discussion [p. 334], « premières 2-3 semaines » [p. 336], alors que 2 patients ont été opérés à 31 et 48 jours (donc ≥ 4 semaines) [p. 336]. 3) Incohérence possible : rupture complète 58 % (~11) vs Geissler 4 = 7 (Geissler 3 pouvant correspondre à des ruptures complètes selon l'article ; non précisé) [p. 331, 334]. 4) Abstract : « 79 % bons/excellents » ; texte : 10,5 % satisfaisants et 2 mauvais ; 15+2+2 = 19, cohérent ; mais l'étude conclut à « complications and stiffness » moindres que la chirurgie ouverte sans comparaison directe (comparaison indirecte avec séries historiques, conclusion non démontrée par les chiffres) [p. 328, 335-336]. 5) « 44 ± 2 » non qualifié dans le texte (SEM d'après la méthode statistique, p. 330). 6) Résultat « force : déficit 12,7 % à 12 mois » vs perte de mobilité 10° : comparateur controlatéral non décrit comme mesuré systématiquement. 7) Éligibilité : population hétérogène (fracture du radius distal chez 7, luxation périlunaire chez 1) ; patients pré-dynamiques Geissler 2-4 ; protocole pas propre au SL pour les patients avec fracture radiale (immobilisation possiblement conditionnée par l'ostéosynthèse). 8) Article mentionne une imprimerie « Table 1 » avec 'Type 4' répété dans Geissler et EWAS (7 patients)."
+}

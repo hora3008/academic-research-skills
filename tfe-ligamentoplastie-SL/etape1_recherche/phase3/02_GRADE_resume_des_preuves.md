@@ -6,64 +6,66 @@
 > - Schünemann HJ, Cuello C, Akl EA, et al. GRADE guidelines: 18. How ROBINS-I and other tools to assess risk of bias in nonrandomized studies should be used to rate the certainty of a body of evidence. J Clin Epidemiol. 2019;111:105-14.
 > - Santesso N, Glenton C, Dahm P, et al. GRADE guidelines 26: informative statements to communicate the findings of systematic reviews of interventions. J Clin Epidemiol. 2020;119:126-35.
 >
-> Statut : **version 2, révisée après le point de contrôle 2.**
+> Statut : **version 3 (2026-10-25)**. La version 2 (après le point de contrôle 2) ne cotait que S1. Kemler 2023 (S15), lu depuis, est ajouté comme seconde étude comparative.
 
 ## Ce qui est coté et ce qui ne l'est pas
 
-- **Coté :** la seule comparaison entre deux protocoles de rééducation **parmi les études lues** : mobilisation active précoce contre tardive (S1, Bakker 2022 ; 108 patients appariés ; résultats à 3 mois).
-- **Non coté** (règle du protocole) : les données des séries à un seul bras (S2 à S8). Elles décrivent des protocoles sans les comparer. Leurs résultats sont présentés comme « observés, non contrôlés ».
-- **Non coté non plus :** la comparaison « réparation aiguë contre subaiguë » de S8. Elle porte sur le délai avant la chirurgie, pas sur la rééducation.
+- **Coté :** la comparaison **mobilisation précoce contre immobilisation plus longue** après 3LT. Deux études la traitent :
+  - **S1** (Bakker 2022) : cohorte prospective, 108 patients appariés, sans broches dans les deux groupes ; poignet mobilisé dès la semaine 2 contre semaines 5-6 ; **3 mois** ;
+  - **S15** (Kemler 2023) : essai contrôlé non randomisé, 21 patients répartis, **17 analysés** ; attelle 1 semaine et thérapie dès 1 semaine, contre plâtre et broches 6 semaines ; **1 an**. Les groupes diffèrent aussi par la fixation (ruban de suture et vis contre broches et ancre).
+- Les patients des deux études ne se recoupent pas (réseau Xpert Clinics contre hôpital Martini de Groningue).
+- **Non coté** (règle du protocole) : les données des séries à un seul bras (S2 à S14, S16 à S18). Elles décrivent des protocoles sans les comparer. Leurs résultats sont présentés comme « observés, non contrôlés ».
+- **Non coté non plus :** la comparaison « réparation aiguë contre subaiguë » de S8 (délai avant la chirurgie) et les comparaisons techniques internes de S11 et S16 (même protocole post-opératoire).
 
 ## Question cotée
 
 - **Population :** adultes opérés d'une reconstruction ou d'une réparation du ligament SL (question de la revue).
-- **Intervention :** mobilisation précoce du poignet.
-- **Comparateur :** mobilisation plus tardive.
-- **Preuve disponible :** une cohorte, avec une seule technique (3LT sans broches) et une rééducation donnée dans des centres spécialisés d'un réseau néerlandais.
+- **Intervention :** mobilisation précoce du poignet (dès 1 à 2 semaines).
+- **Comparateur :** mobilisation plus tardive (5 à 6 semaines).
+- **Preuve disponible :** deux études non randomisées, toutes deux après 3LT ouverte, aux Pays-Bas. Aucune étude comparative sur les réparations arthroscopiques ou les capsulodèses.
 
 ## Règles appliquées
 
 | Domaine GRADE | Décision et raison |
 |---|---|
-| Point de départ | **Faible** (⊕⊕◯◯) : étude observationnelle (Guyatt 2011 ; règle de la bibliothèque). **Vérification avec l'approche GRADE 18** (départ « élevé » puis abaissement selon ROBINS-I) : le niveau final reste le même (voir plus bas) |
-| Risque de biais | ROBINS-I **modéré** pour la fonction, la douleur et les complications : pas d'abaissement supplémentaire, ce niveau correspond déjà au point de départ « faible ». ROBINS-I **sérieux** pour la mobilité, la force et la reprise du travail : **-1** (données manquantes : 32, 23 et 63 patients). Remarque : le domaine D1 (confusion) pourrait être jugé « sérieux » partout, car les témoins sont historiques (2012-2015 contre 2015-2017) et l'appariement ne corrige ni l'apprentissage des équipes ni les autres changements de soins. Le niveau final ne change pas |
-| Incohérence | Non évaluable (une seule étude lue) ; pas d'abaissement. L'absence de réplication est signalée |
-| Caractère indirect | **-1 pour tous les résultats.** La question porte sur toutes les reconstructions SL et sur une rééducation courante. La preuve porte sur une seule technique (3LT sans broches) et sur une rééducation donnée en centres spécialisés de chirurgie et de thérapie de la main (S1, p. 1077) |
-| Imprécision | **-1 pour tous les résultats.** Les intervalles de confiance des tailles d'effet dépassent la marge de non-infériorité de 0,35 (PRWHE : -0,19 à 0,58 ; EVA au repos : -0,33 à 0,44). L'étude est sous-dimensionnée pour sa propre marge : selon un calcul indicatif, il aurait fallu environ 100 à 128 patients par groupe, au lieu de 54, soit une puissance d'environ 45 à 57 %. Les complications sont rares (infections : 0 avec le protocole précoce, 3 avec le tardif) |
-| Biais de publication et de rapport | **Suspecté.** Des preuves manquantes sont **connues et nommées** : une autre étude comparative sur la même question (Kemler 2023) et une étude sur une rééducation « accélérée » (Ying 2024) font partie des rapports non lus. Le graphique en entonnoir est impossible (moins de 10 études), mais ce n'est pas la question ici. Le niveau est déjà au plancher, donc l'abaissement ne change rien |
+| Point de départ | **Faible** (⊕⊕◯◯) : études non randomisées (Guyatt 2011 ; règle de la bibliothèque). L'essai non randomisé S15 est traité comme une étude observationnelle. **Vérification avec l'approche GRADE 18** (départ « élevé » puis abaissement selon ROBINS-I) : le niveau final reste le même (voir plus bas) |
+| Risque de biais | **S1** : ROBINS-I **modéré** pour la fonction, la douleur et les complications (pas d'abaissement supplémentaire) ; **sérieux** pour la mobilité, la force et la reprise du travail. **S15** : ROBINS-I **sérieux** pour tous les résultats (affectation par ordre d'inclusion, 4/21 non analysés dont les 2 ruptures, évaluation sans aveugle). **-1 pour tous les résultats** dès que S15 y contribue, et pour les résultats « sérieux » de S1 |
+| Incohérence | Fonction, douleur, force : les deux études vont dans le même sens (pas de différence nette) ; pas d'abaissement. **Mobilité et reprise du travail :** pas de différence dans S1 à 3 mois, avantage du groupe précoce dans S15 à 1 an. Les moments de mesure et les définitions diffèrent, ce qui peut expliquer l'écart ; l'abaissement ne changerait rien (niveau déjà au plancher) |
+| Caractère indirect | **-1 pour tous les résultats.** La question porte sur toutes les chirurgies SL et sur une rééducation courante. La preuve porte sur une seule technique (3LT ouverte) et deux centres ou réseaux néerlandais. Dans S15, **la fixation diffère aussi entre les groupes** : l'effet de la mobilisation précoce ne peut pas être séparé de celui du ruban de suture |
+| Imprécision | **-1 pour tous les résultats.** S1 est sous-dimensionnée pour sa propre marge de non-infériorité (intervalles qui dépassent 0,35 ; environ 100 à 128 patients par groupe auraient été nécessaires, au lieu de 54). S15 compte 10 et 7 patients analysés. Les échecs sont rares (S1 : 3 réinterventions ; S15 : 1 rupture par groupe) |
+| Biais de publication et de rapport | **Suspecté.** Une étude témoin sur une rééducation « accélérée » (Ying 2024) fait partie des rapports non lus. Le titre de S15 annonce de « meilleurs résultats fonctionnels » que ses propres scores ne montrent pas (PRWHE et QuickDASH : p = 0,5), et ses valeurs absolues à 1 an ne sont pas publiées. Le niveau est déjà au plancher, donc l'abaissement ne change rien |
 | Facteurs d'augmentation | Aucun (pas d'effet important, pas de gradient) |
 
 **Vérification avec l'approche GRADE 18.**
 
-| Étape | Niveau |
-|---|---|
-| Départ | Élevé |
-| ROBINS-I modéré (-1) | Modéré |
-| Caractère indirect (-1) | Faible |
-| Imprécision (-1) | **Très faible** |
+| Étape | S1 seule (fonction) | Avec S15 |
+|---|---|---|
+| Départ | Élevé | Élevé |
+| ROBINS-I (S1 modéré : -1 ; S15 sérieux : -2) | Modéré | Faible |
+| Caractère indirect (-1) | Faible | Très faible |
+| Imprécision (-1) | **Très faible** | **Très faible** (plancher) |
 
-Le résultat est le même. Il resterait aussi « très faible » sans l'abaissement pour caractère indirect, si D1 était jugé sérieux.
+Le résultat est le même avec les deux approches.
 
 ## Tableau de résumé des résultats
 
-**Moment :** 3 mois. **Énoncés** rédigés selon Santesso 2020.
+**Énoncés** rédigés selon Santesso 2020. Les moments de mesure diffèrent : **3 mois** (S1) et **1 an** (S15).
 
 | Résultat | Patients (études) | Résultat observé | Certitude | Raisons | Énoncé |
 |---|---|---|---|---|---|
-| **Fonction** (PRWHE, 0-100 ; plus bas = mieux) | 108 (1) | Médiane 37,5 (précoce) contre 36,5 (tardif) ; p = 0,35 ; taille d'effet 0,20 (IC 95 % -0,19 à 0,58), dont le sens de lecture n'est pas défini par l'article | ⊕◯◯◯ **Très faible** | Indirect -1 ; imprécis -1 ; biais de publication suspecté | Les preuves sont **très incertaines** quant à l'effet de la mobilisation précoce sur la fonction à 3 mois |
-| **Douleur** (EVA 0-100, repos et en charge) | 108 (1) | Repos 3,5 contre 5,0 ; en charge 39,5 contre 31,5 ; NS | ⊕◯◯◯ **Très faible** | Indirect -1 ; imprécis -1 | Les preuves sont **très incertaines** quant à l'effet sur la douleur à 3 mois |
-| **Mobilité du poignet** (degrés) | 76 (1) | Semblable dans les 6 directions ; NS | ⊕◯◯◯ **Très faible** | Biais -1 ; indirect -1 ; imprécis -1 | Les preuves sont **très incertaines** |
-| **Force de préhension** (kg) | 85 (1) | 26 contre 24 kg ; p = 0,65 | ⊕◯◯◯ **Très faible** | Biais -1 ; indirect -1 ; imprécis -1 | Les preuves sont **très incertaines** |
-| **Complications** (jusqu'à 3 mois) | 108 (1) | **Nombre d'événements**, pas de patients : 17 contre 20 (p du khi² non interprétable). Infections 0 contre 3 ; réinterventions 2 contre 1 ; aucun SDRC. Hors tableau : 2 opérations du TFCC dans le groupe précoce, jugées sans lien. Le nombre de **patients** avec au moins une complication n'est pas rapporté | ⊕◯◯◯ **Très faible** | Indirect -1 ; imprécis -1 ; mesure inadaptée | Les preuves sont **très incertaines** quant à l'effet sur les complications à court terme |
-| **Reprise du travail** (au travail à 3 mois) | 45 (1) | 82 % (18/22) contre 91 % (21/23) ; p = 0,51 | ⊕◯◯◯ **Très faible** | Biais -1 ; indirect -1 ; imprécis -1 | Les preuves sont **très incertaines** |
-| **Retour au poste d'origine** (parmi ceux qui travaillent) | 39 (1) | 56 % (10/18) contre 76 % (16/21) ; non testé | ⊕◯◯◯ **Très faible** | Biais -1 ; indirect -1 ; imprécis -1 | Les preuves sont **très incertaines** |
-| **Tenue de la reconstruction, arthrose, fonction après 1 an** | 0 | **Aucune donnée.** S1 n'a pas fait de radiologie, et ses auteurs reconnaissent qu'un échec de la reconstruction a pu passer inaperçu (p. 1081) | — | — | **Inconnu** [Lacune] |
+| **Fonction** (PRWHE, QuickDASH ; plus bas = mieux) | 125 (2) | S1, 3 mois : PRWHE médiane 37,5 (précoce) contre 36,5 (tardif) ; p = 0,35 ; taille d'effet 0,20 (IC 95 % -0,19 à 0,58), sens de lecture non défini. S15, 1 an : variation du PRWHE -19,2 contre -14,7 et du QuickDASH -12,1 contre -5,3 ; p = 0,5 | ⊕◯◯◯ **Très faible** | Biais -1 ; indirect -1 ; imprécis -1 | Les preuves sont **très incertaines** quant à l'effet de la mobilisation précoce sur la fonction à 3 mois et à 1 an |
+| **Douleur** | 125 (2) | S1 : EVA (0-100) au repos 3,5 contre 5,0, en charge 39,5 contre 31,5 ; NS. S15 : variation -2,0 contre -1,7 ; p = 0,8 | ⊕◯◯◯ **Très faible** | Biais -1 ; indirect -1 ; imprécis -1 | Les preuves sont **très incertaines** |
+| **Mobilité du poignet** (degrés) | 93 (2) | S1, 3 mois (n = 76) : semblable dans les 6 directions ; NS. S15, 1 an (n = 17) : variation de la flexion +1,8° contre -13,4° (p = 0,004), de l'extension +4,5° contre -4,5° (p = 0,03) ; valeurs absolues non publiées | ⊕◯◯◯ **Très faible** | Biais -1 ; indirect -1 (fixation différente dans S15) ; imprécis -1 ; résultats non concordants | La mobilisation précoce **pourrait** limiter la perte de flexion à 1 an, mais les preuves sont **très incertaines** |
+| **Force de préhension** (kg) | 102 (2) | S1 (n = 85) : 26 contre 24 kg ; p = 0,65. S15 : variation +8,2 contre +7,7 kg ; p = 0,9 | ⊕◯◯◯ **Très faible** | Biais -1 ; indirect -1 ; imprécis -1 | Les preuves sont **très incertaines** |
+| **Reprise du travail** | 62 (2) | S1 (n = 45) : au travail à 3 mois 82 % (18/22) contre 91 % (21/23) ; p = 0,51 ; retour au poste d'origine 56 % contre 76 % (non testé). S15 (n = 17) : délai moyen 35 contre 74 jours ; p = 0,01 ; reprise non définie | ⊕◯◯◯ **Très faible** | Biais -1 ; indirect -1 ; imprécis -1 ; résultats non concordants et définitions différentes | Les preuves sont **très incertaines** |
+| **Complications et échecs** | 129 (2) | S1, 3 mois : **nombre d'événements** (pas de patients) 17 contre 20 ; infections 0 contre 3 ; réinterventions 2 contre 1 ; aucun SDRC. S15, 1 an : **1 rupture traumatique par groupe** (11 contre 10 opérés), retirées de l'analyse | ⊕◯◯◯ **Très faible** | Biais -1 ; indirect -1 ; imprécis -1 (événements très rares) | Les preuves sont **très incertaines** quant à la sécurité de la mobilisation précoce |
+| **Tenue radiologique de la reconstruction, arthrose, résultats après 1 an** | 17 (1) | S1 : **aucune radiologie** ; ses auteurs reconnaissent qu'un échec a pu passer inaperçu (p. 1081). S15 : « amélioration identique » de l'écart SL et du DISI, **sans chiffres**. Aucune donnée au-delà de 1 an | — | Données non chiffrées | **Inconnu** [Lacune] |
 
 ## Phrase de synthèse pour le document final
 
-> Parmi les études lues, une seule a comparé deux calendriers de rééducation après reconstruction scapho-lunaire. Elle portait sur la 3LT sans broches, avec 108 patients suivis 3 mois. Les preuves sont **très incertaines**.
-> - Elle n'a pas montré de différence nette entre une mobilisation du poignet dès la 2e semaine et une mobilisation aux semaines 5-6, mais elle était trop petite pour conclure à une équivalence.
-> - Elle n'a pas vérifié la tenue de la reconstruction.
-> - Le retour au poste d'origine était moins fréquent dans le groupe précoce (différence non testée).
+> Deux études non randomisées ont comparé une mobilisation précoce du poignet à une immobilisation plus longue après une 3LT. Elles réunissent 125 patients analysés, suivis 3 mois (S1) ou 1 an (S15). Les preuves sont **très incertaines**.
+> - Aucune des deux n'a montré de différence nette pour la fonction, la douleur ou la force.
+> - La plus petite (17 patients analysés) a trouvé une meilleure évolution de la mobilité et une reprise du travail plus rapide avec la mobilisation précoce, mais ses groupes différaient aussi par la fixation.
+> - Aucune n'a mesuré de façon chiffrée la tenue de la reconstruction.
 >
-> **On ne peut pas en conclure que la mobilisation précoce est sûre**, ni étendre ces résultats aux reconstructions avec broches. Une autre étude comparative existe (Kemler 2023), mais elle n'a pas été lue dans cette revue.
+> **On ne peut pas en conclure que la mobilisation précoce est sûre**, ni étendre ces résultats aux réparations arthroscopiques, aux capsulodèses ou aux reconstructions avec broches.
