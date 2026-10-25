@@ -1,0 +1,99 @@
+## (scapholunate OR scapho-lunate OR "carpal instability") AND (postoperative OR "post-operative" OR "after surgery" OR reconstruction OR repair) AND (rehabilitation OR "hand therapy" OR physiotherapy OR "early motion" OR "early active" OR splint OR orthosis OR immobilization OR protocol)
+# count=97
+42438053 | 2026 | Rupp GE | Outcomes of Distal Radius Autograft in Adolescent Scaphoid Nonunion Repair. | J Pediatr Orthop |  | 10.1097/BPO.0000000000003409
+42788177 | 2026 | Houghton ER | Midcarpal Ultra-wide Scapholunotriquetral Capsulo-ligamentoplasty (MUSCL) Procedure. | J Wrist Surg |  | 10.1055/a-2698-9750
+42758151 | 2026 | de Sousa LMF | Imaging findings of overuse wrist injuries in young artistic gymnasts. | Skeletal Radiol | Review | 10.1007/s00256-026-05363-4
+42674159 | 2026 | Mesplié G | Effect of forearm position and isometric wrist deviation on the scapholunate space: A cross-sectional ultrasound study. | Hand Surg Rehabil |  | 10.1016/j.hansur.2026.102770
+42524681 | 2026 | Luchetti R | Two-Column Intercarpal Arthrodesis Using Headless Compression Screws. | J Wrist Surg |  | 10.1055/a-2622-5413
+42475126 | 2026 | Hays T | A 4-Anchor Suture Tape Internal Bracing Technique for Ligamentous Perilunate Injuries. | J Am Acad Orthop Surg Glob Res Rev | Case Reports | 10.5435/JAAOSGlobal-D-25-00429
+42299050 | 2026 | Kleiner JE | Treatment of Perilunate Injuries With Radial-sided Fixation. | Hand (N Y) |  | 10.1177/15589447261455646
+42114702 | 2026 | Matar DY | State of the Art: Scapholunate Ligament Injuries. | Handchir Mikrochir Plast Chir | Review | 10.1055/a-2807-3475
+41905598 | 2026 | Mathon P | Carpal ligamentous injury in children and adolescents: a systematic review. | Hand Surg Rehabil | Systematic Review | 10.1016/j.hansur.2026.102646
+42065227 | 2026 | van der Heijden EPA | Dynamic wrist imaging using four-dimensional CT: current concepts, clinical applications, and future perspectives. | EFORT Open Rev | Review | 10.1530/EOR-2026-0051
+42059558 | 2026 | Haenen M | Bilateral Dynamic CT for Scapholunate Instability: Toward Personalized, Protocol-Standardized Kinematic Diagnosis. | Plast Reconstr Surg |  | 10.1097/PRS.0000000000013156
+41933503 | 2026 | Glévarec L | Scapholunate Injuries in the Context of Acute Scaphoid Fractures: A Systematic Literature Review. | Hand (N Y) | Review | 10.1177/15589447261430936
+41869482 | 2026 | Chambers SB | Volar-Dorsal Arthroscopic Repair for Scapholunate Ligament Injuries: A Case Series and Treatment Algorithm. | J Wrist Surg |  | 10.1055/a-2662-1273
+41355139 | 2026 | Mylonas T | Mid-term outcomes of scapholunate ligament reconstruction with internal brace augmentation. | J Hand Surg Eur Vol |  | 10.1177/17531934251403421
+42078979 | 2026 | Cruz LR | Capitate Fracture with Scapholunate Ligament Rupture: A Case Report. | Malays Orthop J |  | 10.5704/MOJ.2603.023
+41550438 | 2026 | Ma Z | Wrist-arthroscopy treatment of carpal bone cysts. | JPRAS Open |  | 10.1016/j.jpra.2025.11.032
+41756899 | 2026 | Andreassen TE | Finite Element Modeling of the Scaphoid Shift Maneuver: Implications for Scapholunate Ligament injuries. | bioRxiv | Preprint | 10.64898/2026.02.17.705556
+41446312 | 2026 | Rahman R | Temporary Dorsal Staple Fixation of Scapholunate Interosseous Ligament Repair and Reconstruction. | J Hand Surg Glob Online |  | 10.1016/j.jhsg.2025.100891
+40521847 | 2026 | Mitchell EC | Radiocarpal and midcarpal joint congruency after perilunate dislocations and fracture-dislocations: a cross-sectional study. | J Hand Surg Eur Vol |  | 10.1177/17531934251348829
+41457782 | 2025 | Bakker D | Flexor Carpi Radialis and Dorsal Intercarpal Complex Elongation After 3 Ligament Tenodesis. | Hand (N Y) |  | 10.1177/15589447251404957
+41359077 | 2025 | Schmitt S | Scaphoid nonunion in the presence of a Scapho-Lunate coalition: a rare case report. | Arch Orthop Trauma Surg | Case Reports | 10.1007/s00402-025-06113-2
+41637588 | 2025 | Abola MV | Scapholunate ligament injuries in the nonarthritic wrist. | Bull Hosp Jt Dis (2013) | Review | 10.1097/bh9.0000000000000002
+41309259 | 2025 | Beg RN | Suspected Scaphoid Fractures Investigated with Limited Sequence Wrist MRI Scans: A Prospective Cohort Study. | J Hand Surg Asian Pac Vol |  | 10.1142/S2424835525500705
+40975829 | 2025 | Jongen IC | Long-Term Surgical Outcomes of Dorsal Capsulodesis and Three-Ligament Tenodesis in Midcarpal Instability: A Mean Follow-Up of 8 Years. | J Hand Surg Am | Comparative Study | 10.1016/j.jhsa.2025.07.037
+41085717 | 2025 | Reina M | Spectrum of insertion patterns of the dorsal intercarpal ligament: findings from a cadaveric study. | Eur J Orthop Surg Traumatol |  | 10.1007/s00590-025-04543-7
+40995554 | 2025 | Goorens CK | Arthroscopic Dorsal Round-Block Capsulo-Ligamentoplasty for Dynamic Scapholunate Instability: An Anatomical Study and Case Series. | J Wrist Surg |  | 10.1055/s-0044-1790205
+40860661 | 2025 | Quinn ARJ | Robotic evaluation of a 3D-printed scaffold for reconstruction of scapholunate interosseous ligament rupture: a biomechanical cadaveric study. | PeerJ |  | 10.7717/peerj.19766
+40635927 | 2025 | Alfarra AM | Missed Volar Intercalated Segment Instability with Distal Radius Fracture: Challenges in Diagnosis, Surgical Management, and Clinical Outcome - Case R | J Orthop Case Rep | Case Reports | 10.13107/jocr.2025.v15.i07.5756
+39636694 | 2025 | Colwell JL | Outcomes of All-Dorsal Augmented Intercarpal Ligament Reconstruction. | Plast Reconstr Surg |  | 10.1097/PRS.0000000000011912
+38934992 | 2025 | Vivace BJ | Adjunctive Dorsal Spanning Plate Fixation in the Stabilization of Perilunate Dislocations. | J Hand Surg Am | Comparative Study | 10.1016/j.jhsa.2024.04.016
+40145436 | 2025 | van der Heijden BEPA | Dynamic wrist imaging: How it works and how to assess kinematic changes in wrists with scapholunate instability. | J Hand Surg Eur Vol | Review | 10.1177/17531934251326028
+40496408 | 2025 | Pilla NI | A Biomechanical Comparison of Three Current Scapholunate Reconstruction Methods. | J Hand Surg Glob Online |  | 10.1016/j.jhsg.2025.01.010
+40456628 | 2025 | Zhou S | Pulsed CO(2)Gas arthroscopy combined with robot-navigated screw fixation and autologous iliac grafting for scaphoid nonunion. | J Orthop Surg (Hong Kong) | Research Support, Non-U.S. Gov't | 10.1177/10225536251345192
+40256416 | 2025 | Wang Z | A novel injury mechanism of trans-styloid palmar-divergent dislocation of the lunate and scaphoid: a case report. | Front Surg | Case Reports | 10.3389/fsurg.2025.1526008
+40259935 | 2025 | Namazi H | Evaluation of Various Methods of Lunotriquetral Stabilization Surgical Producers, A Finite Element Analysis. | J Biomed Phys Eng |  | 10.31661/jbpe.v0i0.2310-1676
+40137999 | 2025 | Eslami A | Systematic review of radiocarpal dislocations: epidemiology, treatment modalities, and outcomes. | Eur J Orthop Surg Traumatol | Systematic Review | 10.1007/s00590-025-04252-1
+40833339 | 2024 | Zelenski NA | Lunotriquetral Instability: Diagnosis, Management, and Current Concept Review. | J Am Acad Orthop Surg | Review | 10.5435/JAAOS-D-22-00703
+39283277 | 2024 | Rabinovich RV | Articular Fragment Escape and Carpal Subluxation Following Distal Radius Fracture Fixation. | J Hand Surg Am | Review | 10.1016/j.jhsa.2024.07.018
+38232221 | 2024 | Dullemans KN | Reconstruction of an Early-Stage Scapholunate Advanced Collapse Wrist with the 3-Ligament Tenodesis Procedure: A Controversial Reappraisal. | Plast Reconstr Surg |  | 10.1097/PRS.0000000000011290
+38330555 | 2024 | Ying Q | Clinical Efficacy of Arthroscopic Transplantation of Palmaris Longus Tendon Combined with Early Accelerated Motion Rehabilitation After Scapholunate L | Altern Ther Health Med |  | 
+39474000 | 2024 | Kurland AM | Nitinol Compression Staple Versus Headless Compression Screw Fixation for Scaphoid Waist Fractures. | Eplasty |  | 
+39027026 | 2024 | Steppe C | Arthroscopic Debridement for Treatment of Chronic Dynamic Scaphoid Instability. | J Wrist Surg |  | 10.1055/s-0043-1769934
+39027024 | 2024 | Lameire DL | Partial Scapholunate Interosseous Ligament Injuries: A Systematic Review of Treatment Options. | J Wrist Surg |  | 10.1055/s-0043-1768133
+36372595 | 2024 | Teunissen JS | Routinely-Collected Outcomes of Proximal Row Carpectomy. | J Hand Surg Am |  | 10.1016/j.jhsa.2022.09.004
+38775363 | 2024 | An YS | Scapholunate Ligament Reconstruction With Internal Brace Augmentation Techniques for Chronic Scapholunate Dissociation: A Clinical Follow-up Study. | Ann Plast Surg | Research Support, Non-U.S. Gov't | 10.1097/SAP.0000000000003942
+36456426 | 2024 | Hakkesteegt SN | Comparing Patient-Reported Outcomes on Three-Ligament Tenodesis Between Partial and Complete Scapholunate Ligament Injuries: A Cohort Study. | J Hand Surg Am | Comparative Study | 10.1016/j.jhsa.2022.09.012
+38978923 | 2024 | Agrawal CS | Rehabilitation Protocol for Lunate Fracture in a Clinical Case Report. | Cureus | Case Reports | 10.7759/cureus.61892
+38846505 | 2024 | DalCortivo RL | Scaphoid Fractures Requiring Bone Graft: Does Graft Source Matter? | Eplasty |  | 
+37852910 | 2024 | Esplugas M | Influence of forearm rotation on the kinetic stabilizing efficiency of the muscles that control the scapholunate joint. Clinical application in propri | J Hand Ther |  | 10.1016/j.jht.2023.09.012
+38393765 | 2024 | Brutus JP | Description of WALANT technique in open bone and ligament wrist surgery. | Hand Surg Rehabil |  | 10.1016/j.hansur.2023.10.004
+38264132 | 2024 | Krishna SV | Radially Displaced Perilunate Injuries: A Report of Two Cases. | J Wrist Surg |  | 10.1055/s-0043-1770952
+38357468 | 2023 | Newton W | Perilunate Dislocations: Reduction and Stabilization. | JBJS Essent Surg Tech |  | 10.2106/JBJS.ST.23.00031
+38106949 | 2023 | Li Y | Traumatic Volar Carpal Instability Nondissociative: A Case Series. | J Hand Surg Glob Online | Case Reports | 10.1016/j.jhsg.2023.07.001
+37841358 | 2023 | Lui H | BMP2 and GDF5 for Compartmentalized Regeneration of the Scapholunate Ligament. | J Wrist Surg |  | 10.1055/s-0043-1761608
+37066631 | 2023 | Chen Z | Understanding the biomechanics of the forearm during the dart thrower's motion. | J Hand Surg Eur Vol | Research Support, Non-U.S. Gov't | 10.1177/17531934231166351
+36112227 | 2023 | Imada AO | The tangential view described by Moneim to demonstrate scapholunate dissociation: an update. | Eur J Orthop Surg Traumatol |  | 10.1007/s00590-022-03391-z
+37223378 | 2023 | Trentadue TP | Evaluation of Scapholunate Injury and Repair with Dynamic (4D) CT: A Preliminary Report of Two Cases. | J Wrist Surg |  | 10.1055/s-0042-1758159
+37023566 | 2023 | Gomez-Cerezo MN | Additively manufactured polyethylene terephthalate scaffolds for scapholunate interosseous ligament reconstruction. | Biomater Adv |  | 10.1016/j.bioadv.2023.213397
+36216645 | 2023 | Lupon E | Surgical management of slightly or non-displaced corporal scaphoid fractures by retrograde percutaneous screw fixation through the anterior trapezium  | Ann Chir Plast Esthet |  | 10.1016/j.anplas.2022.09.001
+35608691 | 2023 | Imada AO | Review of surgical treatment for chronic scapholunate ligament reconstruction: a long-term study. | Eur J Orthop Surg Traumatol | Review | 10.1007/s00590-022-03294-z
+37006727 | 2023 | Amarasooriya M | Current Concepts in Scapholunate Instability Without Arthritic Changes. | Indian J Orthop | Review | 10.1007/s43465-023-00839-0
+36874928 | 2023 | Satria O | Minimally Invasive Plating of Distal Radius Fracture: A Series of 42 Cases and Review of Current Literature. | Minim Invasive Surg | Review | 10.1155/2023/3534849
+36644724 | 2023 | Kemler MA | Scapholunate Ligament Reconstruction without Immobilization Is Safe and Leads to Better Functional Results. | J Wrist Surg |  | 10.1055/s-0042-1749164
+38529223 | 2023 | Reigstad O | Bilateral carpal pilon-type fractures due to clenched fist trauma: a case report. | Ann Jt | Case Reports | 10.21037/aoj-22-25
+36478692 | 2022 | Thomas J | Palmar lunate dislocation with Tran scaphoid fracture dislocation and trapezium fracture-A case report of rare fracture presentation. | Trauma Case Rep | Case Reports | 10.1016/j.tcr.2022.100736
+36055872 | 2022 | Bakker D | Is Early Active Motion After 3-Ligament Tenodesis Noninferior to Late Active Motion? A Prospective, Multicenter Cohort Study. | J Hand Surg Am | Multicenter Study | 10.1016/j.jhsa.2022.07.002
+36117829 | 2022 | Bandinelli D | Non-traumatic scapholunate dissociation in a 10-year-old female: A case report. | Front Surg | Case Reports | 10.3389/fsurg.2022.917555
+35713459 | 2022 | Park HY | Pancarpal dissociation, a very rare type of injury: A case report. | Medicine (Baltimore) | Case Reports | 10.1097/MD.0000000000029479
+35404339 | 2022 | Duraku LS | Two-Corner Fusion or Four-Corner Fusion of the Wrist for Midcarpal Osteoarthritis? A Multicenter Prospective Comparative Cohort Study. | Plast Reconstr Surg | Multicenter Study | 10.1097/PRS.0000000000009116
+35434576 | 2022 | Chen RE | Outcomes of Acute Versus Subacute Scapholunate Ligament Repair. | J Hand Surg Glob Online |  | 10.1016/j.jhsg.2021.10.007
+35127259 | 2022 | Nguyen DM | Dorsal Spanning Plate for Perilunate Dislocations. | J Wrist Surg |  | 10.1055/s-0041-1729634
+34802951 | 2022 | Ahmadi AR | The never-ending battle between proximal row carpectomy and four corner arthrodesis: A systematic review and meta-analysis for the final verdict. | J Plast Reconstr Aesthet Surg | Meta-Analysis,Systematic Review | 10.1016/j.bjps.2021.09.076
+34293945 | 2022 | Nakamura T | Revolutions in arthroscopic wrist surgeries. | J Hand Surg Eur Vol | Review | 10.1177/17531934211030861
+34881104 | 2021 | Rush MN | Additive Manufacturing: The Next Generation of Scapholunate Ligament Reconstruction. | J Wrist Surg |  | 10.1055/s-0041-1729993
+34100996 | 2021 | Dietrich TJ | Interdisciplinary consensus statements on imaging of scapholunate joint instability. | Eur Radiol | Consensus Statement | 10.1007/s00330-021-08073-8
+34797871 | 2021 | Perevoshchikova N | Finite element analysis of the performance of additively manufactured scaffolds for scapholunate ligament reconstruction. | PLoS One | Research Support, Non-U.S. Gov't | 10.1371/journal.pone.0256528
+33507130 | 2021 | Schriever T | There is motion between the scaphoid and the lunate during the dart-throwing motion. | J Plast Surg Hand Surg |  | 10.1080/2000656X.2021.1874398
+34559095 | 2021 | Kang SH | Scapholunate and lunotriquetral interosseous ligament augmentation with internal bracing in perilunate dislocation: Case reports. | Medicine (Baltimore) | Case Reports | 10.1097/MD.0000000000026827
+33417053 | 2021 | Levy KH | The 50 most cited papers in chronic scapholunate reconstruction: a bibliometric analysis. | Eur J Orthop Surg Traumatol | Review | 10.1007/s00590-020-02864-3
+32579261 | 2021 | Lui H | Multiphasic scaffold for scapholunate interosseous ligament reconstruction: A study in the rabbit knee. | J Orthop Res | Research Support, N.I.H., Extramural | 10.1002/jor.24785
+34265840 | 2021 | Ozcelik IB | Suture-button Fixation and Arthroscopic Dorsal Ligamento-capsulodesis in Chronic Scapholunate Dissociation. | Tech Hand Up Extrem Surg |  | 10.1097/BTH.0000000000000360
+35437506 | 2021 | Frane N | Case Study: Trans-styloid, Trans-scaphoid, Trans-triquetral, and Perilunate Dislocation. | J Orthop Case Rep | Case Reports | 10.13107/jocr.2021.v11.i06.2260
+34106290 | 2021 | Langer MF | [Resection arthoplasty of the trapezium with ligament reconstruction and tendon interposition and variations]. | Oper Orthop Traumatol | Review | 10.1007/s00064-021-00715-w
+34034493 | 2021 | S P | An Atypical Dorsal Perilunate Dislocation with No Scapho-Lunate Ligament Injury in Bilateral Complex Wrist Injury - a Case Report. | Acta Chir Plast | Case Reports | 10.48095/ccachp202123
+33162272 | 2021 | Chan AHW | A Biomechanical Evaluation of the ECRL Tenodesis for Reconstruction of the Scapholunate Ligament. | J Hand Surg Am |  | 10.1016/j.jhsa.2020.08.021
+32701771 | 2021 | Dornberger JE | What Is the Diagnostic Accuracy of Flat-panel Cone-beam CT Arthrography for Diagnosis of Scapholunate Ligament Tears? | Clin Orthop Relat Res |  | 10.1097/CORR.0000000000001425
+32427686 | 2020 | Corella F | Arthroscopic "S"-shaped Ligamentoplasty for Floating Lunate. | Tech Hand Up Extrem Surg | Video-Audio Media | 10.1097/BTH.0000000000000291
+33072433 | 2020 | Bakker D | Assessment of Flexion Elongation Relation and Type of Failure after Capsulodesis. | J Wrist Surg |  | 10.1055/s-0040-1708861
+32100069 | 2020 | Quadlbauer S | [Palmar radioscapholunate arthrodesis with distal scaphoidectomy]. | Oper Orthop Traumatol | Review | 10.1007/s00064-020-00651-1
+32536296 | 2020 | Athlani L | Four-corner arthrodesis with a dorsal locking plate: 4-9-year follow-up. | J Hand Surg Eur Vol |  | 10.1177/1753193420930587
+35415492 | 2020 | Vakalopoulos KA | Carpal Collapse After Scaphoid Nonunion: A Novel Combined Approach to the 1,2 Intercompartmental Supraretinacular Artery Radial Flap. | J Hand Surg Glob Online |  | 10.1016/j.jhsg.2020.02.002
+31718405 | 2020 | Sandow M | Anatomical anterior and posterior reconstruction for scapholunate dissociation: preliminary outcome in ten patients. | J Hand Surg Eur Vol | Review | 10.1177/1753193419886536
+31711344 | 2020 | Blackburn J | Three-ligament tenodesis for chronic scapholunate injuries: short-term outcomes in 203 patients. | J Hand Surg Eur Vol |  | 10.1177/1753193419885063
+31693570 | 2020 | Omokawa S | Dorsal Intercarpal Ligament Preserving Arthrotomy and Capsulodesis for Scapholunate Dissociation. | Tech Hand Up Extrem Surg |  | 10.1097/BTH.0000000000000273
+31734015 | 2020 | Loisel F | Scapholunate kinematics after flexible anchor repair. | Med Eng Phys | Research Support, Non-U.S. Gov't | 10.1016/j.medengphy.2019.11.001
+30879716 | 2020 | Bergner JL | Dart thrower's motion and the injured scapholunate interosseous ligament: A scoping review of studies examining motion, orthoses, and rehabilitation. | J Hand Ther | Scoping Review | 10.1016/j.jht.2018.09.005
+30526465 | 2020 | Werner FW | Changes in Scaphoid and Lunate Position and Loading at Two Wrist Pushup Positions. | Curr Rheumatol Rev |  | 10.2174/1573397115666181210170202

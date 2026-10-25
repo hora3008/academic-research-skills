@@ -1,0 +1,17 @@
+[
+ {
+  "label": "Bakker 2022, J Hand Surg Am (early vs late active motion after 3LT)",
+  "id": "R00269",
+  "matched_on": "doi"
+ },
+ {
+  "label": "Kemler 2023, J Wrist Surg (SL reconstruction without immobilization)",
+  "id": "R00156",
+  "matched_on": "doi"
+ },
+ {
+  "label": "Ying 2024, Altern Ther Health Med (palmaris longus graft + early accelerated rehabilitation)",
+  "id": "R00090",
+  "matched_on": "pmid"
+ }
+]

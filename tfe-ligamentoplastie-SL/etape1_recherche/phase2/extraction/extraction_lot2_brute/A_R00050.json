@@ -1,0 +1,110 @@
+{
+"id": "R00050",
+"reference_vancouver": "Ribolzi RR, Merlini L. Early results of all-dorsal arthroscopic scapholunate ligamentoplasty. J Wrist Surg. 2026;15(1):79-87. doi:10.1055/a-2511-3111 [p. 79, page de titre]",
+"etude": {
+ "pays": "Italie (Univ. Milan, 1er auteur) et France (Institut de la Main, Clinique Bizet, Paris, service du chirurgien senior) ; pays de recrutement non explicitement dit, probablement France [p. 79, affiliations]",
+ "centres_chirurgiens": "Un seul chirurgien senior expérimenté (L.M.), qui est aussi le concepteur de la technique (réf. 2 = Merlini et al.) ; centre précis NR dans les Méthodes [p. 80, Surgical Technique ; p. 79, Introduction]",
+ "type_etude": "Série de cas prospective monocentrique/monochirurgien, qualifiée par les auteurs d'« étude préliminaire » ; sélection « prospective » des patients ; 2 sous-groupes de 6 (avec / sans greffe tendineuse), 6 patients « choisis au hasard » pour chaque variante (méthode de tirage NR) [p. 80, Patients et Surgical Technique ; p. 80-81, Statistical Analysis]",
+ "periode": "Opérés de mai 2022 à décembre 2022 ; suivi moyen 15,9 mois (12-20) [p. 80, Patients ; p. 81, Results]",
+ "niveau_preuve": "NR (aucun niveau de preuve indiqué par les auteurs)",
+ "financement_coi": "Conflits d'intérêts : « None declared » ; financement NR [p. 86, Conflict of Interest]. Matériel FiberTape (Arthrex) utilisé, sans déclaration de lien [p. 80]",
+ "enregistrement": "NR ; consentement écrit de chaque patient [p. 80, Patients]"
+},
+"patients": {
+ "n_inclus": "12 [p. 80, Patients]",
+ "n_analyses": "12 (évalués à au moins 12 mois ; tous apparemment analysés) [p. 80-81, Clinical Evaluation, Results, Tables 1-3]",
+ "perdus_de_vue": "NR explicitement ; aucun apparent (12/12 dans les tableaux) [Tables 2-3, pp. 83-84]",
+ "age": "Moyenne 37,1 ans globale ; groupe A (greffe+brace) 40,5 ans (29-52) ; groupe B (brace seul) 33,6 ans (23-49) ; tous >= 18 ans [p. 80, Patients ; Table 1A p. 82 ; Tables 2A p. 83, 3A p. 84]",
+ "sexe": "9 hommes, 3 femmes ; répartition par groupe NR [p. 80, Patients]",
+ "cote_dominant": "NR",
+ "aigu_ou_chronique": "Chronique (instabilité SL chronique) [p. 79, Indications ; p. 80]",
+ "statique_ou_dynamique": "NR explicitement ; stades EWAS 4-5 avec angle RL > 10 degrés (déformation DISI), subluxation dorsale du scaphoïde corrigée, écart SL préop moyen 6,1 mm (5-8 mm) : profil plutôt avancé/prédynamique-statique, non qualifié par les auteurs [p. 79-80 ; Fig. 4-5 p. 86 ; Tables 2A-3A]",
+ "stade_classification": "EWAS stade 4 ou 5, confirmé en arthroscopie diagnostique ; pas d'arthrose radio-carpienne ou médio-carpienne (chondral) ; répartition 4 vs 5 NR ; Geissler/Garcia-Elias/SLAC NR [p. 79-80, Indications ; p. 81, Results]",
+ "profession_sport": "NR (seulement : tous ont repris leur emploi antérieur)",
+ "patients_hors_criteres": "Aucun identifié. Tous adultes, SL chronique stade EWAS 4-5, sans arthrose. Pas de sous-groupe hors critères."
+},
+"chirurgie": {
+ "technique": "ADAL (all-dorsal arthroscopic scapholunate ligamentoplasty) : réparation capsulo-ligamentaire dorsale (SLIL dorsal + ligament intercarpien dorsal DIC) avec suture PDS 3/0 + capsulodèse dorsale + ligamentoplastie par « internal brace » (FiberTape, Arthrex). Groupe A (n=6) : brace + greffe de palmaire (« palmaris longus » dans le texte ; « palmaris gracilis » dans le résumé) ; groupe B (n=6) : brace seul [p. 79, Abstract et Introduction ; p. 80, Surgical Technique]",
+ "famille": "Autre / mixte : reconstruction ligamentaire dorsale (greffe tendineuse chez 6, internal brace seul chez 6) + capsulodèse dorsale + réparation capsulo-ligamentaire. Technique décrite dans un article antérieur (réf. 2) [p. 80]",
+ "voie": "Arthroscopique, entièrement dorsale (pas d'abord palmaire, pas de capsulotomie ni de tunnel osseux complet) [p. 79 ; p. 81, Discussion]",
+ "greffe": "Groupe A : tendon palmaire (palmaris longus selon le texte p. 79 ; « palmaris gracilis » dans le résumé : incohérence de terminologie, prélèvement par incision supplémentaire p. 86) ; groupe B : aucune [p. 79-80 ; p. 86]",
+ "broches_nb_duree": "Pas de broches SL ni scapho-capitées de maintien (« without the need for SL and scaphocapitate Kirschner wires ») ; broche utilisée comme joystick en peropératoire (Fig. 2) ; pas de broche laissée en place mentionnée [p. 85, Discussion ; Fig. 2 p. 85]",
+ "autre_fixation_internal_brace": "Oui, FiberTape (Arthrex) comme internal brace dans les 12 cas [p. 80, Surgical Technique]",
+ "gestes_associes": "Capsulodèse dorsale chez tous ; réparation capsulo-ligamentaire dorsale (PDS 3/0) chez tous ; autres gestes NR [p. 80]. Durée opératoire moyenne 80 min (98 min avec greffe ; 62 min brace seul) [p. 81, Results]"
+},
+"reeducation": {
+ "immobilisation_type_position_articulations": "Attelle thermoplastique, poignet à 30 degrés d'extension ; mobilisation immédiate des doigts et du coude autorisée ; amovible ou non : NR ; pansement à J7 puis tous les 3 jours jusqu'à cicatrisation [p. 80, Postoperative Management]",
+ "immobilisation_duree": "4 semaines [p. 80, Postoperative Management]",
+ "debut_mob_passive": "NR (non distinguée)",
+ "debut_mob_active": "NR précisément : la rééducation chez un kinésithérapeute de la main est autorisée à partir de la 4e semaine postopératoire, après bilan clinique et radiographique ; contenu de la rééducation NR. Les auteurs écrivent que le FiberTape « permet une mobilisation plus précoce » sans chiffrer [p. 80, Postoperative Management ; p. 85, Discussion]",
+ "DTM": "NR",
+ "restrictions_amplitude": "NR",
+ "debut_renforcement_muscles": "NR explicitement ; seulement : charges lourdes sur le poignet/la main évitées pendant 3 mois postopératoires [p. 80, Postoperative Management]",
+ "proprioception": "NR (la proprioception n'est citée que comme argument en faveur de l'arthroscopie qui épargne les terminaisons nerveuses, pas comme exercice) [p. 81, Discussion]",
+ "electrostimulation": "NR",
+ "mise_en_charge": "Charges lourdes évitées 3 mois ; charges légères/mise en charge progressive NR [p. 80]",
+ "autres_restrictions": "Retour au sport autorisé après 3 mois postopératoires [p. 80]",
+ "criteres_progression_type": "Mixtes (partiellement) : bilan clinique et radiographique à 4 semaines conditionnant le début de la rééducation, puis échéances temporelles (3 mois) ; critères cliniques/radiologiques précis NR [p. 80]",
+ "criteres_progression_detail": "« At 4 postoperative weeks, patients underwent clinical and radiographic assessment and they were allowed to begin rehabilitation » ; pas de critère chiffré (ni amplitude, ni écart SL) [p. 80]",
+ "encadrement_kine_domicile_nb_seances": "Kinésithérapeute de la main à partir de S4 ; durée moyenne de la rééducation 3 mois ; nombre de séances NR ; programme à domicile NR [p. 80]",
+ "observance": "NR",
+ "reprise_travail": "Tous les patients (12/12) ont repris leur emploi antérieur, délai moyen 3 mois (dispersion NR) [p. 81, Results]",
+ "reprise_sport": "Autorisée après 3 mois ; taux et délai réels de reprise sportive NR [p. 80]"
+},
+"resultats": {
+ "outil_principal_et_valeurs_par_temps": "Pas de critère principal désigné. Tous groupes (n=12), préop -> postop (>= 12 mois, moyenne 15,9 mois) : quickDASH 63,4 -> 14,9 (p=0,0251) ; Mayo wrist score 47,9 -> 79,5 (p=0,0023) ; groupe A (greffe+brace, n=6) : quickDASH 64 -> 10,9, Mayo 46,6 -> 79,1 ; groupe B (brace seul, n=6) : quickDASH 62,8 -> 18,9, Mayo 49,1 -> 80. Comparaison A vs B non testée (effectif trop faible) [p. 81, Results ; Table 1B p. 82 ; Tables 2B p. 83, 3B p. 84]",
+ "douleur": "EVA repos 6 -> 1 (p=0,0023) ; 3 patients sans douleur, 9 avec douleur légère (EVA 1 chez 6, EVA 2 chez 3) ; groupe A 6,1 -> 0,6 ; groupe B 5,8 -> 1,3 (texte p. 81 : 0,66 vs 1,33) [p. 81, Results ; Tables 1B, 2B, 3B]",
+ "mobilite": "Flexion-extension active 123,3 -> 144,1 degrés (p=0,0060) ; côté controlatéral 157,5 ; groupe A 122,5 -> 139,1 ; groupe B 124,1 -> 149,1 [p. 81 ; Tables 1B p. 82, 2B p. 83, 3B p. 84]",
+ "force": "Force de préhension (Jamar) 19,1 -> 34,5 kg (p=0,0023), soit 180 % de la valeur préop, 48 % -> 89 % du côté controlatéral (38,7 kg) ; groupe A 15,8 -> 30,8 kg (194 % de la préop selon texte) ; groupe B 22,5 -> 38,3 kg (170 %) [p. 81, Results ; Tables 1B, 2B, 3B]. Vérifié : 34,5/38,7 = 89 %, 19,1/38,7 = 49 % (texte 48 %)",
+ "radiologie": "Angle RL 29,2 -> 10,7 degrés (p=0,0025 ; controlatéral 7,5) ; angle SL 83,8 -> 52,8 degrés (texte 52,5 ; p=0,0024 ; controlatéral 46,1) ; écart SL 6,1 -> 3 mm (p=0,0022 ; controlatéral 2,3). 2 patients avec écart SL de 6 mm au suivi (A-06 et B-02) mais bons résultats cliniques. Pas d'arthrose médio-carpienne, d'ostéolyse ni de nécrose osseuse [p. 81, Results et Discussion ; Table 1A p. 82 ; Tables 2A p. 83, 3A p. 84]. Radiographies de suivi >= 12 mois seulement ; pas de suivi intermédiaire rapporté",
+ "taux_reprise": "Reprise du travail 12/12 à 3 mois en moyenne [p. 81] ; reprise du sport NR",
+ "satisfaction": "NR",
+ "suivi_moyen": "15,91 mois (12-20) ; groupe A 16,66 mois, groupe B 15,16 mois [p. 81, Results ; Tables 2A, 3A]"
+},
+"securite": {
+ "complications": "Aucune complication (« We observed no complications in our series ») ; pas de signe radiologique d'ostéolyse ni de nécrose [p. 86, Discussion ; p. 81, Results]. Méthode de recueil des complications NR",
+ "reinterventions": "NR explicitement (aucune mentionnée)"
+},
+"cles": {
+ "type_etude": "Série de cas prospective préliminaire, mono-chirurgien (concepteur de la technique), 2 sous-groupes de 6 non comparés statistiquement [p. 80-81]",
+ "effectif": "12 inclus, 12 analysés, perdus de vue NR [p. 80 ; Tables 2-3]",
+ "age": "Moyenne 37,1 ans (A 40,5 ; B 33,6), 9 H / 3 F [p. 80 ; Table 1A p. 82]",
+ "technique": "ADAL : ligamentoplastie dorsale arthroscopique, internal brace FiberTape +/- greffe de palmaire (6/6) + capsulodèse dorsale + réparation capsulo-ligamentaire PDS 3/0 [p. 79-80]",
+ "broches": "Pas de broches SL/scapho-capitées de maintien [p. 85]",
+ "immobilisation": "Attelle thermoplastique poignet 30 degrés d'extension, 4 semaines ; doigts et coude libres immédiatement [p. 80]",
+ "debut_mobilisation": "Mobilisation des doigts/coude immédiate ; poignet : rééducation avec kiné de la main à partir de S4 (mobilisation passive/active non distinguée) [p. 80]",
+ "renforcement_ou_charge": "Charges lourdes évitées 3 mois ; début du renforcement NR [p. 80]",
+ "type_criteres_progression": "Mixtes/peu détaillés : bilan clinique + radiographique à S4 puis temporel (3 mois) ; aucun critère chiffré [p. 80]",
+ "reprise_travail_sport": "Travail : 12/12 à 3 mois en moyenne ; sport autorisé après 3 mois, reprise réelle NR [p. 80-81]",
+ "resultat_fonctionnel_principal": "quickDASH 63,4 -> 14,9 ; Mayo 47,9 -> 79,5 ; EVA 6 -> 1 ; force 89 % du côté sain ; F-E 144 degrés ; suivi 15,9 mois [p. 81 ; Tables 1A-1B]",
+ "complications": "Aucune rapportée ; réinterventions NR [p. 86]"
+},
+"risque_de_biais": {
+ "outil": "Checklist JBI pour séries de cas (même protocole post-opératoire pour tous les patients ; les deux sous-groupes (avec / sans greffe) ne sont pas comparés statistiquement et ne diffèrent pas par le protocole de rééducation, qui est unique) [p. 80-81]. ROBINS-I non retenu car aucune comparaison de protocoles post-opératoires ; la comparaison des 2 techniques est explicitement non analysée (« not possible to analyze result differences between the two groups ») [p. 80-81]",
+ "items": {
+  "1_criteres_inclusion_clairs": "O : chronique, EWAS 4-5, angle RL > 10 degrés, pas d'arthrose radio/médio-carpienne [p. 79-80]",
+  "2_pathologie_mesure_standard": "O : radiographies dynamiques + IRM, confirmation par arthroscopie diagnostique, classification EWAS [p. 80-81]",
+  "3_methode_identification_valide": "O : arthroscopie diagnostique confirmant le stade [p. 80]",
+  "4_inclusion_consecutive": "? : patients « prospectively selected » sur mai-décembre 2022 ; caractère consécutif NR [p. 80]",
+  "5_inclusion_complete": "? : 12 analysés sur 12 opérés, mais dénominateur (candidats vus/éligibles, refus) NR ; pas de perdu de vue signalé [p. 80, Tables 2-3]",
+  "6_demographie_decrite": "O (partiel) : âge, sexe ; côté dominant, profession, sport NR [p. 80 ; Table 1A]",
+  "7_donnees_cliniques_decrites": "O : données individuelles pré/postop (EVA, quickDASH, Mayo, force, F-E, angles RL/SL, écart SL) pour chaque patient [Tables 2-3, pp. 83-84]",
+  "8_resultats_et_suivi_decrits": "O : suivi 12-20 mois par patient, complications (aucune), durée opératoire [p. 81 ; Tables 2A, 3A]",
+  "9_centre_et_contexte_decrits": "? : service du chirurgien indiqué dans les affiliations, mais site de l'étude et contexte (volume, kinésithérapeutes) non décrits dans les Méthodes [p. 79-80]",
+  "10_analyse_statistique_adaptee": "O avec réserve : Wilcoxon bilatéral apparié adapté à n=12 ; pas d'IC, pas de correction, comparaison A vs B volontairement non testée ; valeur p du quickDASH (0,0251) plus élevée que les autres (0,0022-0,0060) sans explication [p. 80 ; Tables 1A-1B]"
+ },
+ "synthese": "MODÉRÉ selon la règle de synthèse : aucun « N » aux items 4, 5, 7 (items 4 et 5 en « ? »), effectif de 12 (>= 10), pas de patients non évalués apparents. Réserves importantes : chirurgien concepteur de la technique et seul opérateur ; absence de dénominateur d'éligibilité et de caractère consécutif non confirmé ; suivi court (moyenne 15,9 mois) ; évaluation par non-aveugle, évaluateur NR ; absence de groupe comparateur ; paramètres radiologiques/cliniques mesurés par qui NR ; erreurs de moyennes dans le Tableau 3A (voir remarques) ; conclusions favorables (« promising », supériorité alléguée vs autres séries) fondées sur des comparaisons indirectes avec d'autres séries non appariées [p. 81, 85-86]"
+},
+"remarques": [
+ "Protocole de rééducation décrit très brièvement (un paragraphe) et non spécifique du ligament SL en soi, mais lié à la technique ADAL ; plusieurs données clés NR : début mobilisation passive/active du poignet, contenu de la rééducation, renforcement, proprioception, critères de progression chiffrés, nombre de séances, observance [p. 80].",
+ "Éligibilité : tous adultes (23-52 ans), SL chronique EWAS 4-5, sans arthrose : conforme aux critères. Pas de SLAC, pas de pédiatrie. La technique est une ligamentoplastie dorsale + capsulodèse (famille mixte) : pas de greffe tendineuse chez 6/12.",
+ "Terminologie du greffon discordante : « palmaris gracilis » dans le résumé [p. 79] versus « palmaris longus graft » dans l'introduction [p. 79] ; le tendon gracile ne fait pas partie du membre supérieur (probable erreur typographique).",
+ "Tableau 3A (groupe B) : la moyenne affichée de l'angle SL postopératoire (56) ne correspond pas aux valeurs individuelles (53, 66, 42, 40, 39, 55 = moyenne calculée 49,2) ; de même l'angle SL controlatéral moyen affiché 49,1 vs calculé 46,7 (35, 49, 51, 60, 45, 40). Les moyennes globales du Tableau 1A (SL postop 52,8 ; controlatéral 46,1) sont, elles, compatibles avec les valeurs individuelles (52,6 ; 46,1 calculés) ; le texte donne 52,5 [p. 81 ; Tables 1A p. 82, 3A p. 84].",
+ "Écarts texte/tableaux mineurs : angle RL postop 10,75 (texte) vs 10,7 (tableau) ; force 48 % controlatérale préop (texte) vs 19,1/38,7 = 49 % calculé ; texte « 6 mm d'écart SL chez 2 patients » conforme aux Tables 2A (A-06) et 3A (B-02).",
+ "Dans le Tableau 1B, p du quickDASH = 0,0251 alors que 12/12 patients s'améliorent selon les tableaux individuels (Wilcoxon attendu ~0,0005-0,002) : valeur possiblement erronée, non vérifiable.",
+ "Les 6 patients sans greffe/avec greffe ont été « choisis au hasard » : méthode de randomisation NR ; l'étude n'est pas un essai randomisé et les auteurs ne comparent pas les groupes statistiquement. L'affirmation « similar results with and without graft » n'est étayée que par des moyennes descriptives (quickDASH 10,9 vs 18,9 ; écart interprété comme non significatif sans test) [p. 85].",
+ "Les comparaisons à d'autres séries (Brunelli modifié, reconstruction avant-arrière, ligamentoplastie dorsale ouverte) sont indirectes (populations, stades et suivis différents) : les affirmations de supériorité ne découlent pas des données de l'étude [p. 81, 85].",
+ "Affirmation d'une « mobilisation plus précoce » permise par le FiberTape non étayée : la mobilisation du poignet n'est commencée qu'à 4 semaines, avec une immobilisation de 4 semaines, ce qui n'est pas plus précoce que d'autres protocoles décrits [p. 80, 85].",
+ "La date de publication en ligne (5 février 2025) précède le volume 2026 ; la citation retenue est celle de la revue (J Wrist Surg 2026;15:79-87)."
+]
+}

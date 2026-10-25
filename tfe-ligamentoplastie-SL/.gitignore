@@ -1,0 +1,17 @@
+# Pipeline state with the author's own words: kept local, never published
+material_passport.yaml
+material_passport_run_ledger.yaml
+.material_passport_run_ledger.yaml.lock
+# Search exports and screening work files carry publishers' abstracts: kept local, not redistributed
+etape1_recherche/phase2/exports/*.nbib
+etape1_recherche/phase2/exports/*.csv
+etape1_recherche/phase2/tri/sr_work/records.json
+etape1_recherche/phase2/tri/sr_work/raw_records.json
+etape1_recherche/phase2/tri/sr_work/batches/
+etape1_recherche/phase2/tri/pilote/pilote_titres_resumes.md
+# Screening outputs that embed publishers' abstracts: kept local
+etape1_recherche/phase2/tri/Screening_TA/*.ris
+etape1_recherche/phase2/tri/Screening_TA/*.xlsx
+etape1_recherche/phase2/tri/pdfs/
+etape1_recherche/phase2/tri/Screening_FT/*.ris
+etape1_recherche/phase2/tri/Screening_FT/*.xlsx

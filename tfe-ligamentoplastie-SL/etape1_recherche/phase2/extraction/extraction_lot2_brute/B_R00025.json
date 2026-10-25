@@ -1,0 +1,97 @@
+{
+"id": "R00025",
+"reference_vancouver": "Chambers SB, Cooke HL, Suh N, Gottschalk MB, Wagner ER. Volar-dorsal arthroscopic repair for scapholunate ligament injuries: a case series and treatment algorithm. J Wrist Surg. 2026;15(2):168-78. doi:10.1055/a-2662-1273 [p. 168]",
+"etude": {
+"pays": "Etats-Unis (Emory Clinic, Atlanta, Georgie) ; un auteur affilie au Canada (London, Ontario) [pp. 168, 169]",
+"centres_chirurgiens": "Monocentrique [p. 169, Materials and Methods]. Chirurgien(s) operateur(s) : nombre NR ; toutes evaluations par un chirurgien du membre superieur 'fellowship-trained' non nomme [p. 170, Materials and Methods]. L'auteur senior (E.R. Wagner) figure comme auteur correspondant, les figures sont 'for Eric R. Wagner' et la technique est decrite comme developpee par l'equipe [pp. 168, 172, 174] : operateur probable = concepteur de la technique (inference, non explicite)",
+"type_etude": "Serie de cas retrospective monocentrique, 8 patients, sans groupe comparateur [p. 169, Materials and Methods ; p. 168 Abstract]",
+"periode": "Arthroscopie diagnostique entre novembre 2021 et juillet 2023 [p. 168, Abstract ; p. 169]",
+"niveau_preuve": "Niveau IV / therapeutique (declare par les auteurs) [p. 169, Abstract]",
+"financement_coi": "Financement de l'etude : NR (aucune declaration). COI : E.R.W. consultant pour Stryker, Zimmer Biomet, Acumed, Osteoremedies et soutien institutionnel de Konica Minolta ; M.B.G. soutien de recherche de Stryker, Konica Minolta, Arthrex [p. 177, Conflict of Interest]",
+"enregistrement": "Pas d'enregistrement de protocole (etude retrospective, NR). Approbation IRB Emory University (00006934) [p. 177, Ethical Approval]"
+},
+"patients": {
+"n_inclus": "8 [p. 168 Abstract ; p. 169 Materials and Methods]",
+"n_analyses": "8 evalues cliniquement au dernier suivi [p. 170, Outcome Measures]",
+"perdus_de_vue": "0 explicite (8 identifies, 8 evalues) ; denominateur de depart (arthroscopies pour lesion SL sur la periode) NR [pp. 169-170]",
+"age": "Mediane 29,5 ans (18-63) [p. 172, Description of Cohort ; p. 168 Abstract]. Critere d'inclusion 'age > 18 ans' [p. 169] alors que min = 18 : voir remarques",
+"sexe": "6 hommes, 2 femmes [p. 172, Description of Cohort]",
+"cote_dominant": "Cote : 6 droits, 2 gauches [p. 168, Abstract]. Cote dominant : NR",
+"aigu_ou_chronique": "Delai depuis le traumatisme variable ('semaines a mois apres le traumatisme suspecte'), echec du traitement non operatoire requis ; delai exact par patient NR ; tous rapportent un traumatisme du poignet avec un element d'hyperextension forcee [p. 169, Materials and Methods ; p. 172, Description of Cohort]. Classification aigu/chronique non posee",
+"statique_ou_dynamique": "Instabilite pre-dynamique, sans deformation radiographique ni DISI, alignement carpien preserve, pas de diastasis [pp. 168, 169, 170]. Aucun DISI preoperatoire [p. 172, Radiograph Analysis]",
+"stade_classification": "EWAS grade 3 (IIIA/IIIB/IIIC) ; l'abstract annonce 'grade IIIA a C' [pp. 168-169]. Repartition par grade et par type de reparation (dorsale seule vs volaire-dorsale) NR par patient [pp. 168, 170]. Grades IV-V exclus [p. 170]",
+"profession_sport": "NR",
+"patients_hors_criteres": "Aucun patient SLAC, enfant ni fracture du radius mentionne. Patients avec diastasis SL exclus et traites autrement [p. 168 Abstract ; p. 170]. Un patient de 18 ans (min de la fourchette) vs critere >18 ans [pp. 169, 172]"
+},
+"chirurgie": {
+"technique": "Reparation arthroscopique capsuloligamentaire par sutures (fils non resorbables tresses 2-0) passees en 'boite' autour du LSL et des ligaments extrinseques (DIC, DRC), noeuds de Nice modifies ; reparation dorsale seule ou combinee volaire-dorsale selon la gravite [pp. 168, 171-172, 174, Surgical Repair ; Figs 6-10]",
+"famille": "Reparation directe (capsulo-ligamentaire par sutures, sans greffe) [p. 171]",
+"voie": "Arthroscopique (portails 3-4, 6R, MCU, MCR) ; la partie volaire utilise une mini-voie de Henry modifiee (petite incision cutanee au-dessus du FCR) [pp. 170-171, Surgical Technique ; Fig. 9]",
+"greffe": "Aucune",
+"broches_nb_duree": "Aucune broche mentionnee (NR / non utilisee) ; la CRPP n'apparait que dans l'algorithme pour grades V [p. 176, Table 4]",
+"autre_fixation_internal_brace": "Aucune pour les 8 cas decrits (sutures seules). Ancres de suture decrites seulement pour l'avulsion complete (IIIC) dans l'algorithme / Fig. 11, non rapportees comme utilisees chez ces 8 patients [pp. 174, 176-177]",
+"gestes_associes": "Debridement radiocarpien et exploration arthroscopique diagnostique ; anesthesie regionale ambulatoire, garrot [pp. 170, 172]. Autres gestes NR"
+},
+"reeducation": {
+"immobilisation_type_position_articulations": "Attelle gouttiere radiale (radial gutter splint) ; position du poignet et inclusion ou non des doigts/coude NR. Puis orthese amovible de poignet 4 semaines [p. 172, Postoperative Management]. En fin de chirurgie : attelle courte avant-bras volaire (volar short arm splint) posee apres fermeture [p. 172, Surgical Repair] : incoherence possible, voir remarques",
+"immobilisation_duree": "Attelle 10-14 jours puis orthese amovible 4 semaines, soit environ 6 semaines au total (somme deduite, non formulee) ; sevrage de l'orthese ensuite [p. 172, Postoperative Management]",
+"debut_mob_passive": "NR (pas de mobilisation passive decrite)",
+"debut_mob_active": "Mobilisation des doigts et de la main des l'orthese amovible (J10-14) ; mouvements doux du poignet a 6 semaines [p. 172, Postoperative Management]",
+"DTM": "NR",
+"restrictions_amplitude": "NR (aucune limite d'amplitude specifiee)",
+"debut_renforcement_muscles": "6 semaines (renforcement avec mobilisation douce du poignet, 'strengthening') [p. 172, Postoperative Management]",
+"proprioception": "NR",
+"electrostimulation": "NR",
+"mise_en_charge": "NR en dehors de 'retour a toutes les activites visee a 10-12 semaines' [p. 172]",
+"autres_restrictions": "NR",
+"criteres_progression_type": "Temporels [p. 172, Postoperative Management]",
+"criteres_progression_detail": "Delais fixes (10-14 j, 4 semaines, 6 semaines, 10-12 semaines) ; aucun critere clinique ou radiologique de progression decrit [p. 172]",
+"encadrement_kine_domicile_nb_seances": "NR (aucune mention de kinesitherapie, supervision ou programme a domicile)",
+"observance": "NR",
+"reprise_travail": "Objectif : retour a toutes les activites a 10-12 semaines (intention, sevrage de l'orthese) ; reprise reelle NR [p. 172]",
+"reprise_sport": "NR (inclus dans 'toutes activites' en intention a 10-12 semaines ; reprise reelle NR) [p. 172]"
+},
+"resultats": {
+"outil_principal_et_valeurs_par_temps": "Resultats au dernier suivi uniquement (pas de valeurs preoperatoires ni intermediaires). Medianes : DASH 4,5 (0-9), PRWE 2,5 (0-6), SWV 92,5 (80-99) [p. 172, Results]. Moyennes du Tableau 2 : DASH 4,4 ; PRWE 3,6 ; SWV (WSV) 90,5 ; VAS 0,3 [p. 173, Table 2]. Incoherence PRWE texte 2,5 (0-6) vs tableau (moy 3,6 ; valeurs 0-7) : voir remarques",
+"douleur": "VAS moyenne 0,3 (0-1) [p. 172 ; p. 173 Table 2] ; 6 patients a 0, 2 patients a 1 ; valeur preoperatoire NR",
+"mobilite": "Tableau 2 (moyennes) : flexion 81,3, extension 79,4, pronation 80, supination 80, deviation radiale 35, deviation ulnaire 41,9 degres [p. 173, Table 2]. Texte (medianes) : flexion 81,9 (75-90), extension 80 (75-90), pronation 80, supination 80, deviation radiale 36,3 (30-45), ulnaire 41,9 (35-50) [p. 172, Results]. Valeurs pre-op et cote controlateral NR ; incoherences texte/tableau, voir remarques",
+"force": "NR (force de prehension non mesuree) [p. 170, Outcome Measures]",
+"radiologie": "Pas de DISI pre ni post-operatoire ; angle SL pre 45-50 degres (moy 46,3 calcule), post 40-50 (moy 43,1 calcule), variation 0 a -10 (moy -3,1 calcule ; 4 pts a 0, 3 a -5, 1 a -10) [p. 176, Table 3 ; p. 172]. Gap/diastasis SL chiffre : NR (l'abstract parle de 'minimal change in scapholunate gapping' mais aucune mesure de gap n'est rapportee) [p. 168]",
+"taux_reprise": "NR (reprise reelle du travail/sport non rapportee)",
+"satisfaction": "NR en tant que mesure ; 'excellente fonction subjective' (SWV) [p. 168 Abstract]",
+"suivi_moyen": "18,9 mois [p. 168 Abstract] ; 'moyenne 18 mois (12-28)' [p. 170] ; '19 mois (8-28)' [p. 172 ; p. 173 Table 2 note] : incoherence, voir remarques"
+},
+"securite": {
+"complications": "NR (aucune complication rapportee ni declaration d'absence de complication)",
+"reinterventions": "NR (aucune reintervention rapportee ni declaration d'absence)"
+},
+"cles": {
+"type_etude": "Serie de cas retrospective monocentrique, niveau IV [pp. 168-169]",
+"effectif": "8 patients inclus et evalues (denominateur initial NR) [pp. 168, 170]",
+"age": "Mediane 29,5 ans (18-63) ; 6 hommes, 2 femmes [p. 172]",
+"technique": "Reparation arthroscopique capsuloligamentaire par sutures non resorbables (dorsale seule ou volaire-dorsale), EWAS IIIA-C, sans greffe [pp. 168, 171-172]",
+"broches": "Aucune mention de broches (NR) [pp. 171-172]",
+"immobilisation": "Attelle gouttiere radiale 10-14 jours puis orthese amovible 4 semaines [p. 172]",
+"debut_mobilisation": "Doigts/main des J10-14 ; poignet 'doux' a 6 semaines ; mob passive/DTM NR [p. 172]",
+"renforcement_ou_charge": "Renforcement a partir de 6 semaines ; mise en charge NR [p. 172]",
+"type_criteres_progression": "Temporels (delais fixes), aucun critere clinique [p. 172]",
+"reprise_travail_sport": "Objectif 10-12 semaines (intention) ; reprise reelle NR [p. 172]",
+"resultat_fonctionnel_principal": "Au suivi ~19 mois : DASH moy 4,4 (mediane 4,5), SWV moy 90,5, VAS 0,3, pas de comparaison pre-op [pp. 172-173]",
+"complications": "NR [p. 168-178]"
+},
+"risque_de_biais": {
+"outil": "Checklist JBI pour series de cas : un seul protocole pour tous, pas de comparaison de protocoles ni d'interventions [pp. 169-170]",
+"item_1": "O : criteres d'inclusion explicites (signes cliniques, age >18, echec du traitement conservateur, EWAS 3) [p. 169, Materials and Methods]",
+"item_2": "? : classification EWAS arthroscopique standardisee, mais 'exact clinical and radiographic findings slightly varied' et pas d'evaluation en aveugle [pp. 169-170]",
+"item_3": "O : diagnostic confirme arthroscopiquement et classe EWAS [p. 170]",
+"item_4": "? : inclusion consecutive non declaree ('eight patients were identified') [p. 169]",
+"item_5": "? : inclusion complete non declaree ; nombre total d'arthroscopies SL sur la periode inconnu [p. 169]",
+"item_6": "O (reserve) : age, sexe, cote decrits ; dominance, delai, profession/sport, grade par patient NR [pp. 168, 172]",
+"item_7": "O (reserve) : presentation clinique decrite, resultats post-op par patient ; valeurs cliniques et PROMs pre-op NR [pp. 169, 173]",
+"item_8": "O (reserve) : resultats et suivi par patient (Tables 2-3), mais suivi incoherent (8-28 vs 12-28 mois), complications NR [pp. 170, 172-173]",
+"item_9": "O : centre unique (Emory Clinic, Atlanta), periode et cadre indiques [pp. 168-169]",
+"item_10": "O : statistiques descriptives seules, adaptees a 8 patients, mais erreurs de calcul (flexion, PRWE) [pp. 170, 172-173]",
+"synthese": "Modere selon la regle fixee (aucun 'N' ; effectif < 10 mais sans 'N' ; items 4 et 5 en '?', non 'N'). Reserves importantes : si les items 4/5 etaient juges 'N', le risque serait eleve ; denominateur inconnu ; 8 patients ; pas de donnees pre-op ; evaluation par un seul chirurgien non aveugle ; operateur probablement concepteur de la technique avec COI industriels (Stryker, Zimmer, Acumed, Arthrex) ; suivi court ; complications NR ; protocole post-op decrit en 3 phrases, non standardise par des criteres [pp. 168-172, 177]"
+},
+"remarques": "1) Eligibilite : reparation arthroscopique du LSL pour lesion pre-dynamique EWAS IIIA-C, sans DISI ni diastasis (hors des lesions dynamiques/statiques usuelles) ; pas de SLAC ; 'age > 18 ans' en critere mais minimum 18 ans (18-63) [pp. 169, 172]. Un adulte jeune ; eligible probablement mais population de lesions partielles/predynamiques. 2) Le protocole de reeducation est decrit de facon tres breve (p. 172), sans kinesitherapie, DTM, proprioception ni criteres de progression ; pas propre au SL de facon documentee. 3) Incoherence d'immobilisation : attelle courte avant-bras volaire posee en fin de chirurgie [p. 172 Surgical Repair] vs attelle gouttiere radiale 10-14 jours [p. 172 Postoperative Management]. 4) Suivi moyen : 18,9 mois [p. 168] ; 18 mois (12-28) [p. 170] ; 19 mois (8-28) [p. 172, p. 173 Table 2 note]. 5) Texte vs Tableau 2 : flexion mediane 81,9 (texte) vs moyenne 81,3 (tableau) (mediane calculee des valeurs du tableau = 80) ; deviation radiale 36,3 (texte) vs moyenne 35 (tableau) ; extension 80 (texte, mediane calculee 77,5 ? : valeurs triees 75,75,75,75,80,80,85,90 -> mediane 77,5 ; 80 incorrect) ; PRWE mediane 2,5 (0-6) (texte) vs tableau valeurs 0-7, mediane calculee 3,5, moy 3,6 ; DASH mediane 4,5 coherente ; SWV mediane 92,5 coherente. Tableau 2 libelle la colonne 'WSV' alors que le texte utilise 'SWV'. 6) 'Mean' VAS 0,3 coherent avec 2/8 = 0,25. 7) L'abstract affirme 'minimal change in gapping' mais aucune mesure du gap n'est rapportee, seulement l'angle SL. 8) Les resultats post-op ne sont pas compares a des valeurs pre-op, donc aucune amelioration n'est demontree (la conclusion 'excellent outcomes and reduction of pain' [p. 169] ne decoule pas de chiffres comparatifs). 9) Renvoi 'Table 2' dans la discussion pour l'algorithme alors qu'il s'agit de la Table 4 [p. 174]. 10) Titre : dorsal et volaire, mais nombre de patients par type de reparation NR. 11) Dates : article publie en ligne 2025-08-19, numerote vol. 15 no. 2/2026 [pp. 168]."
+}

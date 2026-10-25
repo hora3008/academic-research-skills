@@ -1,0 +1,21 @@
+## ("dart thrower*" OR "dart-thrower*") 
+# count=19
+42475126 | 2026 | Hays T | A 4-Anchor Suture Tape Internal Bracing Technique for Ligamentous Perilunate Injuries. | J Am Acad Orthop Surg Glob Res Rev | Case Reports | 10.5435/JAAOSGlobal-D-25-00429
+40087097 | 2025 | Torres-Guzman RA | Hand function recovery after extended radial forearm free flap: A case series of a progressive therapy protocol. | J Hand Ther | Case Reports | 10.1016/j.jht.2025.01.002
+39893567 | 2025 | Zhang X | Carpal Kinematics in the Normal, Scapholunate Ligament Deficient, and Surgically Reconstructed Wrist. | J Orthop Res | Research Support, Non-U.S. Gov't | 10.1002/jor.26049
+39891622 | 2025 | Glanville J | Replication of Coupled Movements of the Wrist: A Cadaveric Study of Total Wrist Arthroplasty. | J Hand Surg Am |  | 10.1016/j.jhsa.2024.12.006
+38803578 | 2024 | Glanville J | Evaluation of a cadaveric wrist motion simulator using marker-based X-ray reconstruction of moving morphology. | PeerJ | Research Support, Non-U.S. Gov't,Research Support, N.I.H., Extramural | 10.7717/peerj.17179
+37493308 | 2024 | Bird EE | Trabecular bone structure of the proximal capitate in extant hominids and fossil hominins with implications for midcarpal joint loading and the dart-t | Am J Biol Anthropol | Research Support, Non-U.S. Gov't | 10.1002/ajpa.24824
+36918307 | 2023 | Bergner JL | Clinical measurement of functional dart thrower's motion in patients with unilateral wrist conditions undergoing nonoperative or postoperative hand th | J Hand Ther | Research Support, N.I.H., Extramural | 10.1016/j.jht.2022.10.012
+37573806 | 2023 | Zhang X | Scaphoid, lunate and capitate kinematics in the normal and ligament deficient wrist: A bi-plane X-ray fluoroscopy study. | J Biomech | Research Support, Non-U.S. Gov't | 10.1016/j.jbiomech.2023.111685
+37066631 | 2023 | Chen Z | Understanding the biomechanics of the forearm during the dart thrower's motion. | J Hand Surg Eur Vol | Research Support, Non-U.S. Gov't | 10.1177/17531934231166351
+36127238 | 2023 | Anderton W MS | Movement preferences of the wrist and forearm during activities of daily living. | J Hand Ther |  | 10.1016/j.jht.2022.07.003
+37006727 | 2023 | Amarasooriya M | Current Concepts in Scapholunate Instability Without Arthritic Changes. | Indian J Orthop | Review | 10.1007/s43465-023-00839-0
+40336629 | 2022 | Hogarth E | Grip strength, functional range and anthropometric dimensions, and indication on fulfilling occupations in the home and workplace: A cross-sectional s | Br J Occup Ther |  | 10.1177/03080226221083228
+33106035 | 2022 | Kadar A | How Much Scaphoid Can be Safely Resected? A Biomechanical Analysis of the Effects of Distal Scaphoid Resection. | Hand (N Y) |  | 10.1177/1558944720966717
+34670456 | 2022 | Tso ITH | Music-Assisted Training for Dart Throwing Novices: Post-Training Effects on Heart Rate and Performance Accuracy. | Percept Mot Skills | Randomized Controlled Trial | 10.1177/00315125211050629
+33451903 | 2021 | Stirling PHC | A Reference Range of Dart-Thrower's Motion at the Wrist in a Healthy Adult Population. | J Hand Surg Am |  | 10.1016/j.jhsa.2020.10.035
+32585637 | 2020 | Flindall J | The Quiet Eye and Expertise: Sustained Fixations Do Not Transfer to Unpracticed Throws Among Expert Dart Players. | J Sport Exerc Psychol |  | 10.1123/jsep.2019-0217
+32531968 | 2020 | Arbinaga F | Influence of Music on Closed Motor Skills: A Controlled Study with Novice Female Dart-Throwers. | Int J Environ Res Public Health | Randomized Controlled Trial | 10.3390/ijerph17114146
+32000569 | 2020 | Elajnaf M | The effect of surgery for basal osteoarthritis of the thumb on dart thrower's motion. | J Hand Surg Eur Vol |  | 10.1177/1753193419900854
+30879716 | 2020 | Bergner JL | Dart thrower's motion and the injured scapholunate interosseous ligament: A scoping review of studies examining motion, orthoses, and rehabilitation. | J Hand Ther | Scoping Review | 10.1016/j.jht.2018.09.005

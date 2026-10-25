@@ -1,0 +1,19 @@
+## (scapholunate OR scapho-lunate) AND (ligamentoplasty OR tenodesis OR Brunelli OR "3LT" OR "three-ligament" OR "SLAM" OR "SLITT" OR capsulodesis OR "ligament reconstruction") AND (systematic review[pt] OR meta-analysis[pt] OR review[pt])
+# count=17
+42796313 | 2026 | Roh YT | Arthroscopic Treatment of Scapholunate Instability: A Stage- and Ligament-Based Narrative Review. | Medicina (Kaunas) | Review | 10.3390/medicina62091706
+41637588 | 2025 | Abola MV | Scapholunate ligament injuries in the nonarthritic wrist. | Bull Hosp Jt Dis (2013) | Review | 10.1097/bh9.0000000000000002
+40895176 | 2025 | Räisänen MP | Challenges and complications of trans-osseous carpal tenodesis for scapholunate ligament tears. | J Hand Microsurg | Review | 10.1016/j.jham.2025.100338
+40878732 | 2025 | Terras C | Comparing outcomes of dorsal capsulodesis techniques for chronic (pre-)dynamic scapholunate interosseus ligament tear repair: A systematic review. | Acta Orthop Belg | Systematic Review,Comparative Study | 10.52628/91.2.14437
+39674944 | 2025 | Kakar S | Minimally Invasive Radiolunate Imbrication Neutralization (MIRLIN) Procedure. | J Hand Surg Am | Review | 10.1016/j.jhsa.2024.10.019
+40833339 | 2024 | Zelenski NA | Lunotriquetral Instability: Diagnosis, Management, and Current Concept Review. | J Am Acad Orthop Surg | Review | 10.5435/JAAOS-D-22-00703
+39440500 | 2024 | DE Schepper T | Surgical repair of posttraumatic injuries of the scapholunate ligament: A literature study. | Acta Orthop Belg | Review | 10.52628/90.2.12790
+38800268 | 2024 | Maris S | Scapholunate Advanced Collapse (SLAC) and Scaphoid Nonunion Advanced Collapse (SNAC): A Review of Treatment Options for Stage II. | Cureus | Review | 10.7759/cureus.59014
+37578401 | 2023 | Wessel LE | Scapholunate Instability: Diagnosis and Management - Classification and Treatment Considerations - Part 2. | J Hand Surg Am | Review | 10.1016/j.jhsa.2023.06.016
+37453765 | 2023 | Starr BW | InternalBrace for Intercarpal Ligament Reconstruction. | Hand Clin | Review,Research Support, Non-U.S. Gov't | 10.1016/j.hcl.2023.02.008
+37254251 | 2023 | Kang SH | A Novel Surgical Technique for Neglected Volar Dislocation of the Lunate: Cases Report and Literature Review. | Orthop Surg | Review,Case Reports | 10.1111/os.13760
+37004985 | 2023 | Dréant N | Treatment of chronic scapholunate instability according to the functional demand of the wrist. | Hand Surg Rehabil | Review | 10.1016/j.hansur.2023.03.003
+35608691 | 2023 | Imada AO | Review of surgical treatment for chronic scapholunate ligament reconstruction: a long-term study. | Eur J Orthop Surg Traumatol | Review | 10.1007/s00590-022-03294-z
+37006727 | 2023 | Amarasooriya M | Current Concepts in Scapholunate Instability Without Arthritic Changes. | Indian J Orthop | Review | 10.1007/s43465-023-00839-0
+35965143 | 2022 | Lui H | Arthroscopic-Assisted Volar Scapholunate Capsulodesis: A New Technique. | J Hand Surg Am | Review | 10.1016/j.jhsa.2022.05.018
+31739882 | 2020 | Mullikin I | Current Techniques in Scapholunate Ligament Reconstruction. | Orthop Clin North Am | Review | 10.1016/j.ocl.2019.09.002
+30027766 | 2020 | Daly LT | Chronic Scapholunate Interosseous Ligament Disruption: A Systematic Review and Meta-Analysis of Surgical Treatments. | Hand (N Y) | Meta-Analysis,Systematic Review | 10.1177/1558944718787289

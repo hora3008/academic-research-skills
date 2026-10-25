@@ -1,0 +1,28 @@
+{
+ "stage": "ta",
+ "tool": "sr-screener 1.0.0",
+ "complete": true,
+ "pending_records": 0,
+ "state_problems": [],
+ "identified_by_database": {
+  "Europe PMC": 466,
+  "PEDro": 4,
+  "PubMed/MEDLINE": 531
+ },
+ "identified_total": 1001,
+ "duplicates_removed": 439,
+ "records_screened": 562,
+ "records_to_screen": 562,
+ "records_excluded": 487,
+ "excluded_by_code": {
+  "E1": 233,
+  "E2": 86,
+  "E3": 156,
+  "E4": 11,
+  "E9": 1
+ },
+ "reports_sought_for_retrieval": 75,
+ "advanced_include": 55,
+ "advanced_unclear": 20,
+ "advanced_outside_allowed_languages": 5
+}

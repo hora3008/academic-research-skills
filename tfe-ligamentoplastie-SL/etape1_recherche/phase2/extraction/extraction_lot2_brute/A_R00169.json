@@ -1,0 +1,100 @@
+{
+ "id": "R00169",
+ "reference_vancouver": "Sarcon AK, Pino PA, Cantwell SR, Selim O, Moran SL. Long-term functional outcomes after volar capsulodesis for treatment of scapholunate ligament injuries: an 18-year experience. J Wrist Surg. 2026;15(4):371-379. doi:10.1055/a-2686-1118 [p. 371]",
+ "etude": {
+  "pays": "États-Unis (Mayo Clinic, Rochester, Minnesota) [p. 371, affiliations; pays implicite, NR explicitement]",
+  "centres_chirurgiens": "Mono-centre (institution unique) ; toutes les interventions par le chirurgien senior (SLM = Moran, dernier auteur), qui a conçu/décrit la technique (réf. 5 cadavérique + cas) [p. 372, Materials and Methods ; p. 371]",
+  "type_etude": "Série de cas rétrospective mono-centrique (revue de dossiers) avec recueil prospectif des DASH/PRWE par téléphone/courrier ; étude observationnelle [p. 371 Abstract ; p. 372]",
+  "periode": "2004-2022 (18 ans) ; chirurgies 2004-2022 [p. 372 ; Table 1 p. 374]",
+  "niveau_preuve": "Niveau IV, série de cas [p. 372, Abstract]",
+  "financement_coi": "Financement : 'institutional support for funds' ; conflits d'intérêts : aucun déclaré [p. 378, Funding / Conflict of Interest]",
+  "enregistrement": "NR (approbation du comité d'éthique institutionnel obtenue, numéro NR ; pas d'enregistrement de protocole) [p. 372]"
+ },
+ "patients": {
+  "n_inclus": "28 inclus sur 46 dépistés ; 18 exclus (1 incarcéré, 5 Brunelli concomitant, 2 mineurs, 3 luxation périlunaire, 4 refus, 3 non-répondeurs) [p. 374, Fig. 2]",
+  "n_analyses": "Variable selon le critère : PRO (DASH/PRWE) n=19 ; radiologie n=14 (suivi radiologique >= 4 mois) ; force de préhension n=14 ; déviation radiale n=13 ; ROM n NR explicitement (suivi moyen 31,6 mois) [p. 371 Abstract ; p. 374-375 ; Table 2 p. 375, Table 3 p. 375]",
+  "perdus_de_vue": "9/28 (32 %) non candidats aux questionnaires PRO ('Candidate for Surveys: No') ; 14/28 sans suivi radiologique >= 4 mois ; raison de non-éligibilité NR [p. 374 Fig. 2 ; p. 375 Table 3]",
+  "age": "Moyenne 35,1 ans (ET 15,7) ; étendue NR ; mineurs exclus ; volaire seul 29,5 +/- 12,7 vs volaire+dorsal 39,9 +/- 16,8 (p=0,0781) [p. 374 Table 1 ; p. 376 Table 4]",
+  "sexe": "15 femmes (53,6 %) / 13 hommes (46,4 %) [p. 374, Table 1]",
+  "cote_dominant": "Droitiers 26/28 (92,9 %), gauchers 2 ; côté lésé droit 14 / gauche 14 ; atteinte du côté dominant NR [p. 374, Table 1]",
+  "aigu_ou_chronique": "Aigu (<= 6 sem) 8/28 (28,6 %) ; chronique (> 6 sem) 20/28 (71,4 %) [p. 374 Table 1 ; définition p. 372]. Remarque : Abstract dit '>= 6 semaines', Methods '<= 6 sem' pour aigu",
+  "statique_ou_dynamique": "Statique 8/28 (28,6 %), dynamique/prédynamique 20/28 (71,4 %), selon radiographies standard (pas de vues en contrainte) [p. 374 Table 1 ; p. 372]",
+  "stade_classification": "Arthroscopie : lésion volaire isolée = Geissler III (13/28) ; volaire+dorsale = Geissler IV (15/28). Stade Geissler par patient NR ; classification Garcia-Elias/Watson/SLAC NR [p. 372 ; p. 374 Table 1]",
+  "profession_sport": "Accident du travail (workers' compensation) 7/28 (25 %) ; fumeurs 4/28 (14,3 %) ; fracture concomitante 8/28 (28,6 %) ; mécanisme faible énergie 17 / haute énergie 9 (total 26, 2 NR) ; sport/profession détaillés NR ; 6 sur 13 non sportifs (DASH sport) [p. 374 Table 1 ; p. 375 Table 2]",
+  "patients_hors_criteres": "Aucun mineur (exclus) ; SLAC NR (aucune mention d'arthrose, mais lésions chroniques 71 % : stade arthrosique non précisé) ; sous-groupes séparables : volaire isolé n=13 vs volaire+dorsal n=15 ; statique n=8 vs dyn/prédynamique n=20 [p. 372 ; p. 376 Table 4]"
+ },
+ "chirurgie": {
+  "technique": "Capsulodèse volaire du SL par transposition d'une bandelette distale du ligament radio-lunaire long (LRL) fixée au pôle proximal du scaphoïde par ancre de suture ('volar scapholunate interosseous ligament capsulodesis', reconstruction du SLIL volaire) ; +/- réparation dorsale [p. 371 Abstract ; p. 372-373]",
+  "famille": "Capsulodèse (volaire) / reconstruction ligamentaire par transposition du LRL (autre) ; sans greffe tendineuse ni tunnel osseux [p. 372-373 ; p. 377 Discussion]",
+  "voie": "Arthroscopie diagnostique (portails radio- et médiocarpiens) puis incision ouverte volaire sur le flexor carpi radialis ; réparation dorsale par capsulotomie épargnant les ligaments [p. 372-373]",
+  "greffe": "Pas de greffe tendineuse ; bandelette distale du LRL transposée (autologue locale) [p. 372]",
+  "broches_nb_duree": "2 broches K (scaphoïde et lunatum) via petite incision au styloïde radial ; retirées à 6 semaines [p. 373]",
+  "autre_fixation_internal_brace": "Ancre de suture dans le pôle proximal du scaphoïde ; pas d'internal brace ; pas de tunnel osseux [p. 372-373 ; p. 377]",
+  "gestes_associes": "Volaire+dorsal 15/28 : capsulodèse dorsale (technique de Moran) + neurectomie de l'interosseux postérieur ; fermeture du retinaculum des extenseurs ; pas de neurectomie antérieure [p. 372-373 ; p. 377]. Brunelli ou autre tunnel osseux = critères d'exclusion"
+ },
+ "reeducation": {
+  "immobilisation_type_position_articulations": "Attelle sucre-d'orge (sugar-tong) environ 2 semaines puis plâtre court brachio-antébrachial 'short-arm cast' 4 semaines ; position du poignet NR ; broches en place [p. 373]",
+  "immobilisation_duree": "Environ 6 semaines au total (2 sem attelle + 4 sem plâtre) ; ablation des broches à 6 semaines [p. 373]",
+  "debut_mob_passive": "NR [p. 373]",
+  "debut_mob_active": "NR ; la kinésithérapie ('physical therapy') débute à l'ablation des broches, soit 6 semaines [p. 373]",
+  "DTM": "NR",
+  "restrictions_amplitude": "NR",
+  "debut_renforcement_muscles": "NR (aucune précision sur le renforcement)",
+  "proprioception": "NR",
+  "electrostimulation": "NR",
+  "mise_en_charge": "Pas d'appui en charge sur le poignet pendant 12 semaines [p. 373]",
+  "autres_restrictions": "NR",
+  "criteres_progression_type": "Temporels (délais fixes ; aucun critère clinique mentionné) [p. 373]",
+  "criteres_progression_detail": "Étapes fixes : attelle 2 sem, plâtre 4 sem, broches retirées 6 sem, kiné après 6 sem, pas de charge 12 sem [p. 373]",
+  "encadrement_kine_domicile_nb_seances": "NR (protocole de kiné non détaillé)",
+  "observance": "NR",
+  "reprise_travail": "15/19 (78,9 %) de retour à l'emploi antérieur parmi les patients répondant aux PRO ; délai NR ; DASH-travail n=15, 4 sans emploi [p. 372 Abstract ; p. 374 ; p. 375 Table 2 note a]",
+  "reprise_sport": "NR (délai/taux de reprise non rapportés) ; DASH-sport/arts 31,7 +/- 36,6 (n=13, 6 non sportifs) [p. 375 Table 2]"
+ },
+ "resultats": {
+  "outil_principal_et_valeurs_par_temps": "DASH et PRWE, mesurés une seule fois (téléphone/courrier), pas de valeurs pré-opératoires ; n=19 ; suivi moyen 86,9 mois (ET 48,5 ; min 35) : DASH total 16,4 +/- 17,8 ; DASH-travail 10 +/- 20,2 (n=15) ; DASH-sport 31,7 +/- 36,6 (n=13) ; PRWE 24,6 +/- 23,6. Volaire seul (n=9) vs volaire+dorsal (n=10) : DASH 27,6 +/- 20,0 vs 6,3 +/- 6,3 (p=0,0055) ; PRWE 37,9 +/- 24,0 vs 12,7 +/- 16,4 (p=0,0158) [p. 374-376 ; Tables 2, 5]. Régression : DASH et PRWE meilleurs avec atteinte volaire+dorsale, indépendamment du statut statique/dynamique (coef PRWE -25,25, p=0,018 ; IC95 -45,55 à -4,96 ; coefficient DASH -52 024, p=0,033, échelle cubique transformée) [p. 377 Table 6]",
+  "douleur": "EVA/échelle de douleur NR ; douleur persistante nécessitant une chirurgie secondaire chez 2 patients (4-corner fusion ou arthrodèse totale) à une médiane de 48 mois ; 1 patient avec douleur persistante ayant refusé la reprise [p. 375]",
+  "mobilite": "Post-op seulement (pas de ROM pré-op, suivi moyen 31,6 mois +/- 29,1, min 4 mois) : pronation/supination 83/83 degrés, flexion/extension 56/61 degrés, inclinaison ulnaire 30, radiale 19 (n=13). RD dyn/prédyn 22,9 +/- 6,8 vs statique 11,8 +/- 6,5 (p=0,018) ; autres ROM comparables. Volaire seul vs volaire+dorsal : flexion 59 vs 53 degrés (p=0,651), extension 71 vs 53 degrés (p=0,190) [p. 374-375 ; p. 377]",
+  "force": "Force de préhension 78,8 % du côté sain (ET 30,4), n=14, suivi moyen 36,8 mois (+/- 40,5 ; min 4) [p. 375]",
+  "radiologie": "n=14, suivi médian 48,5 mois (IQR 7-85). Écart SL moyen 2,1 +/- 1,1 mm pré, 2,1 +/- 1,1 mm post (p=0,775) ; angle SL 55,6 -> 58,8 degrés (p=0,218) ; statique (n=6) 57,5->59,8 (p=0,709), dyn/prédyn (n=8) 54,2->58,0 (p=0,024) ; CL 10,3->10,9 ; RL 10,7->10,9 degrés. Diastasis persistant > 3 mm : 2 patients (aucun SL widening en dynamique, p=0,165) ; aucune translocation ulnaire du lunatum, aucune nécrose avasculaire scaphoïde/lunatum [p. 371 ; p. 375 Table 3 ; p. 377]",
+  "taux_reprise": "Retour au travail antérieur 15/19 (78,9 %) [p. 372 ; p. 374]. Réintervention : 2/28 (voir sécurité)",
+  "satisfaction": "NR (pas d'échelle de satisfaction ; les auteurs parlent de 'satisfactory scores' à partir du DASH/PRWE) [p. 378]",
+  "suivi_moyen": "86,3 mois (ET 53,4 ; min 11) pour l'ensemble (n=28) ; PRO n=19 : 86,9 mois (ET 48,5 ; min 35) ; ROM : 31,6 mois (min 4) ; force : 36,8 mois ; radio : médiane 48,5 mois [p. 371 ; p. 374-375 ; Table 1]"
+ },
+ "securite": {
+  "complications": "2/28 (7 %) infections du site opératoire, toutes deux dans le groupe volaire+dorsal (0 vs 13,3 % ; p=0,484) ; pas de nécrose avasculaire, de translocation ulnaire ni d'élargissement SL secondaire rapportés [p. 375 ; p. 376 Table 4 ; p. 377]. Complications sur broches NR",
+  "reinterventions": "2/28 (7,1 %) : douleur persistante, chirurgie secondaire (arthrodèse des quatre os ou arthrodèse totale du poignet) à une médiane de 48 mois ; 1 patient volaire seul et 1 volaire+dorsal (Table 4) ; un 3e patient proposé mais refus [p. 375 ; p. 376 Table 4]"
+ },
+ "cles": {
+  "type_etude": "Série de cas rétrospective mono-centrique, niveau IV, 2004-2022, suivi PRO prospectif [p. 371-372]",
+  "effectif": "28 inclus (sur 46), analysés 19 (PRO), 14 (radio, force), n de ROM NR [p. 374-375]",
+  "age": "35,1 ans (ET 15,7) ; mineurs exclus ; étendue NR [p. 374 Table 1]",
+  "technique": "Capsulodèse volaire par transposition d'une bandelette du LRL + ancre scaphoïde (+/- capsulodèse dorsale et neurectomie PIN chez 15/28), ouvert après arthroscopie [p. 372-373]",
+  "broches": "2 broches K scaphoïde-lunatum, retirées à 6 sem [p. 373]",
+  "immobilisation": "Attelle sucre-d'orge ~2 sem puis plâtre court 4 sem (total ~6 sem) [p. 373]",
+  "debut_mobilisation": "Kinésithérapie à partir de 6 sem (ablation des broches) ; mobilisation passive/active précoce NR [p. 373]",
+  "renforcement_ou_charge": "Renforcement NR ; pas d'appui en charge pendant 12 sem [p. 373]",
+  "type_criteres_progression": "Temporels (délais fixes) [p. 373]",
+  "reprise_travail_sport": "Travail 15/19 (78,9 %) ; sport NR [p. 372 ; p. 374]",
+  "resultat_fonctionnel_principal": "DASH 16,4 +/- 17,8 et PRWE 24,6 +/- 23,6 à 86,9 mois (n=19) ; grip 78,8 % du côté sain (n=14) ; flexion/extension 56/61 degrés [p. 374-375]",
+  "complications": "2 infections du site opératoire (7 %) ; 2 reprises chirurgicales pour douleur persistante (7 %) [p. 375 ; p. 376 Table 4]"
+ },
+ "risque_de_biais": {
+  "outil": "Checklist JBI pour séries de cas : série mono-centrique, un seul protocole post-opératoire pour tous, aucune comparaison de protocoles (les comparaisons statique/dynamique et volaire/volaire+dorsal sont des analyses de sous-groupes post hoc, pas des interventions comparées).",
+  "items": {
+   "1_criteres_inclusion_clairs": "O : patients avec lésion SL volaire documentée à l'arthroscopie ayant eu capsulodèse volaire +/- dorsale ; exclusions listées (non-répondeurs, mineurs, incarcérés, luxation périlunaire, Brunelli/tunnel osseux) [p. 372]",
+   "2_pathologie_mesure_standard": "? : Geissler à l'arthroscopie mais statique/dynamique sur radiographies standard sans vues en contrainte (aucun stress view) ; stade par patient NR [p. 372]",
+   "3_methode_identification_valide": "? : identification par dossier médical électronique ; critères de requête NR [p. 372]",
+   "4_inclusion_consecutive": "? : 'consecutive' non indiqué ; 46 dépistés dont 28 inclus, filtres variés [p. 372 ; p. 374 Fig. 2]",
+   "5_inclusion_complete": "N : 18/46 exclus dont 4 refus et 3 non-répondeurs ; seuls 19/28 (68 %) ont des PRO, 14/28 (50 %) une évaluation radio/force, n de ROM NR ; raison de non-éligibilité aux questionnaires NR [p. 374 Fig. 2 ; p. 375]",
+   "6_demographie_decrite": "O : Table 1 (âge, sexe, dominance, chronicité, fumeur, mécanisme) [p. 374]",
+   "7_donnees_cliniques_decrites": "? : pas de ROM ni de DASH/PRWE pré-opératoires, ROM post-op à n non précisé ; protocole de rééducation peu détaillé (mob, renforcement NR) [p. 372 ; p. 378 Limitations]",
+   "8_resultats_suivi_decrits": "O avec réserves : résultats cliniques, radiologiques, complications décrits ; durée de suivi variable (min 4-11 mois, SD 53 mois), inconsistant selon critère [p. 371 ; p. 374-375]",
+   "9_centre_contexte_decrits": "? : Mayo Clinic, chirurgien unique, 2004-2022 ; démographie du site/volume NR [p. 371-372]",
+   "10_analyse_statistique_adaptee": "? : tests appropriés (Wilcoxon, Fisher) mais sous-groupes très petits (n=6-8, 9-10), régression à n=19 avec 2 covariables, coefficients DASH sur échelle cubique transformée peu interprétables, pas de correction multiple ; auteurs reconnaissent l'absence de puissance [p. 373 ; p. 377-378]"
+  },
+  "synthese": "modéré à élevé : item 5 = N avec 9/28 (32 %) non évalués pour les PRO (et 14/28, 50 %, sans suivi radiologique/force) soit > 30 % de patients non évalués ; un seul N parmi 4, 5, 7 donc pas 'élevé' (mais items 4 et 7 = ?, qui pourraient basculer vers 'élevé' si l'inclusion non consécutive ou les données cliniques incomplètes se confirmaient). n=28 (>=10).",
+  "reserves": "Chirurgien concepteur de la technique et seul opérateur (réf. 5, auteur Moran) ; biais de survie et de rappel (PRO uniquement tardifs, pas de baseline) ; dénominateur de l'analyse ROM inconnu ; hétérogénéité (volaire isolé vs volaire+dorsal, aigu/chronique, 15 avec neurectomie PIN) ; COI : aucun déclaré, financement institutionnel ; pas de groupe de comparaison, donc pas d'inférence sur l'effet de la rééducation."
+ },
+ "remarques": "1) Éligibilité : protocole propre à la chirurgie SL (oui) ; mais la rééducation est très peu détaillée (pas de DTM, proprioception, renforcement, critères) ; le 'protocole' = immobilisation 6 sem + broches + kiné après 6 sem + pas de charge 12 sem. Cette étude est donc surtout utile pour l'immobilisation/résultats d'une capsulodèse volaire. Âge : mineurs exclus ; étendue d'âge NR (donc pas de risque <18 ans) ; SLAC NR, 71 % chroniques : possible SLAC léger non exclu [p. 372 ; p. 374]. 2) Incohérences : (a) suivi minimum 'minimum 11 mois' (Abstract/Table 1, n=28) vs 'minimum 4 mois' (ROM, p. 374-375) vs 'minimum 35 mois' (PRO) ; moyenne 86,3 vs 86,9 mois (PRO) ; Table 2 'Total prospective F/U 86,9 mo ± 48,5' vs Table 1 '86,3 ± 53,4' [p. 371 ; p. 374-375]. (b) Texte p. 375 : diastasis SL persistant > 3 mm chez 2 patients 'tous du groupe statique initial' (2/6 = 33,3 % d'après l'Abstract, n=6 statiques en radio) ; p. 377 : 'The two patients with persistent SL diastasis had complete tears' (= volaire+dorsal, groupe qui n'a pas d'interprétation unique) vs Table 4 où les 2 patients réopérés sont 1 volaire seul + 1 volaire+dorsal ; p. 375 'Two of these patients had complete tears..., and one of them had an isolated volar injury' est internement contradictoire (déchirure complète = volaire+dorsale). (c) Table 3 : écart SL moyen statique = 3,0 -> 2,6 mm (< 3 mm) alors que 2 patients avaient une persistance > 3 mm ; l'écart SL moyen de l'ensemble (2,1 mm) est inférieur aux seuils de diastasis, ce qui interroge l'indication. (d) Abstract : aigu = '>= 6 semaines' (texte p. 371 'presented >= 6 weeks postinjury') vs Methods : aigu <= 6 sem ; Table 1 : <6 sem n=8, >6 sem n=20 ; cas à exactement 6 sem non classé. (e) Table 4 'High energy 4 (30.1%)' sur 13 = 30,8 % ; mécanisme faible/haute énergie sommant 26 (2 NR). (f) Pas de DASH/PRWE pré-opératoires ; 'low disability' conclu sans comparaison. (g) Conclusion 'safe procedure with acceptable complication rate' : 2 infections + 2 reprises (4/28 = 14 % événements indésirables chirurgicaux, non 7 % ; les auteurs citent 7 % en ne comptant que les infections) [p. 377]. (h) Les 4 sans emploi (Table 2 note a) : 'returned to prior work 15/19' signifie donc sans doute 15/19 dont 4 non-emploi non exclus du dénominateur ; dénominateur ambigu [p. 375]. (i) Régression DASH : coefficient -52 024 pour une échelle 0-100, valeur inexploitable (transformation cubique) [p. 377 Table 6]. 3) Les différences volaire vs volaire+dorsal (DASH 27,6 vs 6,3) reposent sur n=9 vs 10 avec suivi différent (67,0 vs 104,8 mois, p=0,120) : confusion possible (les auteurs ne l'ajustent pas) ; la supériorité de la réparation volaire+dorsale n'est pas démontrée. 4) Les auteurs concluent à une procédure 'safe' et 'acceptable' ; sans groupe de comparaison ni baseline, ces affirmations ne sont étayées que par des taux de complication bruts. 5) Sous-groupes séparables : volaire n=13 / volaire+dorsal n=15 (Table 4) ; statique n=8 / dyn-prédyn n=20 ; PRO volaire n=9 / volaire+dorsal n=10 (Table 5) ; radio statique n=6 / dyn n=8 (Table 3) [p. 374-376]."
+}

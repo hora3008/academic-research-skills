@@ -1,0 +1,99 @@
+{
+"id": "R00149",
+"reference_vancouver": "Erdag Y, Pehlivanoglu T. Dorsal scapholunate ligament reconstruction by using palmaris longus tendon graft in chronic static scapholunate dissociations: does it yield favorable radiographic and functional results? J Wrist Surg. 2023;12(4):345-52. doi:10.1055/s-0042-1759729 [p. 345]",
+"etude": {
+ "pays": "Turquie (Istanbul) [p. 345, affiliations]",
+ "centres_chirurgiens": "Centre unique ; les deux auteurs sont chirurgiens orthopédistes (Emsey Hospital et Liv Hospital, Istanbul) ; l'opérateur n'est pas nommé, évaluation clinique par « un chirurgien de la main senior » ; nombre de chirurgiens opérateurs NR [p. 345 ; p. 346 Patients and Methods ; p. 346 Clinical and Functional Outcome Measures]",
+ "type_etude": "Série de cas rétrospective monocentrique, un seul bras, sans groupe contrôle (limite reconnue par les auteurs) [p. 346 Patients and Methods ; p. 351 limitations]",
+ "periode": "Patients opérés entre 2016 et 2017 ; suivi moyen 69,4 mois [p. 346 ; p. 345 Abstract]",
+ "niveau_preuve": "Niveau IV (déclaré par les auteurs) [p. 345 Abstract]",
+ "financement_coi": "Financement : aucun ; conflits d'intérêts : aucun déclaré [p. 351 Funding, Conflict of Interest]",
+ "enregistrement": "NR (approbation du comité d'éthique institutionnel mentionnée, numéro NR ; consentement écrit des patients) [p. 346 ; p. 351 Ethical Approval]"
+},
+"patients": {
+ "n_inclus": "42 patients inclus (74 patients consécutifs opérés pour dissociation SL ; 9 aigus exclus ; 23 autres exclus ; 42 retenus) [p. 346 Patients and Methods ; p. 347 Fig. 1]",
+ "n_analyses": "42 (NR de perte explicite ; analyse sur les 42) [p. 349 Table 2 ; p. 349 Results]",
+ "perdus_de_vue": "NR (aucune perte rapportée ; critère d'inclusion = suivi ≥ 36 mois, aucun exclu pour suivi < 36 mois dans le texte ni la Fig. 1) [p. 346 Table 1 ; p. 347 Fig. 1]",
+ "age": "Moyenne 44,1 ans (étendue 26-53) [p. 349 Table 2] ; écart-type NR",
+ "sexe": "16 femmes, 26 hommes [p. 348 Results ; p. 349 Table 2]",
+ "cote_dominant": "Côté droit 24 (57 %), gauche 18 (43 %) ; poignet atteint du côté dominant : 31 (74 %) [p. 349 Table 2]",
+ "aigu_ou_chronique": "Chronique (> 6 semaines) ; délai moyen lésion-chirurgie 14,2 mois (4-30) ; les aigus (n=9) étaient exclus [p. 346 ; p. 349 Table 2]",
+ "statique_ou_dynamique": "Statique et réductible pour tous ; dynamiques exclus (n=6 selon le texte) [p. 346 Patients and Methods ; p. 346 Table 1]",
+ "stade_classification": "Garcia-Elias stade 4 (chronique, statique, réductible, sans lésion chondrale, confirmé par arthro-scanner) ; aucun SLAC (SLAC II et III exclus) [p. 346 ; p. 349 Results]",
+ "profession_sport": "8 patients (19 %) travail de force ; les autres sans port de charge lourde par le poignet. Mécanisme : sport 21, accident de la route 13, chute de hauteur 6, travail de force 2 ; niveau sportif NR [p. 348-349 Results ; p. 349 Table 2]",
+ "patients_hors_criteres": "Aucun parmi les 42 (SLAC, dynamiques, instabilités combinées, fractures du radius et lésions chondrales exclus ; âge min 26 ans donc pas de mineur). Pas de sous-groupe à séparer [p. 346 ; p. 349 Table 2]"
+},
+"chirurgie": {
+ "technique": "Reconstruction dorsale du ligament SL par greffe libre de long palmaire (PL), inspirée d'une modification de la ténodèse à trois ligaments (3LT) de Garcia-Elias, sans utilisation du FCR ; tunnels dorso-palmaires de 2,5 mm dans scaphoïde et lunatum, greffe passée de dorsal à palmaire puis fixée par une vis par tunnel ; réduction contrôlée à l'amplificateur ; anesthésie générale, garrot [p. 347 Surgical Technique ; p. 350 Discussion]",
+ "famille": "Greffe tendineuse (ténodèse/reconstruction dorsale type 3LT modifiée, sans FCR) [p. 347 ; p. 350]",
+ "voie": "Ouverte dorsale (incision longitudinale entre 3e et 4e compartiments), avec arthroscopie diagnostique préalable systématique ; incision palmaire uniquement pour le prélèvement du PL [p. 347 Surgical Technique]",
+ "greffe": "Long palmaire libre, autogreffe prélevée à l'éplucheur, suturée type Kessler modifié [p. 347 Surgical Technique]",
+ "broches_nb_duree": "Deux broches de Kirschner temporaires peropératoires (dérotation du lunatum, fixation lunatum-radius dorsal) ; nombre/durée post-opératoire et date d'ablation NR (aucune broche postopératoire mentionnée) [p. 347 Surgical Technique]",
+ "autre_fixation_internal_brace": "Deux vis canulées en titane de 2,5 mm (Arthrex), une dans chaque tunnel, poignet en déviation radiale ; pas d'internal brace [p. 347 Surgical Technique]",
+ "gestes_associes": "Arthroscopie diagnostique préalable ; pas d'autre geste (capsulodèse combinée volaire-dorsale exclue) [p. 347 ; p. 346 Patients and Methods]. Durée opératoire moyenne 110,4 min (72-135), séjour 2,3 j (2-4) [p. 349 Table 2]"
+},
+"reeducation": {
+ "immobilisation_type_position_articulations": "Attelle plâtrée volaire 5 jours, puis plâtre court antébrachial en fibre de verre avec écharpe ; position du poignet NR ; articulations adjacentes (coude, pouce) NR [p. 347 Postoperative (Rehabilitation) Protocol]",
+ "immobilisation_duree": "5 jours + 6 semaines supplémentaires (environ 6 semaines et 5 jours au total) [p. 347 Postoperative Protocol]",
+ "debut_mob_passive": "NR (kinésithérapie du poignet débutée après ablation du plâtre, sans précision passif/actif) [p. 347 Postoperative Protocol]",
+ "debut_mob_active": "NR (kinésithérapie du poignet débutée après ablation du plâtre, soit vers 6-7 semaines ; type de mobilisation NR) [p. 347 Postoperative Protocol]",
+ "DTM": "NR",
+ "restrictions_amplitude": "NR",
+ "debut_renforcement_muscles": "NR en tant que tel ; retour aux activités quotidiennes à 3 mois, port de charges lourdes ou sports de contact après 6 mois [p. 347 Postoperative Protocol]",
+ "proprioception": "NR",
+ "electrostimulation": "NR",
+ "mise_en_charge": "NR en détail ; activités quotidiennes autorisées à 3 mois, charges lourdes/sports de contact après 6 mois [p. 347]",
+ "autres_restrictions": "Écharpe pendant la période de plâtre de 6 semaines ; pas d'autre restriction [p. 347]",
+ "criteres_progression_type": "Temporels (calendrier fixe : 5 j, 6 semaines, 3 mois, 6 mois) [p. 347 Postoperative Protocol]",
+ "criteres_progression_detail": "Aucun critère clinique ou radiologique de progression décrit ; seulement des échéances temporelles [p. 347]",
+ "encadrement_kine_domicile_nb_seances": "Séances de physiothérapie du poignet sous contrôle d'un physiothérapeute pendant au moins 3 mois ; nombre de séances, programme à domicile NR ; les auteurs évoquent un « protocole intensif de kinésithérapie postopératoire » et une « cessation précoce de l'attelle » sans plus de détail [p. 347 ; p. 350 Discussion]",
+ "observance": "NR",
+ "reprise_travail": "Retour à la routine quotidienne autorisé à 3 mois ; taux réel de reprise du travail et délai NR [p. 347]",
+ "reprise_sport": "Charges lourdes et/ou sports de contact autorisés après 6 mois ; taux réel de reprise NR [p. 347]"
+},
+"resultats": {
+ "outil_principal_et_valeurs_par_temps": "Pré-op -> dernier suivi (moyenne 69,4 mois) : EVA repos 5,1 (4-7) -> 0,2 (0-2) ; EVA effort 7,8 (6-9) -> 1,4 (0-4) ; DASH 61,4 (53,2-78,4) -> 11,6 (0-31,4) ; Mayo Wrist 57,6 (36,3-61,7) -> 85,4 (71,4-100) ; SF-36 PCS 45,13 -> 56,4 ; MCS 46,2 -> 54,6 ; tous p<0,001. Mesures uniquement pré-opératoire et dernier suivi (pas de temps intermédiaires) [p. 349 Table 3 ; p. 347 Clinical and Functional Outcome Measures]",
+ "douleur": "EVA repos 5,1 -> 0,2 ; EVA effort 7,8 -> 1,4 (p<0,001) [p. 349 Table 3]",
+ "mobilite": "Flexion 54 -> 58° (p=0,24) ; extension 50 -> 52° (p=0,41) ; inclinaison radiale 20 -> 25° (p=0,27) ; inclinaison ulnaire 30 -> 32° (p=0,34) ; aucune différence significative ; écart-types NR ; pas de perte d'amplitude [p. 349 Table 3 ; p. 350 Discussion]",
+ "force": "Grip Jamar 23 kg (14-40) -> 46 kg (22-58), p=0,003 ; en % du côté controlatéral 54 % -> 81 % (p<0,001) [p. 349 Table 3]. Incohérence possible : doublement de la force (23 -> 46 kg) mais ratio controlatéral 54 -> 81 % (soit +50 %) ; valeur controlatérale NR",
+ "radiologie": "Écart SL : pré-op 4,7 mm (4-6) -> post-op immédiat 1,9 (1-3) -> dernier suivi 1,8 (1-3) [Table 4] ; angle SL 84° (67-101) -> 63° (42-64) -> 61° (49-68) (p<0,001 pré vs immédiat ; p=0,42 et 0,27 immédiat vs dernier selon Table 4). Pas d'arthrose radio-carpienne ni médio-carpienne, pas de SLAC, pas de nécrose du scaphoïde (radiographies face seulement) [p. 350 Table 4 ; p. 350 Radiographic Outcomes ; p. 351]. INCOHÉRENCES (résumé et discussion donnent 2,1 mm et 66° au dernier suivi, p. 345 et p. 350 ; discussion donne aussi 1,8 puis 2,1 mm et 61 puis 66°, et 61° en post-op immédiat contre 63° Table 4 ; p du texte 0,24 vs 0,27 pour l'angle) ; le texte p. 349 dit « 1,9 mm » immédiat contre 1,8 en discussion",
+ "taux_reprise": "NR (aucun taux de reprise du travail ou du sport rapporté ; seules les autorisations à 3 et 6 mois sont décrites) [p. 347]",
+ "satisfaction": "Pas de mesure directe de satisfaction ; les auteurs concluent à une « haute satisfaction » en s'appuyant sur le SF-36 (qui n'est pas une mesure de satisfaction) [p. 345 Abstract ; p. 351 Conclusion]",
+ "suivi_moyen": "69,4 mois (étendue 60-72) [p. 349 Table 2]. Critère d'inclusion ≥ 36 mois [p. 346 Table 1]. Discussion : « résultats à 3 ans » et « au moins 5 ans » (cohérent avec 60-72 mois mais critère ≥ 36 mois jamais atteint comme minimum réel) [p. 351]"
+},
+"securite": {
+ "complications": "Aucune complication peropératoire ; 1 infection superficielle de plaie à la 1re semaine, résolue par pansements ; pas de SLAC ni de nécrose du scaphoïde ; pas de ré-élargissement significatif [p. 350 Complications ; p. 351 Discussion]",
+ "reinterventions": "NR (aucune réintervention rapportée ; pas d'affirmation explicite) [p. 350]"
+},
+"cles": {
+ "type_etude": "Série de cas rétrospective monocentrique, un seul protocole, niveau IV [p. 346 ; p. 345]",
+ "effectif": "42 patients inclus et analysés (sur 74 consécutifs) ; 16 F / 26 H [p. 347 Fig. 1 ; p. 349 Table 2]",
+ "age": "Moyenne 44,1 ans (26-53) [p. 349 Table 2]",
+ "technique": "Reconstruction dorsale du LSL par greffe libre de long palmaire (type 3LT modifiée sans FCR), voie dorsale ouverte, 2 tunnels + 2 vis canulées titane 2,5 mm [p. 347 Surgical Technique]",
+ "broches": "2 broches temporaires peropératoires ; pas de broche postopératoire décrite, ablation NR [p. 347]",
+ "immobilisation": "Attelle plâtrée volaire 5 j puis plâtre court antébrachial + écharpe 6 semaines (environ 6 sem + 5 j) [p. 347 Postoperative Protocol]",
+ "debut_mobilisation": "Après ablation du plâtre (vers 6-7 semaines), kinésithérapie encadrée ≥ 3 mois ; passif/actif NR [p. 347]",
+ "renforcement_ou_charge": "Activités quotidiennes à 3 mois ; charges lourdes/sports de contact après 6 mois ; renforcement NR [p. 347]",
+ "type_criteres_progression": "Temporels uniquement [p. 347]",
+ "reprise_travail_sport": "Autorisations à 3 mois (quotidien) et 6 mois (charges lourdes/contact) ; taux réels NR [p. 347]",
+ "resultat_fonctionnel_principal": "DASH 61,4 -> 11,6 ; Mayo 57,6 -> 85,4 ; EVA effort 7,8 -> 1,4 ; grip 54 -> 81 % du côté sain ; ROM inchangée (ns) ; à 69,4 mois [p. 349 Table 3]",
+ "complications": "1 infection superficielle résolue ; pas d'autre complication, pas de SLAC ; réinterventions NR [p. 350]"
+},
+"risque_de_biais": {
+ "outil": "Checklist JBI pour séries de cas : série rétrospective à un seul bras, même technique et même protocole post-opératoire pour tous, sans comparaison de protocoles [p. 346 ; p. 351 limitations]",
+ "items": {
+  "1_criteres_inclusion_clairs": "O : critères d'inclusion/exclusion explicites (chronique > 6 sem, statique réductible, sans lésion chondrale ni SLAC, PL, suivi ≥ 36 mois) [p. 346 Table 1]",
+  "2_pathologie_mesure_standard": "O : radiographies face/profil, IRM, arthro-scanner, arthroscopie, classification Garcia-Elias [p. 346 ; p. 347 Surgical Technique]",
+  "3_identification_valide": "O : diagnostic par imagerie et examen clinique, confirmation arthroscopique peropératoire [p. 346 ; p. 347]",
+  "4_inclusion_consecutive": "O : « 74 patients consécutifs » opérés en 2016-2017 [p. 346 Patients and Methods]",
+  "5_inclusion_complete": "? : 42 sur 65 chroniques inclus, exclusions justifiées par les critères ; mais le critère de suivi ≥ 36 mois et l'absence de mention de perdus de vue empêchent de savoir si des patients éligibles ont manqué ; de plus Fig. 1 (15 exclus détaillés) et texte (23 exclus détaillés) divergent [p. 346 ; p. 347 Fig. 1]",
+  "6_demographie_decrite": "O : âge, sexe, côté, dominance, mécanisme, délai (Table 2) [p. 349 Table 2]",
+  "7_donnees_cliniques_decrites": "O : stade, délai, durée opératoire, EVA, DASH, Mayo, force, ROM pré-opératoires [p. 349 Tables 2-3]",
+  "8_resultats_suivi_decrits": "O : résultats cliniques et radiologiques pré-op et dernier suivi (69,4 mois), complications ; pas de temps intermédiaires ni d'ablation des broches [p. 349-350 Tables 3-4]",
+  "9_centre_contexte_decrits": "? : centre unique à Istanbul cité en adresse ; pas de description du centre/contexte ni du nombre de chirurgiens [p. 345-346]",
+  "10_analyse_statistique_adaptee": "? : Wilcoxon adapté ; mais ANOVA, chi-deux annoncés sans objet clair, pas d'écart-types dans les tableaux, valeurs discordantes entre résumé, texte et Table 4 (2,1 vs 1,8 mm ; 66 vs 61° ; p 0,24 vs 0,27), pas de correction multiple [p. 348 Statistical Analysis ; p. 350 Table 4]"
+ },
+ "synthese": "MODÉRÉ : aucun « N » aux items 4, 5, 7 ; n = 42 ≥ 10 ; pas de « N » à l'item 5 avec > 30 % de non évalués (dénominateur non évalué : NR perdus de vue). Réserves : série rétrospective sans contrôle ; chirurgiens/auteurs et évaluateur (chirurgien senior) non indépendants du chirurgien opérateur, évaluation clinique non en aveugle (radiologue décrit comme indépendant) ; mesures seulement pré-op et dernier suivi ; incohérences chiffrées ; protocole de rééducation décrit en 4 phrases, non étudié comme variable ; risque de biais de survie (critère de suivi ≥ 36 mois)."
+},
+"remarques": "1) Éligibilité : la population est conforme (adultes 26-53 ans, chronique, statique réductible, sans SLAC), reconstruction par greffe tendineuse (famille greffe/3LT modifiée). Le protocole post-opératoire est décrit mais non étudié comme intervention propre (même protocole pour tous) ; rééducation pauvre en détails (pas de mobilisation passive/active précisée, pas de DTM, pas de critères). 2) Incohérences : (a) exclusions : texte p. 346 = 9 combinées, 6 dynamiques, 4 fractures radius, 2 SLAC, 1 chondral, 1 geste combiné (total 23) ; Fig. 1 p. 347 = 5 combinées, 3 dynamiques, 3 fractures radius, 2 SLAC, 1 chondral, 1 combiné (total 15) alors que l'encadré annonce 23. (b) Résumé et discussion annoncent écart SL final 2,1 mm (2-3) et angle 66° (49-72), Table 4 donne 1,8 mm (1-3) et 61° (49-68) ; la discussion cite les deux ; angle immédiat 63° (Table 4) vs 61° (discussion) ; p angle 0,24 (texte) vs 0,27 (Table 4/discussion) ; écart immédiat 1,9 (texte/Table 4) vs 1,8 (discussion). (c) Le résumé conclut « SL gap amélioré à 2,1 », la Table 4 montre une stabilité (ns) entre post-op immédiat et dernier suivi ; l'affirmation de non-détérioration n'est pas testée avec marge. (d) Le résumé indique « p<0,001 pour les deux » alors que la comparaison pré-op vs dernier suivi n'est rapportée qu'indirectement. (e) Force : Table 3 donne p=0,003 pour kg et p<0,001 pour le % controlatéral. (f) « Haute satisfaction » non mesurée ; SF-36 n'est pas une mesure de satisfaction. (g) « Pas de complication majeure » : la complication mineure est l'infection superficielle. 3) La conclusion de « restauration de l'alignement carpien normal » : angle SL au dernier suivi 61° (Table 4) est sous le seuil pathologique de 70° et écart 1,8 mm sous 3 mm, donc cohérent avec les chiffres de la Table 4, mais pas avec les 66°/2,1 mm cités dans le résumé (également sous les seuils). 4) Absence d'amélioration significative de la mobilité attribuée par les auteurs à une kinésithérapie intensive et à l'arrêt précoce de l'attelle : explication non testée (pas de groupe de comparaison), cause non démontrée. 5) Suivi minimal : critère ≥ 36 mois, pourtant étendue réelle 60-72 mois. 6) Pas de distinction du chirurgien concepteur (technique présentée comme modification de la 3LT, non clairement propre aux auteurs) ; pas de COI."
+}

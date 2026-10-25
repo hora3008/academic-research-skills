@@ -1,0 +1,95 @@
+{
+"id": "R00156",
+"reference_vancouver": "Kemler MA, Bootsma JJ, van den Berg J. Scapholunate ligament reconstruction without immobilization is safe and leads to better functional results. J Wrist Surg. 2023;12(1):23-27. doi:10.1055/s-0042-1749164 [p. 23, en-tête]",
+"etude": {
+"pays": "Pays-Bas (Groningen) [p. 23, affiliations]",
+"centres_chirurgiens": "Un centre (Martini Hospital, Groningen) ; nombre et identité des chirurgiens NR [p. 23-24]",
+"type_etude": "Essai contrôlé prospectif non randomisé, deux groupes (affectation par ordre d'inclusion) ; l'article dit « nonrandomized controlled trial » [p. 23 Abstract ; p. 24 Methods, Group Assignment ; p. 26 Discussion]",
+"periode": "Inclusion et opération de juillet 2019 à janvier 2020 ; suivi 1 an [p. 25 Results]",
+"niveau_preuve": "NR (non indiqué par les auteurs) ; comparatif non randomisé [p. 23-27]",
+"financement_coi": "Financement NR ; conflits d'intérêts : « None declared » [p. 27 Conflict of Interest]",
+"enregistrement": "NR (aucun enregistrement d'essai cité) ; approbation du comité d'éthique médicale du Martini Hospital (2019-111), consentement écrit [p. 27 Ethical Approval]"
+},
+"patients": {
+"n_inclus": "21 opérés : 11 groupe internal brace (IB), 10 groupe contrôle (K-wires 6 sem) [p. 25 Results ; Table 1]. Objectif prévu : 10 par groupe ; premier groupe de 11 [p. 24 Group Assignment]",
+"n_analyses": "17 à 1 an : 10 IB, 7 contrôle [p. 25 Results ; Table 2]",
+"perdus_de_vue": "4 non analysables : 1 IB (rupture traumatique de la reconstruction à 4 mois, carpectomie de la rangée proximale) ; contrôle : 1 chute de vélo à 5 mois avec refixation, 2 perdus de vue (ont refusé les tests après l'inclusion) [p. 25 Results]. Soit 1/11 (9 %) vs 3/10 (30 %), 4/21 (19 %)",
+"age": "Inclusion 18-65 ans [p. 24 Methods]. Moyenne (ET) : IB 42,3 (3,9) ; contrôle 41,8 (5,0) ans, p=0,9 [p. 25 Table 1]. Analysés : 42,0 (4,3) vs 42,7 (6,4) [p. 25 Table 2]",
+"sexe": "IB 6 H / 5 F ; contrôle 5 H / 5 F [p. 25 Table 1]. Analysés : 5H/5F vs 4H/3F [p. 25 Table 2]",
+"cote_dominant": "Côté : IB 7 D / 4 G ; contrôle 3 D / 7 G (p=0,2) [p. 25 Table 1] ; analysés 7D/3G vs 3D/4G [Table 2]. Côté dominant NR",
+"aigu_ou_chronique": "NR (délai lésion-chirurgie non rapporté) [p. 23-27]",
+"statique_ou_dynamique": "NR ; lésion confirmée arthroscopiquement, Geissler >=2 [p. 24 Methods]",
+"stade_classification": "Critère : Geissler >=2 à l'arthroscopie ; exclusion : collapsus avancé / arthrose [p. 24 Methods]. Geissler moyen (ET) : IB 3,2 (0,2) ; contrôle 3,5 (0,2), p=0,2 [p. 25 Table 1]. Aucun SLAC rapporté (exclus)",
+"profession_sport": "NR [p. 23-27]",
+"patients_hors_criteres": "Aucun identifié ; restrictions d'âge respectées d'après l'âge moyen, distribution individuelle NR. Tous opérés avec une ténodèse 3 ligaments (reconstruction), pas de sous-groupe hors critères [p. 24-25]"
+},
+"chirurgie": {
+"technique": "Ténodèse à trois ligaments (3LT, selon Green/Garcia-Elias) avec variante « fiber splitting » de Berger ; capsulotomie dorsale, 3e compartiment ouvert, EPL déplacé radialement, 4e compartiment cubitalement ; trou de 2,7 mm canulé dans le scaphoïde vers le tubercule palmaire ; bandelette de FCR de 8 cm passée dans le tunnel, bouclée autour de l'insertion distale du ligament radio-triquétral dorsal, fixée dans une gouttière dorsale du lunatum ; capsule refermée, rétinaculum des extenseurs reconstruit [p. 24 Surgical Procedure]",
+"famille": "Ténodèse 3LT (greffe tendineuse), avec renfort suture-tape (internal brace) dans le groupe IB [p. 24]",
+"voie": "Ouverte (incision dorsale longitudinale) ; arthroscopie pour le diagnostic uniquement [p. 24 Methods, Surgical Procedure]",
+"greffe": "Bandelette distale de FCR de 8 cm, à base distale [p. 24 Surgical Procedure]",
+"broches_nb_duree": "IB : aucune broche. Contrôle : 2 broches de 1,5 mm transfixant les articulations scapholunaire et scapho-capitale, retirées à 6 semaines avec le plâtre [p. 24 Surgical Procedure et Postoperative Regimen]",
+"autre_fixation_internal_brace": "IB : tendon renforcé par suture tape (technique internal brace, Arthrex), fixé par vis osseuses dans le scaphoïde et le lunatum ; contrôle : tendon fixé sous tension dans la gouttière lunaire par une ancre de suture [p. 24 Surgical Procedure]. Les deux groupes diffèrent donc par la fixation ET le protocole post-opératoire",
+"gestes_associes": "NR (ni neurectomie ni autre geste) ; reconstruction du rétinaculum des extenseurs et fermeture capsulaire dans les deux groupes [p. 24]"
+},
+"reeducation": {
+"immobilisation_type_position_articulations": "IB : attelle courte d'avant-bras (short arm splint) 1 semaine ; position NR. Contrôle : plâtre brachial (upper arm cast), changé à 10 jours (ablation des fils), position NR [p. 24 Postoperative Regimen]",
+"immobilisation_duree": "IB : 1 semaine ; contrôle : 6 semaines (plâtre + broches retirés ensemble) [p. 24 Postoperative Regimen]",
+"debut_mob_passive": "NR (type de mobilisation non précisé) [p. 24]",
+"debut_mob_active": "IB : après 1 semaine, début de la thérapie de la main (« hand therapy then commences »). Contrôle : à 6 semaines, après retrait plâtre et broches [p. 24 Postoperative Regimen]. Nature active/passive NR",
+"DTM": "NR (thérapie dart-throwing motion non mentionnée) [p. 23-27]",
+"restrictions_amplitude": "NR [p. 24]",
+"debut_renforcement_muscles": "NR (aucun détail de renforcement) [p. 24]",
+"proprioception": "NR",
+"electrostimulation": "NR",
+"mise_en_charge": "NR",
+"autres_restrictions": "NR ; contenu du programme de thérapie de la main non détaillé [p. 24]",
+"criteres_progression_type": "NR (protocole purement temporel implicite : 1 semaine vs 6 semaines) [p. 24]",
+"criteres_progression_detail": "NR ; aucun critère clinique de progression décrit",
+"encadrement_kine_domicile_nb_seances": "Thérapie de la main (kinésithérapeute de la main, 2e auteur) ; nombre de séances, exercices à domicile NR [p. 23-24]",
+"observance": "NR",
+"reprise_travail": "Délai moyen de retour au travail (ET) : IB 35,1 (6,2) jours vs contrôle 73,6 (12,8) jours, p=0,01 (n=10 vs 7) ; pas de données de base, seule la différence entre groupes est calculée [p. 25 Statistical Analysis ; p. 26 Table 2]. Type de travail, reprise partielle/complète NR",
+"reprise_sport": "NR"
+},
+"resultats": {
+"outil_principal_et_valeurs_par_temps": "Pas de critère principal désigné. Évaluations : base, 6 sem, 3, 6 mois, 1 an [p. 24 Data Collection]. Valeurs à 1 an en delta (T0 moins T4, signe positif = amélioration, étiquette de tableau ambiguë) : PRWHE IB -19,2 (4,3) vs contrôle -14,7 (6,2), p=0,5 ; QuickDASH -12,1 (6,7) vs -5,3 (5,0), p=0,5 [p. 26 Table 2]. Valeurs de base : PRWHE 43,8 vs 51,8 ; QuickDASH 29,6 vs 35,3 [p. 25 Table 1]. Valeurs absolues à 1 an non rapportées",
+"douleur": "EVA/échelle numérique en cm : base 3,5 vs 3,5 [Table 1] ; variation -2,0 (0,5) vs -1,7 (1,4), p=0,8 [p. 26 Table 2]. Pas de différence significative",
+"mobilite": "Goniométrie active. Flexion : base 60,5 vs 60,3 ; variation +1,8 (1,9) IB vs -13,4 (4,8) contrôle, p=0,004. Extension : base 64,4 vs 62,1 ; +4,5 (3,1) vs -4,5 (3,1), p=0,03. Pronation +6,6 vs +1,4 (p=0,1) ; supination +12,0 vs +2,1 (p=0,2) ; déviation radiale +5,6 vs -3,4 (p=0,1) ; cubitale +4,8 vs -4,4 (p=0,06) [p. 25 Table 1 ; p. 26 Table 2 ; courbes Fig. 2-3 p. 26]. Valeurs absolues à 1 an uniquement graphiques (flexion ~62 vs ~48 degrés, estimation visuelle)",
+"force": "Jamar position 2 : base 31,6 (3,8) vs 27,8 (4,9) kg ; variation +8,2 (2,2) vs +7,7 (4,2), p=0,9 [p. 25 Table 1 ; p. 26 Table 2]",
+"radiologie": "« Amélioration équivalente de l'écart SL et de la déformation DISI, stable en post-opératoire » dans les deux groupes ; aucune valeur chiffrée ni méthode de mesure [p. 25 Results]",
+"taux_reprise": "Délai de retour au travail seulement (voir reprise_travail) ; taux NR",
+"satisfaction": "Effet global perçu (échelle 1-7) à 1 an : IB 6,1 (0,2) vs contrôle 4,7 (0,7), p=0,05 [p. 25 Results ; p. 26 Table 2]. Vérification : p=0,05 est à la limite du seuil de 0,05 (« < 0,05 » annoncé) ; l'affirmation de « satisfaction supérieure » (Abstract p. 23, p. 27) n'est donc que marginale",
+"suivi_moyen": "1 an (fixe) pour les 17 patients analysés [p. 25 Results] ; durée jugée courte par les auteurs [p. 27 Discussion]"
+},
+"securite": {
+"complications": "Une rupture traumatique de la reconstruction dans chaque groupe : IB à 4 mois (non réparable, carpectomie de la rangée proximale) ; contrôle à 5 mois après chute de vélo (refixation avec technique internal brace). Les auteurs ne les considèrent pas comme de vraies complications car non spontanées ; autres complications non observées [p. 25 Results ; p. 26 Complications]. Les deux échecs sont exclus des analyses à 1 an",
+"reinterventions": "2 sur 21 (1 par groupe) : proximal row carpectomy (IB) ; refixation de la reconstruction par internal brace (contrôle) [p. 25 Results]"
+},
+"cles": {
+"type_etude": "Essai contrôlé prospectif non randomisé, 2 groupes, 1 centre (Pays-Bas), 2019-2020 [p. 23-25]",
+"effectif": "21 opérés (11 IB / 10 contrôle) ; 17 analysés à 1 an (10 / 7) [p. 25]",
+"age": "Moyenne 42,3 (IB) et 41,8 ans (contrôle) ; inclusion 18-65 ans [p. 24-25 Table 1]",
+"technique": "Ténodèse 3 ligaments à FCR (Green/Berger), voie dorsale ouverte ; IB : suture-tape + vis osseuses ; contrôle : ancre de suture [p. 24]",
+"broches": "IB : aucune ; contrôle : 2 broches 1,5 mm retirées à 6 semaines [p. 24]",
+"immobilisation": "IB : attelle courte 1 semaine ; contrôle : plâtre brachial 6 semaines [p. 24]",
+"debut_mobilisation": "IB : à 1 semaine (thérapie de la main) ; contrôle : à 6 semaines ; nature active/passive NR [p. 24]",
+"renforcement_ou_charge": "NR [p. 24]",
+"type_criteres_progression": "NR (schéma temporel seulement) [p. 24]",
+"reprise_travail_sport": "Travail : 35,1 vs 73,6 jours, p=0,01 ; sport NR [p. 26 Table 2]",
+"resultat_fonctionnel_principal": "Flexion +1,8 vs -13,4 degrés (p=0,004), extension +4,5 vs -4,5 (p=0,03) ; PRWHE/QuickDASH, force, douleur sans différence (p>=0,5) [p. 26 Table 2]",
+"complications": "1 rupture traumatique par groupe (IB à 4 mois, contrôle à 5 mois), 2 réinterventions [p. 25]"
+},
+"risque_de_biais": {
+"outil": "ROBINS-I : étude qui compare deux protocoles post-opératoires (immobilisation 1 semaine vs 6 semaines avec fixation différente) sans randomisation [p. 24 Group Assignment]",
+"D1_confusion": "Serieux : affectation par ordre d'inclusion (11 premiers en IB, 10 suivants en contrôle), donc groupes successifs dans le temps, confusion par période (courbe d'apprentissage, sélection de patients au fil du temps) possible ; aucun ajustement ; différences non significatives mais non négligeables de côté (7D/4G vs 3D/7G) et de Geissler (3,2 vs 3,5), n très petit donc faible puissance pour détecter un déséquilibre [p. 24 Group Assignment ; p. 25 Table 1]",
+"D2_selection": "Modere : inclusion par séries consécutives sur la même période (juillet 2019-janvier 2020), critères clairs (18-65 ans, Geissler >=2) ; mais le mode de recrutement et le nombre d'éligibles écartés sont NR [p. 24 Methods ; p. 25 Results]",
+"D3_classement_interventions": "Faible : groupes définis à la chirurgie, selon la séquence d'inclusion [p. 24]. Limite : l'intervention est un paquet (fixation différente + immobilisation différente), l'effet de la mobilisation précoce seule n'est pas isolable [p. 24 Surgical Procedure]",
+"D4_ecarts_aux_interventions": "Modere : thérapie de la main (contenu, séances, intensité) non décrite et possiblement différente entre groupes ; observance NR ; chute de vélo post-opératoire (contrôle) ; pas d'évaluation d'écarts au protocole [p. 24 Postoperative Regimen ; p. 25 Results]",
+"D5_donnees_manquantes": "Serieux : 4/21 (19 %) exclus de l'analyse, déséquilibre 1/11 (9 %) vs 3/10 (30 %), dont 2 échecs mécaniques (rupture + reprise chirurgicale) retirés du jeu analysé et 2 perdus de vue ; analyse per-protocole, sans analyse en intention de traiter ni imputation ni sensibilité ; l'exclusion des échecs favorise les deux groupes mais rend les résultats optimistes [p. 25 Results ; Table 2]",
+"D6_mesure_des_resultats": "Serieux pour résultats auto-rapportés (douleur, PRWHE, QuickDASH, effet global perçu, retour au travail), évaluateurs et patients non aveugles ; Modere pour goniométrie et force Jamar (mesure objective mais évaluateur non décrit, non aveugle, non précisé) [p. 24 Data Collection]. Le jugement diffère donc selon le résultat",
+"D7_selection_du_resultat_rapporte": "Modere : pas de protocole ni enregistrement, pas de critère principal défini, 11 critères comparés sans correction pour multiplicité ; le texte ne mentionne pas de résultat omis, mais les valeurs absolues à 1 an manquent [p. 24-26]",
+"global": "Serieux (domaine le plus sévère : D1, D5, D6 Sérieux). Pas de Critique : pas d'élément rendant l'étude ininterprétable. Pour la flexion/extension (mesure objective), D1 et D5 restent sérieux ; pour les mesures subjectives (satisfaction p=0,05, retour au travail), D6 aggrave",
+"autres_reserves": "Auteurs = chirurgien et kinésithérapeute de la main du centre, concepteurs vraisemblables ; financement NR ; très petit effectif (n=7 en contrôle), aucune estimation de puissance ; titre (« better functional results ») non soutenu par les scores fonctionnels (PRWHE/QuickDASH p=0,5)"
+},
+"remarques": "(1) Éligibilité : réparation SL non concernée ; 3LT = reconstruction tendineuse, donc dans le champ ; critère Geissler >=2 (arthroscopie), pas de SLAC (exclus), âge 18-65 respecté en moyenne, âges individuels NR. Le protocole post-opératoire (immobilisation 1 semaine vs 6 semaines) est propre à la reconstruction SL. (2) Confusion de facteurs : la comparaison associe deux fixations (suture-tape + vis vs broches + ancre) et deux régimes ; l'effet de la mobilisation précoce ne peut pas être isolé. (3) Intitulé de colonne Table 2 « delta T0 minus T4 » mais valeurs positives = amélioration (flexion +1,8 = gain, vs perte de 13,4), donc signe inversé par rapport à l'intitulé ; PRWHE/QuickDASH/douleur négatifs = amélioration (baisse du score). (4) Table 1 : n=11 IB alors que l'objectif annoncé est 10 par groupe [p. 24] ; Table 2 : âge et sexe recalculés sur les analysés. (5) Résumé et texte écrivent « 1 rupture traumatique » dans chaque groupe, mais le patient contrôle (chute à 5 mois) a été refixé et exclu, et le texte précise qu'il n'y a pas de vraie complication ; le patient IB a nécessité une carpectomie de la rangée proximale, issue lourde non reprise dans la conclusion de sécurité (« safe », p. 23, 27) alors que n=21 ne permet pas de conclure à la sécurité. (6) Satisfaction : p=0,05 présenté comme supérieur [p. 23, 26] ; à vérifier (limite). (7) La discussion affirme que la raideur résulte de la durée d'immobilisation, mais la comparaison est confondue et non randomisée ; affirmation « no difference in pain... » basée sur des tests à faible puissance. (8) Discussion : « grip strength increase of 7.5 kg, pain reduction of 2 cm in both groups » : cohérent avec Table 2 (8,2 / 7,7 kg ; -2,0 / -1,7 cm). (9) Contenu de la rééducation (mobilisation, renforcement, proprioception, DTM, reprise sport) quasi entièrement NR ; données utiles surtout pour la durée d'immobilisation et le délai de retour au travail. (10) Date de publication en ligne 2022-06-06, volume 12(1) 2023."
+}

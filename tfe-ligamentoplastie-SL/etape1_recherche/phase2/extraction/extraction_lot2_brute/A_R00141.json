@@ -1,0 +1,99 @@
+{
+"id": "R00141",
+"reference_vancouver": "Chung SR, Carratalá V, Delgado PJ, Kalapos R, Kakar S. Arthroscopic suture anchor scapholunate capsulodesis. J Wrist Surg. 2025;14(4):302-313. doi:10.1055/s-0044-1791501 (publié en ligne 2024-10-03) [p. 302]",
+"etude": {
+"pays": "Non explicite pour le recrutement ; comité d'éthique de l'Hospital Quironsalud Valencia (Espagne) ; auteurs de Singapour, Espagne et États-Unis [p. 302, p. 312]",
+"centres_chirurgiens": "NR : nombre de centres et identité des opérateurs non précisés ; la technique est celle de Carratalá et Kakar (auteurs) [p. 303, p. 309]",
+"type_etude": "Série de cas rétrospective monocentrique présumée (non dit), un seul bras, sans comparaison de protocoles ; collecte « systématique » pré-op, 6 et 12 mois [p. 302-303]",
+"periode": "Opérés entre 2021 et 2023 [p. 302-303]",
+"niveau_preuve": "Niveau IV (déclaré) [p. 302]",
+"financement_coi": "Financement : aucun [p. 312]. COI : R.K. est employé d'Arthrex ; S.K. consultant Arthrex, Restor3d, IBRA et reçoit des royalties d'Arthrex ; P.J.D. consultant Arthrex et Newclip ; V.C. consultant Arthrex et Newclip ; aucune compensation financière pour ce manuscrit. Ancrages Arthrex ; illustrations réalisées avec le marketing d'Arthrex [p. 312, p. 304]",
+"enregistrement": "NR (pas de protocole enregistré) ; approbation du comité d'éthique de l'Hospital Quironsalud Valencia, consentement éclairé obtenu [p. 303, p. 312]"
+},
+"patients": {
+"n_inclus": "15 [p. 302-303]",
+"n_analyses": "Tous les 15 dans le texte ; mais données manquantes dans le Tableau 3 : AROM et force pré-op NR chez 5 patients (5, 6, 9, 10, 14) ; 12 mois NR pour AROM chez les patients 7 et 11, force 12 mois NR chez 7 et 11 ; 6 mois NR chez le patient 7. Moyennes à 12 mois sur n=13 (recalculées : AROM 125,4 et force 31,3 concordent) [p. 310, Tableaux 2-3]",
+"perdus_de_vue": "NR explicitement ; suivi « d'au moins 1 an » annoncé [p. 303] mais 2 patients sans données à 12 mois (non expliqué) [p. 310, Tableau 3]",
+"age": "Moyenne 44,9 ans (31-61) [p. 303]",
+"sexe": "12 hommes, 3 femmes [p. 303]",
+"cote_dominant": "12 mains droites et 3 gauches dominantes ; côté lésé : 10 poignets droits (67 %), 5 gauches (33 %) ; lésion du côté dominant : NR [p. 303]",
+"aigu_ou_chronique": "Délai moyen lésion-chirurgie 14 semaines (6-22) [p. 303] ; l'abstract et la conclusion parlent de lésions « aiguës ou chroniques » [p. 302, p. 312] ; lésions chroniques irréductibles exclues [p. 303]. Tous après chute sur main en extension avec torsion [p. 305]",
+"statique_ou_dynamique": "Non étiqueté ; inclusion de lésions réductibles, aucun patient avec diastasis SL > 3 mm sur radiographie PA, aucun angle SL > 60 degrés (pas de DISI) ; test de décalage scaphoïdien positif chez les 15 [p. 303, p. 305]",
+"stade_classification": "Geissler II : 8, III : 4, IV : 3 ; EWAS IIB : 4, IIC : 4, IIIC : 4, IV : 3 [p. 309, Tableau 1 ; p. 305]. Stade Garcia-Elias par patient : NR",
+"profession_sport": "NR",
+"patients_hors_criteres": "Pas de SLAC (dégénérescence radiographique exclue) ; âge minimal 31 ans, donc adultes [p. 303]. Mais 8/15 avec fracture associée du radius distal traitée (facteur de confusion pour AROM/force) ; 4/15 avec lésion du TFCC non réparée ; 2 patients EWAS IV avec récidive. Données séparables par patient dans les Tableaux 3-4, sans identification des patients avec fracture [p. 305, p. 310-311]"
+},
+"chirurgie": {
+"technique": "Capsuloligamentoplastie dorsale SL arthroscopique par ancres de suture : une ancre double chargée dans le scaphoïde et une dans le lunatum (par portail MCU, ancre Corkscrew 2,2 mm Arthrex), fils noués puis passés par aiguilles/lasso via 3-4 et MCR, noeud sur la capsule dorsale (plicature DIC/DCSS) poignet légèrement en extension, hors traction [p. 304-305]",
+"famille": "Réparation directe par ancres + capsulodèse dorsale (DIC/DCSS)",
+"voie": "Arthroscopique ; variante mini-ouverte possible pour passer les fils dans la capsule (nombre de patients concernés NR) [p. 305]",
+"greffe": "Aucune pour l'intervention initiale ; ligamentoplastie secondaire par greffe tendineuse libre chez les 2 récidives [p. 305]",
+"broches_nb_duree": "Pas systématique : enclouage SL ou scapho-capitatum « peut être nécessaire » si réduction insuffisante ; nombre de patients brochés NR ; si brochage, ablation à 6-8 semaines [p. 305]",
+"autre_fixation_internal_brace": "Aucune internal brace ; seulement les ancres décrites [p. 304]",
+"gestes_associes": "Réparation volaire arthroscopique pour instabilité palmaire associée (EWAS IIC, IIIC, IV, soit 11 patients par déduction du Tableau 1, effectif non donné tel quel) ; fracture du radius distal traitée chez 8 ; lésion TFCC chez 4, non réparée ; 7 patients avec lésion SL isolée [p. 305, p. 309]"
+},
+"reeducation": {
+"immobilisation_type_position_articulations": "Attelle de repos volaire 2 semaines, puis, après ablation des fils, courte botte plâtrée de type « short arm cast » ; position du poignet et articulations incluses : NR [p. 305, Postoperative Care]",
+"immobilisation_duree": "2 semaines d'attelle + 2 à 4 semaines de plâtre, soit 4 à 6 semaines au total [p. 305]",
+"debut_mob_passive": "NR (non distingué du début de la rééducation supervisée)",
+"debut_mob_active": "NR explicitement ; rééducation supervisée par kinésithérapeute de la main à partir de 6 semaines [p. 305] ; si broches, rééducation immédiatement après leur ablation (6-8 semaines)",
+"DTM": "Travail du mouvement de lancer de fléchettes dès la rééducation supervisée, à partir de 6 semaines [p. 305]",
+"restrictions_amplitude": "NR",
+"debut_renforcement_muscles": "Renforcement de l'extenseur radial du carpe (ECRL) et du fléchisseur radial du carpe (FCR) dès 6 semaines [p. 305]",
+"proprioception": "Oui, proprioception du poignet à partir de 6 semaines [p. 305]",
+"electrostimulation": "NR",
+"mise_en_charge": "NR",
+"autres_restrictions": "NR",
+"criteres_progression_type": "temporels [p. 305]",
+"criteres_progression_detail": "Seuils de temps uniquement (2 semaines ; 2-4 semaines ; 6 semaines ; ablation des broches à 6-8 semaines) ; aucun critère clinique ou radiologique [p. 305]",
+"encadrement_kine_domicile_nb_seances": "Rééducation supervisée par thérapeute de la main ; nombre de séances et programme à domicile NR [p. 305]",
+"observance": "NR",
+"reprise_travail": "NR",
+"reprise_sport": "NR"
+},
+"resultats": {
+"outil_principal_et_valeurs_par_temps": "Pas de critère principal désigné. Moyennes (ET ; étendue) pré-op / 6 mois / 12 mois : VAS 6 (1,3 ; 4-8) / 2,4 (1,1 ; 1-4) / 1,2 (1 ; 0-3), p<0,001 ; Mayo Wrist Score 43,5 (13,3 ; 20-60) / 79,6 (8,7 ; 70-90) / 86,5 (8 ; 75-100), p<0,001 ; QuickDASH 65,9 (15,8 ; 38,5-84) / 14,9 (8,7 ; 6,3-38,5) / 6,5 (4,4 ; 0-15,8), p<0,001 ; tests t appariés, effectifs par temps non indiqués [p. 310, Tableau 2 ; p. 307]. Valeurs individuelles [p. 310-311, Tableaux 3-4]",
+"douleur": "VAS 6 → 2,4 (6 mois) → 1,2 (12 mois) [p. 310, Tableau 2]",
+"mobilite": "AROM moyenne 83,5° (ET 18,9 ; 50-105) → 111,1° à 6 mois (+33 %, p=0,001) → 125,4° à 12 mois (+50 %, p<0,001) ; interprétation : amplitude en degrés, mouvement mesuré NR [p. 305-306, p. 310]. Pré-op calculée sur 10 patients, 12 mois sur 13 (recalcul depuis Tableau 3)",
+"force": "Force de préhension moyenne 13,5 kg (ET 4,4 ; 7-20) → 25,2 kg à 6 mois (+87 %) → 31,3 kg à 12 mois (+131 %) [p. 310, Tableau 2]. Incohérence : le Tableau 3 donne 10 valeurs pré-op (somme 123 kg), soit moyenne 12,3 kg (et minimum 6 kg, non 7) ; avec 12,3 kg l'amélioration serait environ +154 %. Valeurs 6 et 12 mois recalculées concordantes. Comparaison au côté sain : NR",
+"radiologie": "Radiographies de contrôle de routine ; 2/15 (patients EWAS IV) avec récidive de diastasis SL en moyenne à 6 mois [p. 305]. Valeurs postopératoires d'écart SL, d'angle SL, de DISI et de signes d'arthrose : NR",
+"taux_reprise": "NR (taux de reprise au travail ou au sport non rapporté)",
+"satisfaction": "NR",
+"suivi_moyen": "12 mois (12-26) [p. 302] ; « au moins un an » [p. 303]"
+},
+"securite": {
+"complications": "Aucune complication individualisée dans les résultats ; l'abstract parle de « complications minimales » [p. 302] ; les méthodes disent que les complications ont été enregistrées [p. 303] ; la seule issue défavorable décrite est la récidive de diastasis chez 2 patients [p. 305] ; infection, raideur, algodystrophie, lésion nerveuse : NR",
+"reinterventions": "2/15 (13 %) : ligamentoplastie SL secondaire par greffe tendineuse libre, jugée réussie dans les 2 cas ; ces 2 patients sont parmi les 3 EWAS IV (2/3) [p. 305]. Inclusion ou non de leurs données post-reprise dans les moyennes à 12 mois : NR"
+},
+"cles": {
+"type_etude": "Série de cas rétrospective, un seul bras, niveau IV [p. 302]",
+"effectif": "15 inclus ; données manquantes à 12 mois pour 2 (13 analysables en AROM et force) [p. 303, p. 310]",
+"age": "44,9 ans en moyenne (31-61) ; 12 H, 3 F [p. 303]",
+"technique": "Capsuloligamentoplastie dorsale SL arthroscopique par 2 ancres (scaphoïde et lunatum) avec plicature DIC/DCSS, réparation volaire associée si instabilité palmaire [p. 304-305]",
+"broches": "Pas systématiques ; scapho-capitatum ou SL « si nécessaire », nombre NR, ablation à 6-8 semaines [p. 305]",
+"immobilisation": "Attelle volaire 2 semaines puis botte plâtrée courte 2-4 semaines (4-6 semaines au total) [p. 305]",
+"debut_mobilisation": "Rééducation supervisée à partir de 6 semaines (mobilisation passive ou active distinguée : NR) [p. 305]",
+"renforcement_ou_charge": "Renforcement ECRL/FCR dès 6 semaines ; charge : NR [p. 305]",
+"type_criteres_progression": "Temporels uniquement [p. 305]",
+"reprise_travail_sport": "NR",
+"resultat_fonctionnel_principal": "12 mois : MWS 43,5 → 86,5 ; QuickDASH 65,9 → 6,5 ; VAS 6 → 1,2 ; AROM 83,5° → 125,4° ; force 13,5 → 31,3 kg (valeur pré-op de force incohérente avec Tableau 3) [p. 310]",
+"complications": "Aucune autre que 2 récidives de diastasis SL (13 %), reprises par ligamentoplastie [p. 305]"
+},
+"risque_de_biais": {
+"outil": "Checklist JBI pour séries de cas : un seul protocole pour tous, aucune comparaison de protocoles ni randomisation [p. 302-305]",
+"items": {
+"1_criteres_inclusion_clairs": "? : critères donnés (lésion SL symptomatique réductible, pas de dégénérescence) mais contradiction sur le stade : méthodes « Garcia-Elias IV et V » alors que les indications disent EWAS IIB à IV et Garcia-Elias II à V [p. 303]",
+"2_pathologie_mesure_standard": "O : arthroscopie, classifications de Geissler et EWAS, radiographies et IRM [p. 303, p. 305, p. 309]",
+"3_methode_identification_valide": "O : test de décalage scaphoïdien, IRM, évaluation arthroscopique par sonde [p. 303, p. 305]",
+"4_inclusion_consecutive": "? : « tous les patients opérés » 2021-2023 revus rétrospectivement, caractère consécutif non déclaré [p. 303]",
+"5_inclusion_complete": "? : nombre de patients opérés et exclus non donné ; 15 inclus ; 2 sans données 12 mois, 5 sans AROM ni force pré-op [p. 303, p. 310]",
+"6_demographie_decrite": "O : âge, sexe, côté, dominance, délai chirurgie [p. 303]",
+"7_donnees_cliniques_decrites": "O avec réserve : stades, mécanisme, lésions associées décrits ; stade Garcia-Elias, profession, sport, broches NR ; données pré-op manquantes [p. 303, p. 305, p. 310]",
+"8_resultats_et_suivi_decrits": "? : résultats à 6 et 12 mois détaillés par patient mais suivi moyen 12 mois seulement, 2 patients sans 12 mois sans explication, pas de résultat fonctionnel après reprise [p. 305, p. 310-311]",
+"9_centre_et_contexte_decrits": "N : centre(s) et chirurgiens non décrits ; seul comité d'éthique de Valencia cité [p. 312]",
+"10_analyse_statistique_adaptee": "? : t appariés avec n variable, pas de prise en compte des données manquantes, peu de patients, aucun IC, aucun seuil clinique (MCID), pas de contrôle [p. 303, p. 310]"
+},
+"synthese": "Modéré par la règle de synthèse (aucun N aux items 4, 5, 7 ; 15 patients, soit ≥ 10 ; pas de N à l'item 5 avec > 30 % de non évalués). Réserves importantes : chirurgiens concepteurs de la technique (Carratalá, Kakar) ; conflits d'intérêts avec Arthrex (employé, consultants, royalties) ; dénominateur des patients opérés inconnu ; 8/15 fractures du radius distal associées ; 11/15 avec réparation volaire associée ; données manquantes à 12 mois ; aucun lien analysable entre rééducation et résultats ; incohérence du dénominateur de force préopératoire. Le jugement ne diffère pas selon le résultat mais la force pré-op est la moins fiable."
+},
+"remarques": "1) Éligibilité : l'article décrit une technique chirurgicale, pas un protocole de rééducation comparé ; la rééducation figure dans le paragraphe de technique chirurgicale (Postoperative Care) sans préciser qu'elle a été appliquée aux 15 patients [p. 305] ; elle n'est pas propre au SL (cohorte hétérogène avec fractures du radius). 2) Contradictions sur les critères : stades Garcia-Elias IV-V (méthodes) versus II-V (indications) [p. 303] ; « aiguës ou chroniques » (abstract) alors que le délai est de 6 à 22 semaines et les chroniques irréductibles exclues. 3) Force de préhension pré-op : moyenne publiée 13,5 kg (étendue 7-20) incompatible avec le Tableau 3 (10 valeurs, moyenne 12,3 kg, minimum 6 kg) ; le +131 % repose sur la valeur publiée [p. 310]. 4) Mesures appariées : t appariés annoncés mais seulement 8 patients ont à la fois AROM pré-op et 12 mois (patients 1, 2, 3, 4, 8, 12, 13, 15), idem pour la force ; la moyenne pré-op porte sur 10 patients et celle à 12 mois sur 13. 5) Le texte affirme un abord « sûr, avec complications minimales » mais seul un échec (2 diastasis récidivants, 13 %, 2 sur 3 EWAS IV) est décrit ; ce taux est de 67 % dans le sous-groupe EWAS IV (n=3). Les moyennes à 12 mois incluent peut-être des patients repris (NR). 6) Absence de comparaison : aucune conclusion d'efficacité comparative ou de supériorité ne peut être tirée ; conclusion de fiabilité non étayée par un contrôle. 7) Patients mineurs : aucun (minimum 31 ans). 8) Mobilité active/passive, charge, reprise du travail et du sport, observance, satisfaction : NR."
+}

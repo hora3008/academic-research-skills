@@ -1,0 +1,99 @@
+{
+"id": "R00110",
+"reference_vancouver": "Goorens CK, Van Royen K, Atzei A. Arthroscopic dorsal round-block capsulo-ligamentoplasty for dynamic scapholunate instability: an anatomical study and case series. J Wrist Surg. 2025;14(5):486-493. doi:10.1055/s-0044-1790205 [p. 486]",
+"etude": {
+ "pays": "Belgique (Tienen) pour le chirurgien opérateur ; coauteurs Belgique et Italie (Treviso) ; pays de recrutement des patients non précisé [p. 486, affiliations ; p. 490, Case Series]",
+ "centres_chirurgiens": "Un seul chirurgien de niveau 4 (C.K.G.) a opéré tous les patients ; le centre d'inclusion n'est pas nommé explicitement (affiliation de C.K.G. : Regionaal Ziekenhuis Tienen) ; technique conçue par le dernier auteur (A.A.) [p. 490, Case Series ; p. 493, Authors' Contributions]",
+ "type_etude": "Étude anatomique sur cadavres (4 spécimens frais congelés) + série de cas cliniques, avant/après, sans groupe comparatif ; technique chirurgicale nouvelle [p. 486, titre ; p. 490, Cadaveric Study]",
+ "periode": "NR (période d'inclusion non indiquée) [p. 490-491]",
+ "niveau_preuve": "NR (non indiqué par les auteurs) ; série de cas rétrospective ou prospective non précisée [p. 490-491]",
+ "financement_coi": "Conflit d'intérêts : aucun déclaré ; financement : NR (aucune mention de financement ; remerciements pour les installations de dissection) [p. 493, Conflict of Interest, Acknowledgments]",
+ "enregistrement": "NR (aucun enregistrement de protocole ni approbation éthique mentionnés) [p. 490-493]"
+},
+"patients": {
+ "n_inclus": "29 patients (série de cas) ; 4 cadavres pour l'étude anatomique [p. 491, Results, Case Series ; p. 490, Cadaveric Study]",
+ "n_analyses": "29 (tous rapportés dans les résultats) ; remarque : la comparaison avant/après de la table 2 ne précise pas le n par variable [p. 491, Table 1 ; p. 492, Table 2]",
+ "perdus_de_vue": "NR (aucun perdu de vue mentionné ; suivi minimal 12 mois par critère d'inclusion) [p. 490 ; p. 491]",
+ "age": "Moyen 41,9 ans (ET 12,2) ; étendue 25-69 [p. 491, Case Series, Table 1]",
+ "sexe": "7 hommes / 22 femmes [p. 491, Table 1]",
+ "cote_dominant": "19 poignets gauches et 10 droits ; poignet atteint = poignet dominant chez 15 patients [p. 491, Case Series]",
+ "aigu_ou_chronique": "Chronique : échec d'un traitement conservateur (AINS, orthèse, kinésithérapie) pendant au moins 3 mois ; début des symptômes en moyenne 10,5 mois (ET 8,7 ; 3-36) avant la chirurgie [p. 490, Case Series ; p. 491, Table 1]",
+ "statique_ou_dynamique": "Dynamique (instabilité scapho-lunaire dynamique) ; les dissociations de grade supérieur, statiques ou arthrosiques, sont une contre-indication [p. 490-491, Case Series]",
+ "stade_classification": "Garcia-Elias stades 1 à 3 (indication) ; arthroscopie : EWAS type 3b avant suture chez tous les patients rapportés [p. 490, Case Series ; p. 491, Case Series]",
+ "profession_sport": "NR (profession et sport non décrits) [p. 491]",
+ "patients_hors_criteres": "Aucun identifié. Âge minimal 25 ans (adultes). Stade SLAC non rapporté mais arthrose/dysfonction statique exclues. 28,6 % avec kyste arthrosynovial dorsal [p. 491, Table 1]"
+},
+"chirurgie": {
+ "technique": "Capsulo-ligamentoplastie arthroscopique dorsale en « round-block » : suture dorsale en bourse (purse-string) autour de la rangée proximale du carpe suivant le trajet du ligament intercarpien dorsal (DICL), fil Fiberwire n°2 passé par aiguille de Tuohy entre articulations radio-carpienne et médio-carpienne, nœud coulissant intra-articulaire sous traction ; agit comme levier d'extension corrigeant la flexion du scaphoïde ; sans tunnel osseux [p. 486, Abstract ; p. 488-489, Repair Technique]",
+ "famille": "capsulodèse (renfort capsulo-ligamentaire dorsal, plastie du DICL) [p. 486 ; p. 487]",
+ "voie": "Arthroscopique (portails 1-2, 6R en radio-carpien ; MCU et MCR en médio-carpien) [p. 487-488, Repair Technique]",
+ "greffe": "Aucune (pas de greffe tendineuse) [p. 486, Abstract]",
+ "broches_nb_duree": "Aucune broche mentionnée (« no bone tunnels, bone anchors, or tendon grafts ») ; broches non citées dans la technique [p. 486, Abstract ; p. 487-489]",
+ "autre_fixation_internal_brace": "Aucune ancre ni tunnel osseux ; fixation par suture seule, sans fixation capsulaire supplémentaire [p. 486, Abstract ; p. 492, Discussion]",
+ "gestes_associes": "Débridement de la synovite autour de la capsule dorsale, du DCSS et du SLIL ; débridement étendu de l'articulation scapho-trapézio-trapézoïdienne et de la face ulnaire du médio-carpien recommandé ; possible concomitance arthroscopique pour stabilisateurs palmaires (EWAS 3c) non réalisée dans cette série ; résection du kyste : NR [p. 487-488, Repair Technique ; p. 492, Discussion]"
+},
+"reeducation": {
+ "immobilisation_type_position_articulations": "Plâtre antébrachial type spica (pouce inclus) ; position du poignet NR [p. 489, Postoperative Care]",
+ "immobilisation_duree": "4 semaines [p. 489, Postoperative Care]",
+ "debut_mob_passive": "NR (non précisé ; rééducation proprioceptive à partir de 4 semaines) [p. 489]",
+ "debut_mob_active": "NR (non précisé explicitement) ; mobilisation après retrait du plâtre à 4 semaines implicite [p. 489]",
+ "DTM": "NR [p. 489]",
+ "restrictions_amplitude": "NR [p. 489]",
+ "debut_renforcement_muscles": "NR ; soulèvement de charges lourdes autorisé après 3 mois [p. 490, Postoperative Care]",
+ "proprioception": "Oui : rééducation proprioceptive débutée après les 4 semaines d'immobilisation (réf. Wolff & Wolfe) ; contenu détaillé NR [p. 489, Postoperative Care]",
+ "electrostimulation": "NR",
+ "mise_en_charge": "Charges lourdes autorisées après 3 mois [p. 490, Postoperative Care]",
+ "autres_restrictions": "Reprise des tâches professionnelles progressive à partir de 2 mois [p. 489-490]",
+ "criteres_progression_type": "temporels (pas de critère clinique cité) [p. 489-490, Postoperative Care]",
+ "criteres_progression_detail": "Immobilisation 4 semaines puis proprioception ; reprise professionnelle graduelle après 2 mois ; charges lourdes après 3 mois. Aucun critère clinique ou radiologique [p. 489-490]",
+ "encadrement_kine_domicile_nb_seances": "NR (nombre de séances, encadrement et programme à domicile non décrits) [p. 489]",
+ "observance": "NR",
+ "reprise_travail": "La plupart des patients reprennent leurs tâches professionnelles progressivement après 2 mois ; reprise des activités moyenne 2,7 mois (2-5) dans le texte [p. 489-491, Results] ; table 2 : 2,5 mois (ET 0,8) [p. 492, Table 2] (incohérence)",
+ "reprise_sport": "NR (reprise sportive non rapportée)"
+},
+"resultats": {
+ "outil_principal_et_valeurs_par_temps": "QuickDASH préop 69,2 (ET 13,8) vs postop (≥12 mois) 11,0 (ET 8,2), p<0,001 ; texte : amélioration de 84 % [p. 492, Table 2 ; p. 491, Results]",
+ "douleur": "EVA préop 7,1 (ET 0,8) vs postop 1,0 (ET 0,9), p<0,001 ; texte : diminution de 87 % (calcul à partir du tableau : environ 86 %) [p. 492, Table 2 ; p. 491]",
+ "mobilite": "Flexion 66,5° (ET 15,3) à 54,0° (ET 19,8), p<0,001 ; extension 71,0° (ET 7,7) à 61,5° (ET 13,1), p<0,002 ; donc perte de mobilité (texte : flexion -19 %, extension -17 %, présenté comme valeurs moyennes) ; calcul à partir du tableau : extension -13 % (incohérence avec 17 %) [p. 492, Table 2 ; p. 491]",
+ "force": "Grip 21,3 kg (ET 10,6) à 23,4 kg (ET 7,6), p=0,375 non significatif ; texte : +5 % (calcul à partir du tableau : environ +10 %) [p. 492, Table 2 ; p. 491]",
+ "radiologie": "Distance SL 2,3 mm (ET 0,9) à 1,6 mm (ET 0,7), p=0,001 ; distance SL dynamique 3,1 à 1,6 mm, p<0,001 ; angle SL 54,8° à 51,5° (tableau), p=0,011 ; angle SL 54,8 à 51,9 dans le texte (incohérence) ; angles capitolunaire et radiolunaire inchangés (p=0,317). Arthroscopie : stabilité SL EWAS 1 chez 21 patients, EWAS 2 chez 8 [p. 492, Table 2 ; p. 491-492]",
+ "taux_reprise": "Reprise des activités quotidiennes à 2,5 mois (ET 0,8) (table 2) / 2,7 mois (2-5) (texte) ; taux de reprise du travail : NR [p. 491-492]",
+ "satisfaction": "EVA 9,0/10 (ET 1,2) ; 96 % referaient l'intervention [p. 492, Table 2 ; p. 491]",
+ "suivi_moyen": "17,3 mois (ET 2,4 ; étendue 12-23) [p. 491, Table 1 ; Results]"
+},
+"securite": {
+ "complications": "Aucune complication majeure ; complications mineures NR ; raideur et lésions nerveuses citées comme risques potentiels dans la discussion [p. 492, Results ; p. 492-493, Discussion]",
+ "reinterventions": "NR (aucune réintervention mentionnée)"
+},
+"cles": {
+ "type_etude": "Série de cas monocentrique à un seul chirurgien (avant/après) + étude cadavérique sur 4 spécimens [p. 486, 490]",
+ "effectif": "29 patients inclus et rapportés ; 4 cadavres [p. 491]",
+ "age": "41,9 ans en moyenne (25-69) ; 7 H / 22 F [p. 491, Table 1]",
+ "technique": "Capsulo-ligamentoplastie dorsale arthroscopique en round-block (suture Fiberwire n°2, DICL) sans greffe ni ancre [p. 486, 488-489]",
+ "broches": "Aucune broche ; pas de tunnel osseux ni ancre [p. 486]",
+ "immobilisation": "Plâtre spica antébrachial 4 semaines [p. 489]",
+ "debut_mobilisation": "NR pour mobilisation passive/active ; rééducation proprioceptive après 4 semaines [p. 489]",
+ "renforcement_ou_charge": "Charges lourdes autorisées après 3 mois ; début renforcement musculaire NR [p. 490]",
+ "type_criteres_progression": "Temporels uniquement [p. 489-490]",
+ "reprise_travail_sport": "Reprise professionnelle progressive à partir de 2 mois ; activités reprises en moyenne 2,7 mois (2-5) ; sport NR [p. 489-491]",
+ "resultat_fonctionnel_principal": "QuickDASH 69,2 à 11,0 ; EVA douleur 7,1 à 1,0 ; flexion/extension diminuées ; force non significative, suivi moyen 17,3 mois [p. 492, Table 2]",
+ "complications": "Aucune complication majeure ; réinterventions NR [p. 492]"
+},
+"risque_de_biais": {
+ "outil": "Checklist JBI pour séries de cas : série sans comparaison de protocoles (même protocole pour tous, avant/après) ; ROBINS-I et RoB 2 non applicables",
+ "items": {
+  "1_criteres_inclusion_clairs": "O : échec d'un traitement conservateur ≥3 mois, test de Watson positif, stades Garcia-Elias 1-3, contre-indications listées [p. 490, Case Series]",
+  "2_pathologie_mesure_standard": "O : classification Garcia-Elias et EWAS, radiographies dynamiques, IRM, arthroscopie [p. 490-491]",
+  "3_methode_identification_valide": "O : critères cliniques, radiographiques et arthroscopiques décrits [p. 490-491]",
+  "4_inclusion_consecutive": "? : NR (aucune mention de consécutivité) [p. 490]",
+  "5_inclusion_complete": "? : NR (nombre de patients éligibles/opérés sur la période inconnu, dénominateur inconnu) [p. 490-491]",
+  "6_demographie_decrite": "O : âge, sexe, côté, dominance, délai symptômes (Table 1) ; profession et sport NR [p. 491]",
+  "7_donnees_cliniques_decrites": "O : données cliniques et radiologiques avant/après, protocole post-opératoire résumé en quelques lignes [p. 489, 492, Table 2]",
+  "8_resultats_suivi_decrits": "O : suivi 12-23 mois, résultats avec valeurs, complications ; mais pas de perdus de vue rapportés [p. 491-492]",
+  "9_centre_contexte_decrits": "? : centre non nommé explicitement ; seul niveau d'expertise du chirurgien décrit [p. 490]",
+  "10_analyse_statistique_adaptee": "? : test t apparié sur données avant/après, seuil 0,05, sans correction pour multiplicité (nombreuses variables), test t sur EVA/QuickDASH, n par variable NR ; incohérences chiffres texte/tableau [p. 491-492]"
+ },
+ "synthese": "MODÉRÉ selon la règle : aucun « N » aux items 4, 5, 7 (items 4 et 5 = « ? », non « N ») ; 29 patients (≥10) ; item 5 non « N ». Réserves importantes : technique conçue par le dernier auteur (A.A.), évaluation par les auteurs (pas d'évaluateur indépendant, biais de mesure possible) ; dénominateur inconnu (consécutivité et exhaustivité NR) ; absence d'enregistrement et d'approbation éthique mentionnée ; absence de groupe témoin ; protocole post-opératoire peu détaillé. Jugement : modéré, avec risque de biais de sélection non évaluable."
+},
+"remarques": "1) Incohérences texte/tableau : reprise des activités 2,7 mois (2-5) dans le texte [p. 491-492] vs 2,5 mois (ET 0,8) Table 2 [p. 492] ; angle SL 54,8 à 51,9 (texte) vs 51,5 (Table 2) ; extension -17 % (texte) vs -13 % calculé ; force +5 % (texte) vs +10 % calculé, non significative ; EVA douleur -87 % vs -86 % calculé ; p « <0,002 » pour l'extension (inhabituel) ; la table 2 donne un angle SL postop, mais le texte cite 51,9. 2) La mobilité diminue (flexion -12,5°, extension -9,5°) malgré le discours de rigidité faible de la technique ; l'article ne tranche pas sur la raideur. 3) Le titre mentionne une série de cas ; la série n'est pas propre à la rééducation : le protocole post-opératoire est décrit en 3 phrases (spica 4 semaines, proprioception, reprise du travail 2 mois, charges 3 mois), ce qui limite l'extraction ; il s'agit d'un protocole unique, pas de comparaison. 4) Éligibilité : adultes (âge min. 25 ans), instabilité dynamique chronique, EWAS 3b ; capsulodèse arthroscopique, donc éligible, mais la technique est une capsulo-ligamentoplastie (sous-type de capsulodèse) sans réparation du SLIL. 5) Étude cadavérique (4 spécimens) hors périmètre de la rééducation ; ne pas l'utiliser pour les résultats cliniques. 6) Niveau de preuve, période, financement et enregistrement non rapportés. 7) Le centre d'inclusion n'est pas nommé ; hypothèse de l'hôpital de Tienen non confirmée dans le texte. 8) Les conflits d'intérêts : « None declared » ; l'auteur principal (C.K.G.) est l'opérateur et l'évaluateur, A.A. est concepteur de la technique."
+}
